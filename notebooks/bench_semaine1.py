@@ -1,6 +1,5 @@
 import pandas as pd
-from src.generateur import generer_serie, TYPES_DERIVE
-from src.evaluation import evaluer
+from src.generateur import generer_serie, TYPES_DERIVE, evaluer
 from src.detecteurs_base import detecteur_ks
 
 lignes = []
