@@ -4,3 +4,4 @@ pandas
 matplotlib
 river
 pytest
+torch

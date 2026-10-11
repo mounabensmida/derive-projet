@@ -1,0 +1,151 @@
+detectee,delai,fausses_alertes,methode,type
+True,87.0,0,Autoencodeur,saut_moyenne
+True,48.0,0,Autoencodeur,saut_moyenne
+True,133.0,0,Autoencodeur,saut_moyenne
+True,19.0,0,Autoencodeur,saut_moyenne
+True,36.0,0,Autoencodeur,saut_moyenne
+True,20.0,0,Autoencodeur,saut_moyenne
+True,80.0,0,Autoencodeur,saut_moyenne
+True,52.0,0,Autoencodeur,saut_moyenne
+True,56.0,0,Autoencodeur,saut_moyenne
+True,53.0,0,Autoencodeur,saut_moyenne
+True,148.0,0,Autoencodeur,graduelle
+True,268.0,0,Autoencodeur,graduelle
+True,250.0,0,Autoencodeur,graduelle
+True,229.0,0,Autoencodeur,graduelle
+True,219.0,0,Autoencodeur,graduelle
+True,166.0,0,Autoencodeur,graduelle
+True,261.0,0,Autoencodeur,graduelle
+True,191.0,0,Autoencodeur,graduelle
+True,283.0,0,Autoencodeur,graduelle
+True,222.0,0,Autoencodeur,graduelle
+True,8.0,0,Autoencodeur,variance
+True,19.0,0,Autoencodeur,variance
+True,13.0,0,Autoencodeur,variance
+True,10.0,0,Autoencodeur,variance
+True,32.0,0,Autoencodeur,variance
+True,22.0,0,Autoencodeur,variance
+True,15.0,0,Autoencodeur,variance
+True,14.0,0,Autoencodeur,variance
+True,17.0,0,Autoencodeur,variance
+True,13.0,0,Autoencodeur,variance
+True,8.0,0,Autoencodeur,saisonnalite
+True,11.0,0,Autoencodeur,saisonnalite
+True,14.0,0,Autoencodeur,saisonnalite
+True,9.0,0,Autoencodeur,saisonnalite
+True,11.0,0,Autoencodeur,saisonnalite
+True,9.0,0,Autoencodeur,saisonnalite
+True,16.0,0,Autoencodeur,saisonnalite
+True,14.0,0,Autoencodeur,saisonnalite
+True,9.0,0,Autoencodeur,saisonnalite
+True,9.0,0,Autoencodeur,saisonnalite
+False,,0,Autoencodeur,forme
+True,114.0,0,Autoencodeur,forme
+True,178.0,0,Autoencodeur,forme
+True,38.0,0,Autoencodeur,forme
+True,116.0,0,Autoencodeur,forme
+True,26.0,0,Autoencodeur,forme
+True,266.0,0,Autoencodeur,forme
+True,286.0,0,Autoencodeur,forme
+True,151.0,0,Autoencodeur,forme
+False,,0,Autoencodeur,forme
+False,,0,LSTM,saut_moyenne
+False,,0,LSTM,saut_moyenne
+False,,0,LSTM,saut_moyenne
+True,20.0,0,LSTM,saut_moyenne
+False,,0,LSTM,saut_moyenne
+False,,0,LSTM,saut_moyenne
+True,82.0,0,LSTM,saut_moyenne
+True,184.0,0,LSTM,saut_moyenne
+False,,0,LSTM,saut_moyenne
+True,88.0,0,LSTM,saut_moyenne
+False,,0,LSTM,graduelle
+False,,0,LSTM,graduelle
+False,,0,LSTM,graduelle
+True,223.0,0,LSTM,graduelle
+False,,0,LSTM,graduelle
+False,,0,LSTM,graduelle
+False,,0,LSTM,graduelle
+False,,0,LSTM,graduelle
+False,,0,LSTM,graduelle
+True,295.0,0,LSTM,graduelle
+True,12.0,0,LSTM,variance
+True,18.0,0,LSTM,variance
+True,74.0,0,LSTM,variance
+True,11.0,0,LSTM,variance
+True,166.0,0,LSTM,variance
+True,29.0,0,LSTM,variance
+True,25.0,0,LSTM,variance
+True,8.0,0,LSTM,variance
+True,15.0,0,LSTM,variance
+True,8.0,0,LSTM,variance
+True,7.0,0,LSTM,saisonnalite
+True,7.0,0,LSTM,saisonnalite
+True,18.0,0,LSTM,saisonnalite
+True,17.0,0,LSTM,saisonnalite
+True,15.0,0,LSTM,saisonnalite
+True,9.0,0,LSTM,saisonnalite
+True,14.0,0,LSTM,saisonnalite
+True,7.0,0,LSTM,saisonnalite
+True,6.0,0,LSTM,saisonnalite
+True,5.0,0,LSTM,saisonnalite
+False,,0,LSTM,forme
+False,,0,LSTM,forme
+False,,0,LSTM,forme
+False,,0,LSTM,forme
+False,,0,LSTM,forme
+False,,0,LSTM,forme
+False,,0,LSTM,forme
+False,,0,LSTM,forme
+False,,0,LSTM,forme
+False,,0,LSTM,forme
+True,140.0,0,Sans réseau (contrôle),saut_moyenne
+True,27.0,0,Sans réseau (contrôle),saut_moyenne
+True,25.0,0,Sans réseau (contrôle),saut_moyenne
+True,14.0,0,Sans réseau (contrôle),saut_moyenne
+True,26.0,0,Sans réseau (contrôle),saut_moyenne
+True,18.0,0,Sans réseau (contrôle),saut_moyenne
+True,60.0,0,Sans réseau (contrôle),saut_moyenne
+True,33.0,0,Sans réseau (contrôle),saut_moyenne
+True,9.0,0,Sans réseau (contrôle),saut_moyenne
+True,87.0,0,Sans réseau (contrôle),saut_moyenne
+False,,0,Sans réseau (contrôle),graduelle
+True,150.0,0,Sans réseau (contrôle),graduelle
+True,230.0,0,Sans réseau (contrôle),graduelle
+True,148.0,0,Sans réseau (contrôle),graduelle
+True,214.0,0,Sans réseau (contrôle),graduelle
+True,164.0,0,Sans réseau (contrôle),graduelle
+True,211.0,0,Sans réseau (contrôle),graduelle
+True,175.0,0,Sans réseau (contrôle),graduelle
+True,165.0,0,Sans réseau (contrôle),graduelle
+True,228.0,0,Sans réseau (contrôle),graduelle
+True,15.0,0,Sans réseau (contrôle),variance
+True,8.0,0,Sans réseau (contrôle),variance
+True,4.0,0,Sans réseau (contrôle),variance
+True,5.0,0,Sans réseau (contrôle),variance
+True,27.0,0,Sans réseau (contrôle),variance
+True,32.0,0,Sans réseau (contrôle),variance
+True,9.0,0,Sans réseau (contrôle),variance
+True,3.0,0,Sans réseau (contrôle),variance
+True,10.0,0,Sans réseau (contrôle),variance
+True,8.0,0,Sans réseau (contrôle),variance
+True,6.0,0,Sans réseau (contrôle),saisonnalite
+True,4.0,0,Sans réseau (contrôle),saisonnalite
+True,6.0,0,Sans réseau (contrôle),saisonnalite
+True,3.0,0,Sans réseau (contrôle),saisonnalite
+True,5.0,0,Sans réseau (contrôle),saisonnalite
+True,5.0,0,Sans réseau (contrôle),saisonnalite
+True,6.0,0,Sans réseau (contrôle),saisonnalite
+True,5.0,0,Sans réseau (contrôle),saisonnalite
+True,4.0,0,Sans réseau (contrôle),saisonnalite
+True,4.0,0,Sans réseau (contrôle),saisonnalite
+False,,0,Sans réseau (contrôle),forme
+True,188.0,0,Sans réseau (contrôle),forme
+True,185.0,0,Sans réseau (contrôle),forme
+False,,0,Sans réseau (contrôle),forme
+False,,0,Sans réseau (contrôle),forme
+True,20.0,0,Sans réseau (contrôle),forme
+False,,0,Sans réseau (contrôle),forme
+False,,0,Sans réseau (contrôle),forme
+True,150.0,0,Sans réseau (contrôle),forme
+False,,0,Sans réseau (contrôle),forme
