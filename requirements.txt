@@ -5,3 +5,4 @@ matplotlib
 river
 pytest
 torch
+scikit-learn

@@ -24,7 +24,7 @@ class AutoEncodeur:
         torch.manual_seed(graine)
         self.epoques, self.pas = epoques, pas
         self.m = nn.Sequential(nn.Linear(taille, cachees), nn.Tanh(),
-                               nn.Linear(cachees, taille))
+                            nn.Linear(cachees, taille))
 
     def apprendre(self, X, y=None):
         X = _tenseur(X)
@@ -41,7 +41,7 @@ class PredicteurMLP:
         torch.manual_seed(graine)
         self.epoques, self.pas = epoques, pas
         self.m = nn.Sequential(nn.Linear(taille, cachees), nn.Tanh(),
-                               nn.Linear(cachees, 1))
+                            nn.Linear(cachees, 1))
 
     def apprendre(self, X, y):
         # 24 valeurs passées -> la valeur suivante

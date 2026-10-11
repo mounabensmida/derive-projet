@@ -1,29 +1,25 @@
-"""Calibration : régler chaque détecteur au même niveau de fausses alertes."""
+"""Choisir le seuil de chaque détecteur pour qu'ils aient le MÊME niveau de fausses alertes."""
 from src.generateur import generer_serie
 from src.residus import residus
 
-CIBLE = 0.10          # au plus 10 % des séries calmes ont une fausse alerte
-N_CALMES = 20         # nombre de séries calmes (sans dérive)
-GRAINE_DEBUT = 100    # graines différentes de celles du banc d'essai (0 à 9)
 
-
-def taux_fausses_alertes(detecteur, reglage, utiliser_residus=True, n_calmes=N_CALMES):
-    """Proportion de séries calmes où le détecteur donne au moins une alerte."""
+def taux_fausse_alerte(detecteur, seuil, utiliser_residus=True, n_series=20, t0=1680, seed0=100):
+    """Part des séries CALMES (sans dérive) où le détecteur alerte au moins une fois avant t0."""
     nb = 0
-    for seed in range(GRAINE_DEBUT, GRAINE_DEBUT + n_calmes):
-        s, _ = generer_serie(seed=seed)   # pas de dérive : toute alerte est fausse
+    for i in range(n_series):
+        s, _ = generer_serie(seed=seed0 + i)
+        s = s[:t0]
         x = residus(s) if utiliser_residus else s
-        if len(detecteur(x, reglage)) > 0:
+        if len(detecteur(x, seuil)) > 0:
             nb += 1
-    return nb / n_calmes
+    return nb / n_series
 
 
-def calibrer(detecteur, grille, utiliser_residus=True, cible=CIBLE, n_calmes=N_CALMES):
-    """Retourne le réglage le plus sensible de la grille qui respecte la cible.
-    La grille va du plus sensible au plus prudent."""
-    for reglage in grille:
-        taux = taux_fausses_alertes(detecteur, reglage, utiliser_residus, n_calmes)
-        print(f"  réglage {reglage} : {taux:.0%} de séries calmes avec fausse alerte")
+def calibrer(detecteur, grille, utiliser_residus=True, cible=0.10, **kw):
+    """grille = seuils du PLUS sensible au PLUS prudent. Renvoie le 1er seuil qui respecte la cible."""
+    for seuil in grille:
+        taux = taux_fausse_alerte(detecteur, seuil, utiliser_residus, **kw)
+        print(f"   seuil {seuil}: {taux:.0%} de séries avec fausse alerte")
         if taux <= cible:
-            return reglage
-    return grille[-1]   # aucun ne respecte la cible : on garde le plus prudent
+            return seuil
+    return grille[-1]

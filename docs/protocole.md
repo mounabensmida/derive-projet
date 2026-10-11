@@ -49,7 +49,7 @@ Semaine 2 : Page-Hinkley, CUSUM, Mann-Whitney sur le même banc d'essai.
 
 
 
-## remarque sue le redu 
+## remarque sue le redu
 ref[k::periode] : prend les points k, k+168, k+336, k+504 : « le même créneau horaire de la semaine, chaque semaine ». On en fait la moyenne.
 
 np.arange(len(serie)) % periode : donne pour chaque point son créneau (0 à 167). % est le reste de la division : le point 170 est au créneau 2 (170 − 168).
@@ -122,10 +122,74 @@ Durée : 713 s
 
 Retirer le cycle a fait passer KS de 10 % à 90 % sur la variance.
 MW ne voit que le niveau.
-Personne ne voit la dérive de forme.
+Personne ne voit la dérive de forme.^
+=>vos taux de fausses alertes ne sont pas parfaitement égaux (de 0 % à 10 %), parce que la calibration repose sur seulement 20 séries.
 
 Les 4 conclusions à retenir
 1-Retirer le cycle aide beaucoup. Variance : KS brut 10 % contre KS résidus 90 %.
 2-Chaque détecteur a un point aveugle. MW ne voit que le niveau (pas la variance, pas la saisonnalité), donc 0 % à ces deux endroits. Ce n'est pas un bug.
 3-CUSUM et Page-Hinkley sont les plus rapides. Un compteur réagit dès les premiers points, alors qu'une fenêtre doit d'abord se remplir.
 4-Aucune méthode ne voit la dérive de "forme". Ce n'est pas un échec : c'est un résultat qui prépare la semaine 3.
+
+## en resume
+## 8. Prétraitement
+Résidus : série moins le profil hebdomadaire appris sur les semaines 1 à 4.
+Hypothèse : la période (168 h) est connue. Référence : semaines 5 et 6.
+Détection à partir de t = 1008 pour tous les détecteurs.
+
+## 9. Détecteurs comparés
+CUSUM, Page-Hinkley, KS glissant, Mann-Whitney glissant ;
+témoin : KS sur la série brute ; contrôle : ADWIN et KSWIN (river).
+
+## 10. Calibration
+Pour chaque détecteur, seuil le plus sensible tel que au plus 10 % de
+20 séries calmes (graines 100 à 119) ont une fausse alerte avant t0.
+Benchmark : graines 0 à 9, intensité 2.
+
+## 11. Limites
+Calibration sur 20 séries seulement (un écart de 5 % = 1 série).
+Période connue à l'avance. Données synthétiques. Dérives de forme non d
+étectées.
+
+
+
+
+## 12. Détecteurs appris (v3)
+Autoencodeur (24 -> 8 -> 24) : erreur de reconstruction.
+LSTM : prédiction de la valeur suivante à partir des 24 précédentes.
+Contrôle sans réseau : valeur standardisée au carré.
+Score : erreur lissée sur 24 h. Seuil : marge x le pire score de validation.
+
+## 13. Périodes
+Profil : points 0-671. Entraînement : 672-1007. Validation : 1008-1343.
+Détection : à partir de 1344. Rupture à 1680. Réseau jamais entraîné sur la dérive.
+
+## 14. Calibration
+Marge la plus sensible parmi [1,0 ; 1,2 ; 1,5 ; 2,0 ; 3,0] telle que au plus 10 % de
+20 séries calmes (graines 100 à 119) ont une fausse alerte.
+
+## 15. Limites (v3)
+Détection à partir de t = 1344 : zone de fausses alertes plus courte que les détecteurs
+de la semaine 2. 10 graines seulement : une différence de 1 à 2 séries n'est pas concluante.
+Un seul modèle par type, petits réseaux, une seule période de fenêtre (24 h).
+
+## 16. Benchmark à grande échelle (v4)
+6 méthodes x 5 dérives x 3 intensités (1, 2, 3) x 3 bruits (3, 5, 8) x 30 séries.
+Séries appariées ; graine = 1000 x numéro de case + k. 90 séries calmes pour les fausses alertes.
+
+## 17. Règles de jugement
+Tous les détecteurs sont jugés à partir de t = 1344. Détection propre (aucune alerte
+avant la rupture). Délai : première alerte dans [t0, t0 + 300 h]. Épisodes d'alerte : < 24 h = 1.
+
+## 18. Calibration (v4)
+50 séries calmes (graines 100 à 149), seuil le plus sensible tel que au plus 10 % de séries
+avec fausse alerte entre 1344 et 1680.
+
+## 19. Statistiques
+Fourchette de Wilson à 95 %. Test de signe sur les désaccords (détection), Wilcoxon apparié
+sur les délais. Seuil 0,01 (5 comparaisons).
+
+## 20. Limites (v4)
+Données synthétiques ; un seul type de réseau (8 neurones cachés, scikit-learn) ;
+calibration sur 50 séries (CUSUM : 6 % calibré, environ 16 % mesuré) ; dérive "forme"
+confondue avec une perte de mémoire ; bruit modifié via la taille relative du saut.
