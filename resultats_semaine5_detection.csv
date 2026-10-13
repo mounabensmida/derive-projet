@@ -1,0 +1,2269 @@
+methode,type,intensite,fenetre,episodes,heures,alerte_avant,detectee,delai,fausse_alerte
+CUSUM,calme,0.0,HUFL-6720,1.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,HUFL-6720,0.0,2016.0,0.0,,,
+KS,calme,0.0,HUFL-6720,2.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,HUFL-6720,2.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,HUFL-6720,8.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,HUFL-6720,2.0,2016.0,0.0,,,
+CUSUM,calme,0.0,HUFL-7560,2.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,HUFL-7560,0.0,2016.0,0.0,,,
+KS,calme,0.0,HUFL-7560,2.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,HUFL-7560,2.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,HUFL-7560,2.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,HUFL-7560,1.0,2016.0,0.0,,,
+CUSUM,calme,0.0,HUFL-8400,1.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,HUFL-8400,0.0,2016.0,0.0,,,
+KS,calme,0.0,HUFL-8400,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,HUFL-8400,3.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,HUFL-8400,0.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,HUFL-8400,0.0,2016.0,0.0,,,
+CUSUM,calme,0.0,HUFL-9240,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,HUFL-9240,0.0,2016.0,0.0,,,
+KS,calme,0.0,HUFL-9240,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,HUFL-9240,0.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,HUFL-9240,1.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,HUFL-9240,0.0,2016.0,0.0,,,
+CUSUM,calme,0.0,HUFL-10080,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,HUFL-10080,0.0,2016.0,0.0,,,
+KS,calme,0.0,HUFL-10080,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,HUFL-10080,1.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,HUFL-10080,14.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,HUFL-10080,3.0,2016.0,0.0,,,
+CUSUM,calme,0.0,HUFL-10920,1.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,HUFL-10920,0.0,2016.0,0.0,,,
+KS,calme,0.0,HUFL-10920,2.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,HUFL-10920,6.0,2016.0,1.0,,,
+Autoencodeur,calme,0.0,HUFL-10920,9.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,HUFL-10920,8.0,2016.0,1.0,,,
+CUSUM,calme,0.0,HUFL-11760,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,HUFL-11760,0.0,2016.0,0.0,,,
+KS,calme,0.0,HUFL-11760,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,HUFL-11760,0.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,HUFL-11760,15.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,HUFL-11760,8.0,2016.0,1.0,,,
+CUSUM,calme,0.0,HUFL-12600,3.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,HUFL-12600,0.0,2016.0,0.0,,,
+KS,calme,0.0,HUFL-12600,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,HUFL-12600,2.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,HUFL-12600,1.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,HUFL-12600,0.0,2016.0,0.0,,,
+CUSUM,calme,0.0,HUFL-13440,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,HUFL-13440,0.0,2016.0,0.0,,,
+KS,calme,0.0,HUFL-13440,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,HUFL-13440,0.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,HUFL-13440,2.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,HUFL-13440,3.0,2016.0,0.0,,,
+CUSUM,calme,0.0,MUFL-6720,1.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,MUFL-6720,0.0,2016.0,0.0,,,
+KS,calme,0.0,MUFL-6720,3.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,MUFL-6720,1.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,MUFL-6720,5.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,MUFL-6720,1.0,2016.0,0.0,,,
+CUSUM,calme,0.0,MUFL-7560,1.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,MUFL-7560,0.0,2016.0,0.0,,,
+KS,calme,0.0,MUFL-7560,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,MUFL-7560,1.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,MUFL-7560,1.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,MUFL-7560,1.0,2016.0,0.0,,,
+CUSUM,calme,0.0,MUFL-8400,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,MUFL-8400,0.0,2016.0,0.0,,,
+KS,calme,0.0,MUFL-8400,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,MUFL-8400,0.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,MUFL-8400,0.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,MUFL-8400,0.0,2016.0,0.0,,,
+CUSUM,calme,0.0,MUFL-9240,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,MUFL-9240,0.0,2016.0,0.0,,,
+KS,calme,0.0,MUFL-9240,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,MUFL-9240,0.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,MUFL-9240,2.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,MUFL-9240,0.0,2016.0,0.0,,,
+CUSUM,calme,0.0,MUFL-10080,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,MUFL-10080,0.0,2016.0,0.0,,,
+KS,calme,0.0,MUFL-10080,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,MUFL-10080,0.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,MUFL-10080,11.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,MUFL-10080,2.0,2016.0,0.0,,,
+CUSUM,calme,0.0,MUFL-10920,1.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,MUFL-10920,0.0,2016.0,0.0,,,
+KS,calme,0.0,MUFL-10920,3.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,MUFL-10920,3.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,MUFL-10920,9.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,MUFL-10920,6.0,2016.0,1.0,,,
+CUSUM,calme,0.0,MUFL-11760,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,MUFL-11760,0.0,2016.0,0.0,,,
+KS,calme,0.0,MUFL-11760,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,MUFL-11760,0.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,MUFL-11760,12.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,MUFL-11760,7.0,2016.0,1.0,,,
+CUSUM,calme,0.0,MUFL-12600,2.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,MUFL-12600,0.0,2016.0,0.0,,,
+KS,calme,0.0,MUFL-12600,1.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,MUFL-12600,4.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,MUFL-12600,1.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,MUFL-12600,0.0,2016.0,0.0,,,
+CUSUM,calme,0.0,MUFL-13440,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,MUFL-13440,0.0,2016.0,0.0,,,
+KS,calme,0.0,MUFL-13440,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,MUFL-13440,0.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,MUFL-13440,1.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,MUFL-13440,5.0,2016.0,1.0,,,
+CUSUM,calme,0.0,LUFL-6720,1.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,LUFL-6720,1.0,2016.0,0.0,,,
+KS,calme,0.0,LUFL-6720,1.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,LUFL-6720,1.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,LUFL-6720,3.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,LUFL-6720,3.0,2016.0,0.0,,,
+CUSUM,calme,0.0,LUFL-7560,1.0,2016.0,1.0,,,
+Page-Hinkley,calme,0.0,LUFL-7560,1.0,2016.0,1.0,,,
+KS,calme,0.0,LUFL-7560,2.0,2016.0,1.0,,,
+Mann-Whitney,calme,0.0,LUFL-7560,2.0,2016.0,1.0,,,
+Autoencodeur,calme,0.0,LUFL-7560,3.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,LUFL-7560,2.0,2016.0,1.0,,,
+CUSUM,calme,0.0,LUFL-8400,1.0,2016.0,1.0,,,
+Page-Hinkley,calme,0.0,LUFL-8400,1.0,2016.0,0.0,,,
+KS,calme,0.0,LUFL-8400,2.0,2016.0,1.0,,,
+Mann-Whitney,calme,0.0,LUFL-8400,2.0,2016.0,1.0,,,
+Autoencodeur,calme,0.0,LUFL-8400,8.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,LUFL-8400,1.0,2016.0,0.0,,,
+CUSUM,calme,0.0,LUFL-9240,1.0,2016.0,1.0,,,
+Page-Hinkley,calme,0.0,LUFL-9240,0.0,2016.0,0.0,,,
+KS,calme,0.0,LUFL-9240,1.0,2016.0,1.0,,,
+Mann-Whitney,calme,0.0,LUFL-9240,1.0,2016.0,1.0,,,
+Autoencodeur,calme,0.0,LUFL-9240,4.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,LUFL-9240,0.0,2016.0,0.0,,,
+CUSUM,calme,0.0,LUFL-10080,1.0,2016.0,1.0,,,
+Page-Hinkley,calme,0.0,LUFL-10080,1.0,2016.0,0.0,,,
+KS,calme,0.0,LUFL-10080,1.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,LUFL-10080,3.0,2016.0,1.0,,,
+Autoencodeur,calme,0.0,LUFL-10080,5.0,2016.0,1.0,,,
+Sans réseau (contrôle),calme,0.0,LUFL-10080,5.0,2016.0,0.0,,,
+CUSUM,calme,0.0,LUFL-10920,1.0,2016.0,1.0,,,
+Page-Hinkley,calme,0.0,LUFL-10920,1.0,2016.0,0.0,,,
+KS,calme,0.0,LUFL-10920,3.0,2016.0,1.0,,,
+Mann-Whitney,calme,0.0,LUFL-10920,1.0,2016.0,1.0,,,
+Autoencodeur,calme,0.0,LUFL-10920,9.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,LUFL-10920,13.0,2016.0,0.0,,,
+CUSUM,calme,0.0,LUFL-11760,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,LUFL-11760,0.0,2016.0,0.0,,,
+KS,calme,0.0,LUFL-11760,5.0,2016.0,1.0,,,
+Mann-Whitney,calme,0.0,LUFL-11760,5.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,LUFL-11760,3.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,LUFL-11760,0.0,2016.0,0.0,,,
+CUSUM,calme,0.0,LUFL-12600,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,LUFL-12600,0.0,2016.0,0.0,,,
+KS,calme,0.0,LUFL-12600,1.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,LUFL-12600,1.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,LUFL-12600,8.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,LUFL-12600,0.0,2016.0,0.0,,,
+CUSUM,calme,0.0,LUFL-13440,0.0,2016.0,0.0,,,
+Page-Hinkley,calme,0.0,LUFL-13440,0.0,2016.0,0.0,,,
+KS,calme,0.0,LUFL-13440,0.0,2016.0,0.0,,,
+Mann-Whitney,calme,0.0,LUFL-13440,0.0,2016.0,0.0,,,
+Autoencodeur,calme,0.0,LUFL-13440,0.0,2016.0,0.0,,,
+Sans réseau (contrôle),calme,0.0,LUFL-13440,0.0,2016.0,0.0,,,
+CUSUM,saut_moyenne,2.0,HUFL-6720,,,,True,47.0,False
+Page-Hinkley,saut_moyenne,2.0,HUFL-6720,,,,True,151.0,False
+KS,saut_moyenne,2.0,HUFL-6720,,,,True,55.0,False
+Mann-Whitney,saut_moyenne,2.0,HUFL-6720,,,,True,47.0,False
+Autoencodeur,saut_moyenne,2.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,HUFL-6720,,,,True,53.0,False
+CUSUM,saut_moyenne,2.0,HUFL-7560,,,,True,39.0,False
+Page-Hinkley,saut_moyenne,2.0,HUFL-7560,,,,True,75.0,False
+KS,saut_moyenne,2.0,HUFL-7560,,,,True,83.0,False
+Mann-Whitney,saut_moyenne,2.0,HUFL-7560,,,,True,63.0,False
+Autoencodeur,saut_moyenne,2.0,HUFL-7560,,,,True,18.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,HUFL-7560,,,,True,17.0,False
+CUSUM,saut_moyenne,2.0,HUFL-8400,,,,True,150.0,False
+Page-Hinkley,saut_moyenne,2.0,HUFL-8400,,,,True,158.0,False
+KS,saut_moyenne,2.0,HUFL-8400,,,,True,129.0,False
+Mann-Whitney,saut_moyenne,2.0,HUFL-8400,,,,True,113.0,False
+Autoencodeur,saut_moyenne,2.0,HUFL-8400,,,,False,,False
+Sans réseau (contrôle),saut_moyenne,2.0,HUFL-8400,,,,False,,False
+CUSUM,saut_moyenne,2.0,HUFL-9240,,,,True,167.0,False
+Page-Hinkley,saut_moyenne,2.0,HUFL-9240,,,,True,156.0,False
+KS,saut_moyenne,2.0,HUFL-9240,,,,True,139.0,False
+Mann-Whitney,saut_moyenne,2.0,HUFL-9240,,,,True,121.0,False
+Autoencodeur,saut_moyenne,2.0,HUFL-9240,,,,True,44.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,HUFL-9240,,,,True,37.0,False
+CUSUM,saut_moyenne,2.0,HUFL-10080,,,,True,181.0,False
+Page-Hinkley,saut_moyenne,2.0,HUFL-10080,,,,True,182.0,False
+KS,saut_moyenne,2.0,HUFL-10080,,,,True,138.0,False
+Mann-Whitney,saut_moyenne,2.0,HUFL-10080,,,,True,137.0,False
+Autoencodeur,saut_moyenne,2.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,HUFL-10080,,,,True,18.0,False
+CUSUM,saut_moyenne,2.0,HUFL-10920,,,,True,66.0,False
+Page-Hinkley,saut_moyenne,2.0,HUFL-10920,,,,True,146.0,False
+KS,saut_moyenne,2.0,HUFL-10920,,,,True,49.0,False
+Mann-Whitney,saut_moyenne,2.0,HUFL-10920,,,,False,,True
+Autoencodeur,saut_moyenne,2.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,HUFL-10920,,,,False,,True
+CUSUM,saut_moyenne,2.0,HUFL-11760,,,,True,121.0,False
+Page-Hinkley,saut_moyenne,2.0,HUFL-11760,,,,True,146.0,False
+KS,saut_moyenne,2.0,HUFL-11760,,,,True,107.0,False
+Mann-Whitney,saut_moyenne,2.0,HUFL-11760,,,,True,101.0,False
+Autoencodeur,saut_moyenne,2.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,HUFL-11760,,,,False,,True
+CUSUM,saut_moyenne,2.0,HUFL-12600,,,,True,120.0,False
+Page-Hinkley,saut_moyenne,2.0,HUFL-12600,,,,False,,False
+KS,saut_moyenne,2.0,HUFL-12600,,,,True,124.0,False
+Mann-Whitney,saut_moyenne,2.0,HUFL-12600,,,,True,123.0,False
+Autoencodeur,saut_moyenne,2.0,HUFL-12600,,,,True,34.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,HUFL-12600,,,,True,83.0,False
+CUSUM,saut_moyenne,2.0,HUFL-13440,,,,True,202.0,False
+Page-Hinkley,saut_moyenne,2.0,HUFL-13440,,,,True,180.0,False
+KS,saut_moyenne,2.0,HUFL-13440,,,,True,161.0,False
+Mann-Whitney,saut_moyenne,2.0,HUFL-13440,,,,True,149.0,False
+Autoencodeur,saut_moyenne,2.0,HUFL-13440,,,,True,18.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,HUFL-13440,,,,True,6.0,False
+CUSUM,saut_moyenne,2.0,MUFL-6720,,,,True,56.0,False
+Page-Hinkley,saut_moyenne,2.0,MUFL-6720,,,,True,156.0,False
+KS,saut_moyenne,2.0,MUFL-6720,,,,True,77.0,False
+Mann-Whitney,saut_moyenne,2.0,MUFL-6720,,,,True,50.0,False
+Autoencodeur,saut_moyenne,2.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,MUFL-6720,,,,True,61.0,False
+CUSUM,saut_moyenne,2.0,MUFL-7560,,,,True,75.0,False
+Page-Hinkley,saut_moyenne,2.0,MUFL-7560,,,,True,99.0,False
+KS,saut_moyenne,2.0,MUFL-7560,,,,True,92.0,False
+Mann-Whitney,saut_moyenne,2.0,MUFL-7560,,,,True,91.0,False
+Autoencodeur,saut_moyenne,2.0,MUFL-7560,,,,True,24.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,MUFL-7560,,,,True,31.0,False
+CUSUM,saut_moyenne,2.0,MUFL-8400,,,,True,146.0,False
+Page-Hinkley,saut_moyenne,2.0,MUFL-8400,,,,True,156.0,False
+KS,saut_moyenne,2.0,MUFL-8400,,,,True,114.0,False
+Mann-Whitney,saut_moyenne,2.0,MUFL-8400,,,,True,109.0,False
+Autoencodeur,saut_moyenne,2.0,MUFL-8400,,,,True,121.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,MUFL-8400,,,,False,,False
+CUSUM,saut_moyenne,2.0,MUFL-9240,,,,True,151.0,False
+Page-Hinkley,saut_moyenne,2.0,MUFL-9240,,,,True,154.0,False
+KS,saut_moyenne,2.0,MUFL-9240,,,,True,101.0,False
+Mann-Whitney,saut_moyenne,2.0,MUFL-9240,,,,True,99.0,False
+Autoencodeur,saut_moyenne,2.0,MUFL-9240,,,,True,39.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,MUFL-9240,,,,True,35.0,False
+CUSUM,saut_moyenne,2.0,MUFL-10080,,,,True,187.0,False
+Page-Hinkley,saut_moyenne,2.0,MUFL-10080,,,,True,183.0,False
+KS,saut_moyenne,2.0,MUFL-10080,,,,True,143.0,False
+Mann-Whitney,saut_moyenne,2.0,MUFL-10080,,,,True,143.0,False
+Autoencodeur,saut_moyenne,2.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,MUFL-10080,,,,True,8.0,False
+CUSUM,saut_moyenne,2.0,MUFL-10920,,,,True,85.0,False
+Page-Hinkley,saut_moyenne,2.0,MUFL-10920,,,,True,155.0,False
+KS,saut_moyenne,2.0,MUFL-10920,,,,True,68.0,False
+Mann-Whitney,saut_moyenne,2.0,MUFL-10920,,,,True,52.0,False
+Autoencodeur,saut_moyenne,2.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,MUFL-10920,,,,False,,True
+CUSUM,saut_moyenne,2.0,MUFL-11760,,,,True,125.0,False
+Page-Hinkley,saut_moyenne,2.0,MUFL-11760,,,,True,150.0,False
+KS,saut_moyenne,2.0,MUFL-11760,,,,True,109.0,False
+Mann-Whitney,saut_moyenne,2.0,MUFL-11760,,,,True,109.0,False
+Autoencodeur,saut_moyenne,2.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,MUFL-11760,,,,False,,True
+CUSUM,saut_moyenne,2.0,MUFL-12600,,,,True,117.0,False
+Page-Hinkley,saut_moyenne,2.0,MUFL-12600,,,,True,235.0,False
+KS,saut_moyenne,2.0,MUFL-12600,,,,True,101.0,False
+Mann-Whitney,saut_moyenne,2.0,MUFL-12600,,,,True,114.0,False
+Autoencodeur,saut_moyenne,2.0,MUFL-12600,,,,True,32.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,MUFL-12600,,,,True,65.0,False
+CUSUM,saut_moyenne,2.0,MUFL-13440,,,,True,205.0,False
+Page-Hinkley,saut_moyenne,2.0,MUFL-13440,,,,True,189.0,False
+KS,saut_moyenne,2.0,MUFL-13440,,,,True,151.0,False
+Mann-Whitney,saut_moyenne,2.0,MUFL-13440,,,,True,148.0,False
+Autoencodeur,saut_moyenne,2.0,MUFL-13440,,,,True,181.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,MUFL-13440,,,,False,,True
+CUSUM,saut_moyenne,2.0,LUFL-6720,,,,True,105.0,False
+Page-Hinkley,saut_moyenne,2.0,LUFL-6720,,,,True,132.0,False
+KS,saut_moyenne,2.0,LUFL-6720,,,,True,59.0,False
+Mann-Whitney,saut_moyenne,2.0,LUFL-6720,,,,True,27.0,False
+Autoencodeur,saut_moyenne,2.0,LUFL-6720,,,,True,286.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,LUFL-6720,,,,True,289.0,False
+CUSUM,saut_moyenne,2.0,LUFL-7560,,,,False,,True
+Page-Hinkley,saut_moyenne,2.0,LUFL-7560,,,,False,,True
+KS,saut_moyenne,2.0,LUFL-7560,,,,False,,True
+Mann-Whitney,saut_moyenne,2.0,LUFL-7560,,,,False,,True
+Autoencodeur,saut_moyenne,2.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,LUFL-7560,,,,False,,True
+CUSUM,saut_moyenne,2.0,LUFL-8400,,,,False,,True
+Page-Hinkley,saut_moyenne,2.0,LUFL-8400,,,,False,,False
+KS,saut_moyenne,2.0,LUFL-8400,,,,False,,True
+Mann-Whitney,saut_moyenne,2.0,LUFL-8400,,,,False,,True
+Autoencodeur,saut_moyenne,2.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,LUFL-8400,,,,False,,False
+CUSUM,saut_moyenne,2.0,LUFL-9240,,,,False,,True
+Page-Hinkley,saut_moyenne,2.0,LUFL-9240,,,,True,225.0,False
+KS,saut_moyenne,2.0,LUFL-9240,,,,False,,True
+Mann-Whitney,saut_moyenne,2.0,LUFL-9240,,,,False,,True
+Autoencodeur,saut_moyenne,2.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,LUFL-9240,,,,False,,False
+CUSUM,saut_moyenne,2.0,LUFL-10080,,,,False,,True
+Page-Hinkley,saut_moyenne,2.0,LUFL-10080,,,,True,63.0,False
+KS,saut_moyenne,2.0,LUFL-10080,,,,True,48.0,False
+Mann-Whitney,saut_moyenne,2.0,LUFL-10080,,,,False,,True
+Autoencodeur,saut_moyenne,2.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,2.0,LUFL-10080,,,,True,9.0,False
+CUSUM,saut_moyenne,2.0,LUFL-10920,,,,False,,True
+Page-Hinkley,saut_moyenne,2.0,LUFL-10920,,,,True,43.0,False
+KS,saut_moyenne,2.0,LUFL-10920,,,,False,,True
+Mann-Whitney,saut_moyenne,2.0,LUFL-10920,,,,False,,True
+Autoencodeur,saut_moyenne,2.0,LUFL-10920,,,,True,18.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,LUFL-10920,,,,True,14.0,False
+CUSUM,saut_moyenne,2.0,LUFL-11760,,,,True,104.0,False
+Page-Hinkley,saut_moyenne,2.0,LUFL-11760,,,,True,128.0,False
+KS,saut_moyenne,2.0,LUFL-11760,,,,False,,True
+Mann-Whitney,saut_moyenne,2.0,LUFL-11760,,,,True,2.0,False
+Autoencodeur,saut_moyenne,2.0,LUFL-11760,,,,True,36.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,LUFL-11760,,,,True,49.0,False
+CUSUM,saut_moyenne,2.0,LUFL-12600,,,,True,144.0,False
+Page-Hinkley,saut_moyenne,2.0,LUFL-12600,,,,False,,False
+KS,saut_moyenne,2.0,LUFL-12600,,,,True,144.0,False
+Mann-Whitney,saut_moyenne,2.0,LUFL-12600,,,,True,133.0,False
+Autoencodeur,saut_moyenne,2.0,LUFL-12600,,,,True,25.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,LUFL-12600,,,,True,116.0,False
+CUSUM,saut_moyenne,2.0,LUFL-13440,,,,True,147.0,False
+Page-Hinkley,saut_moyenne,2.0,LUFL-13440,,,,True,99.0,False
+KS,saut_moyenne,2.0,LUFL-13440,,,,True,157.0,False
+Mann-Whitney,saut_moyenne,2.0,LUFL-13440,,,,True,144.0,False
+Autoencodeur,saut_moyenne,2.0,LUFL-13440,,,,True,22.0,False
+Sans réseau (contrôle),saut_moyenne,2.0,LUFL-13440,,,,False,,False
+CUSUM,saut_moyenne,4.0,HUFL-6720,,,,True,24.0,False
+Page-Hinkley,saut_moyenne,4.0,HUFL-6720,,,,True,62.0,False
+KS,saut_moyenne,4.0,HUFL-6720,,,,True,55.0,False
+Mann-Whitney,saut_moyenne,4.0,HUFL-6720,,,,True,30.0,False
+Autoencodeur,saut_moyenne,4.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,HUFL-6720,,,,True,9.0,False
+CUSUM,saut_moyenne,4.0,HUFL-7560,,,,True,24.0,False
+Page-Hinkley,saut_moyenne,4.0,HUFL-7560,,,,True,43.0,False
+KS,saut_moyenne,4.0,HUFL-7560,,,,True,79.0,False
+Mann-Whitney,saut_moyenne,4.0,HUFL-7560,,,,True,54.0,False
+Autoencodeur,saut_moyenne,4.0,HUFL-7560,,,,True,9.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,HUFL-7560,,,,True,3.0,False
+CUSUM,saut_moyenne,4.0,HUFL-8400,,,,True,65.0,False
+Page-Hinkley,saut_moyenne,4.0,HUFL-8400,,,,True,68.0,False
+KS,saut_moyenne,4.0,HUFL-8400,,,,True,98.0,False
+Mann-Whitney,saut_moyenne,4.0,HUFL-8400,,,,True,90.0,False
+Autoencodeur,saut_moyenne,4.0,HUFL-8400,,,,True,20.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,HUFL-8400,,,,True,19.0,False
+CUSUM,saut_moyenne,4.0,HUFL-9240,,,,True,69.0,False
+Page-Hinkley,saut_moyenne,4.0,HUFL-9240,,,,True,65.0,False
+KS,saut_moyenne,4.0,HUFL-9240,,,,True,90.0,False
+Mann-Whitney,saut_moyenne,4.0,HUFL-9240,,,,True,97.0,False
+Autoencodeur,saut_moyenne,4.0,HUFL-9240,,,,True,12.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,HUFL-9240,,,,True,11.0,False
+CUSUM,saut_moyenne,4.0,HUFL-10080,,,,True,67.0,False
+Page-Hinkley,saut_moyenne,4.0,HUFL-10080,,,,True,67.0,False
+KS,saut_moyenne,4.0,HUFL-10080,,,,True,90.0,False
+Mann-Whitney,saut_moyenne,4.0,HUFL-10080,,,,True,98.0,False
+Autoencodeur,saut_moyenne,4.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,HUFL-10080,,,,True,2.0,False
+CUSUM,saut_moyenne,4.0,HUFL-10920,,,,True,31.0,False
+Page-Hinkley,saut_moyenne,4.0,HUFL-10920,,,,True,63.0,False
+KS,saut_moyenne,4.0,HUFL-10920,,,,True,46.0,False
+Mann-Whitney,saut_moyenne,4.0,HUFL-10920,,,,False,,True
+Autoencodeur,saut_moyenne,4.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,HUFL-10920,,,,False,,True
+CUSUM,saut_moyenne,4.0,HUFL-11760,,,,True,54.0,False
+Page-Hinkley,saut_moyenne,4.0,HUFL-11760,,,,True,58.0,False
+KS,saut_moyenne,4.0,HUFL-11760,,,,True,79.0,False
+Mann-Whitney,saut_moyenne,4.0,HUFL-11760,,,,True,79.0,False
+Autoencodeur,saut_moyenne,4.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,HUFL-11760,,,,False,,True
+CUSUM,saut_moyenne,4.0,HUFL-12600,,,,True,61.0,False
+Page-Hinkley,saut_moyenne,4.0,HUFL-12600,,,,True,67.0,False
+KS,saut_moyenne,4.0,HUFL-12600,,,,True,100.0,False
+Mann-Whitney,saut_moyenne,4.0,HUFL-12600,,,,True,104.0,False
+Autoencodeur,saut_moyenne,4.0,HUFL-12600,,,,True,15.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,HUFL-12600,,,,True,12.0,False
+CUSUM,saut_moyenne,4.0,HUFL-13440,,,,True,69.0,False
+Page-Hinkley,saut_moyenne,4.0,HUFL-13440,,,,True,63.0,False
+KS,saut_moyenne,4.0,HUFL-13440,,,,True,93.0,False
+Mann-Whitney,saut_moyenne,4.0,HUFL-13440,,,,True,105.0,False
+Autoencodeur,saut_moyenne,4.0,HUFL-13440,,,,True,6.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,HUFL-13440,,,,True,2.0,False
+CUSUM,saut_moyenne,4.0,MUFL-6720,,,,True,27.0,False
+Page-Hinkley,saut_moyenne,4.0,MUFL-6720,,,,True,63.0,False
+KS,saut_moyenne,4.0,MUFL-6720,,,,True,77.0,False
+Mann-Whitney,saut_moyenne,4.0,MUFL-6720,,,,True,45.0,False
+Autoencodeur,saut_moyenne,4.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,MUFL-6720,,,,True,9.0,False
+CUSUM,saut_moyenne,4.0,MUFL-7560,,,,True,44.0,False
+Page-Hinkley,saut_moyenne,4.0,MUFL-7560,,,,True,49.0,False
+KS,saut_moyenne,4.0,MUFL-7560,,,,True,87.0,False
+Mann-Whitney,saut_moyenne,4.0,MUFL-7560,,,,True,86.0,False
+Autoencodeur,saut_moyenne,4.0,MUFL-7560,,,,True,10.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,MUFL-7560,,,,True,5.0,False
+CUSUM,saut_moyenne,4.0,MUFL-8400,,,,True,65.0,False
+Page-Hinkley,saut_moyenne,4.0,MUFL-8400,,,,True,67.0,False
+KS,saut_moyenne,4.0,MUFL-8400,,,,True,90.0,False
+Mann-Whitney,saut_moyenne,4.0,MUFL-8400,,,,True,87.0,False
+Autoencodeur,saut_moyenne,4.0,MUFL-8400,,,,True,18.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,MUFL-8400,,,,True,16.0,False
+CUSUM,saut_moyenne,4.0,MUFL-9240,,,,True,62.0,False
+Page-Hinkley,saut_moyenne,4.0,MUFL-9240,,,,True,62.0,False
+KS,saut_moyenne,4.0,MUFL-9240,,,,True,83.0,False
+Mann-Whitney,saut_moyenne,4.0,MUFL-9240,,,,True,90.0,False
+Autoencodeur,saut_moyenne,4.0,MUFL-9240,,,,True,11.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,MUFL-9240,,,,True,10.0,False
+CUSUM,saut_moyenne,4.0,MUFL-10080,,,,True,69.0,False
+Page-Hinkley,saut_moyenne,4.0,MUFL-10080,,,,True,68.0,False
+KS,saut_moyenne,4.0,MUFL-10080,,,,True,89.0,False
+Mann-Whitney,saut_moyenne,4.0,MUFL-10080,,,,True,116.0,False
+Autoencodeur,saut_moyenne,4.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,MUFL-10080,,,,True,1.0,False
+CUSUM,saut_moyenne,4.0,MUFL-10920,,,,True,40.0,False
+Page-Hinkley,saut_moyenne,4.0,MUFL-10920,,,,True,66.0,False
+KS,saut_moyenne,4.0,MUFL-10920,,,,True,60.0,False
+Mann-Whitney,saut_moyenne,4.0,MUFL-10920,,,,True,47.0,False
+Autoencodeur,saut_moyenne,4.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,MUFL-10920,,,,False,,True
+CUSUM,saut_moyenne,4.0,MUFL-11760,,,,True,55.0,False
+Page-Hinkley,saut_moyenne,4.0,MUFL-11760,,,,True,59.0,False
+KS,saut_moyenne,4.0,MUFL-11760,,,,True,88.0,False
+Mann-Whitney,saut_moyenne,4.0,MUFL-11760,,,,True,87.0,False
+Autoencodeur,saut_moyenne,4.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,MUFL-11760,,,,False,,True
+CUSUM,saut_moyenne,4.0,MUFL-12600,,,,True,61.0,False
+Page-Hinkley,saut_moyenne,4.0,MUFL-12600,,,,True,66.0,False
+KS,saut_moyenne,4.0,MUFL-12600,,,,True,96.0,False
+Mann-Whitney,saut_moyenne,4.0,MUFL-12600,,,,True,103.0,False
+Autoencodeur,saut_moyenne,4.0,MUFL-12600,,,,True,15.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,MUFL-12600,,,,True,11.0,False
+CUSUM,saut_moyenne,4.0,MUFL-13440,,,,True,71.0,False
+Page-Hinkley,saut_moyenne,4.0,MUFL-13440,,,,True,66.0,False
+KS,saut_moyenne,4.0,MUFL-13440,,,,True,93.0,False
+Mann-Whitney,saut_moyenne,4.0,MUFL-13440,,,,True,100.0,False
+Autoencodeur,saut_moyenne,4.0,MUFL-13440,,,,True,7.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,MUFL-13440,,,,False,,True
+CUSUM,saut_moyenne,4.0,LUFL-6720,,,,True,52.0,False
+Page-Hinkley,saut_moyenne,4.0,LUFL-6720,,,,True,58.0,False
+KS,saut_moyenne,4.0,LUFL-6720,,,,True,33.0,False
+Mann-Whitney,saut_moyenne,4.0,LUFL-6720,,,,True,24.0,False
+Autoencodeur,saut_moyenne,4.0,LUFL-6720,,,,True,34.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,LUFL-6720,,,,True,31.0,False
+CUSUM,saut_moyenne,4.0,LUFL-7560,,,,False,,True
+Page-Hinkley,saut_moyenne,4.0,LUFL-7560,,,,False,,True
+KS,saut_moyenne,4.0,LUFL-7560,,,,False,,True
+Mann-Whitney,saut_moyenne,4.0,LUFL-7560,,,,False,,True
+Autoencodeur,saut_moyenne,4.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,LUFL-7560,,,,False,,True
+CUSUM,saut_moyenne,4.0,LUFL-8400,,,,False,,True
+Page-Hinkley,saut_moyenne,4.0,LUFL-8400,,,,True,70.0,False
+KS,saut_moyenne,4.0,LUFL-8400,,,,False,,True
+Mann-Whitney,saut_moyenne,4.0,LUFL-8400,,,,False,,True
+Autoencodeur,saut_moyenne,4.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,LUFL-8400,,,,True,15.0,False
+CUSUM,saut_moyenne,4.0,LUFL-9240,,,,False,,True
+Page-Hinkley,saut_moyenne,4.0,LUFL-9240,,,,True,67.0,False
+KS,saut_moyenne,4.0,LUFL-9240,,,,False,,True
+Mann-Whitney,saut_moyenne,4.0,LUFL-9240,,,,False,,True
+Autoencodeur,saut_moyenne,4.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,LUFL-9240,,,,True,50.0,False
+CUSUM,saut_moyenne,4.0,LUFL-10080,,,,False,,True
+Page-Hinkley,saut_moyenne,4.0,LUFL-10080,,,,True,32.0,False
+KS,saut_moyenne,4.0,LUFL-10080,,,,True,47.0,False
+Mann-Whitney,saut_moyenne,4.0,LUFL-10080,,,,False,,True
+Autoencodeur,saut_moyenne,4.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,4.0,LUFL-10080,,,,True,3.0,False
+CUSUM,saut_moyenne,4.0,LUFL-10920,,,,False,,True
+Page-Hinkley,saut_moyenne,4.0,LUFL-10920,,,,True,28.0,False
+KS,saut_moyenne,4.0,LUFL-10920,,,,False,,True
+Mann-Whitney,saut_moyenne,4.0,LUFL-10920,,,,False,,True
+Autoencodeur,saut_moyenne,4.0,LUFL-10920,,,,True,12.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,LUFL-10920,,,,True,5.0,False
+CUSUM,saut_moyenne,4.0,LUFL-11760,,,,True,49.0,False
+Page-Hinkley,saut_moyenne,4.0,LUFL-11760,,,,True,54.0,False
+KS,saut_moyenne,4.0,LUFL-11760,,,,False,,True
+Mann-Whitney,saut_moyenne,4.0,LUFL-11760,,,,True,2.0,False
+Autoencodeur,saut_moyenne,4.0,LUFL-11760,,,,True,14.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,LUFL-11760,,,,True,11.0,False
+CUSUM,saut_moyenne,4.0,LUFL-12600,,,,True,62.0,False
+Page-Hinkley,saut_moyenne,4.0,LUFL-12600,,,,True,67.0,False
+KS,saut_moyenne,4.0,LUFL-12600,,,,True,95.0,False
+Mann-Whitney,saut_moyenne,4.0,LUFL-12600,,,,True,106.0,False
+Autoencodeur,saut_moyenne,4.0,LUFL-12600,,,,True,9.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,LUFL-12600,,,,True,7.0,False
+CUSUM,saut_moyenne,4.0,LUFL-13440,,,,True,50.0,False
+Page-Hinkley,saut_moyenne,4.0,LUFL-13440,,,,True,48.0,False
+KS,saut_moyenne,4.0,LUFL-13440,,,,True,83.0,False
+Mann-Whitney,saut_moyenne,4.0,LUFL-13440,,,,True,119.0,False
+Autoencodeur,saut_moyenne,4.0,LUFL-13440,,,,True,12.0,False
+Sans réseau (contrôle),saut_moyenne,4.0,LUFL-13440,,,,True,6.0,False
+CUSUM,saut_moyenne,6.0,HUFL-6720,,,,True,15.0,False
+Page-Hinkley,saut_moyenne,6.0,HUFL-6720,,,,True,40.0,False
+KS,saut_moyenne,6.0,HUFL-6720,,,,True,55.0,False
+Mann-Whitney,saut_moyenne,6.0,HUFL-6720,,,,True,30.0,False
+Autoencodeur,saut_moyenne,6.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,HUFL-6720,,,,True,4.0,False
+CUSUM,saut_moyenne,6.0,HUFL-7560,,,,True,18.0,False
+Page-Hinkley,saut_moyenne,6.0,HUFL-7560,,,,True,29.0,False
+KS,saut_moyenne,6.0,HUFL-7560,,,,True,79.0,False
+Mann-Whitney,saut_moyenne,6.0,HUFL-7560,,,,True,54.0,False
+Autoencodeur,saut_moyenne,6.0,HUFL-7560,,,,True,6.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,HUFL-7560,,,,True,2.0,False
+CUSUM,saut_moyenne,6.0,HUFL-8400,,,,True,36.0,False
+Page-Hinkley,saut_moyenne,6.0,HUFL-8400,,,,True,37.0,False
+KS,saut_moyenne,6.0,HUFL-8400,,,,True,87.0,False
+Mann-Whitney,saut_moyenne,6.0,HUFL-8400,,,,True,88.0,False
+Autoencodeur,saut_moyenne,6.0,HUFL-8400,,,,True,12.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,HUFL-8400,,,,True,6.0,False
+CUSUM,saut_moyenne,6.0,HUFL-9240,,,,True,40.0,False
+Page-Hinkley,saut_moyenne,6.0,HUFL-9240,,,,True,38.0,False
+KS,saut_moyenne,6.0,HUFL-9240,,,,True,87.0,False
+Mann-Whitney,saut_moyenne,6.0,HUFL-9240,,,,True,96.0,False
+Autoencodeur,saut_moyenne,6.0,HUFL-9240,,,,True,6.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,HUFL-9240,,,,True,4.0,False
+CUSUM,saut_moyenne,6.0,HUFL-10080,,,,True,40.0,False
+Page-Hinkley,saut_moyenne,6.0,HUFL-10080,,,,True,40.0,False
+KS,saut_moyenne,6.0,HUFL-10080,,,,True,83.0,False
+Mann-Whitney,saut_moyenne,6.0,HUFL-10080,,,,True,97.0,False
+Autoencodeur,saut_moyenne,6.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,HUFL-10080,,,,True,1.0,False
+CUSUM,saut_moyenne,6.0,HUFL-10920,,,,True,21.0,False
+Page-Hinkley,saut_moyenne,6.0,HUFL-10920,,,,True,38.0,False
+KS,saut_moyenne,6.0,HUFL-10920,,,,True,46.0,False
+Mann-Whitney,saut_moyenne,6.0,HUFL-10920,,,,False,,True
+Autoencodeur,saut_moyenne,6.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,HUFL-10920,,,,False,,True
+CUSUM,saut_moyenne,6.0,HUFL-11760,,,,True,36.0,False
+Page-Hinkley,saut_moyenne,6.0,HUFL-11760,,,,True,38.0,False
+KS,saut_moyenne,6.0,HUFL-11760,,,,True,79.0,False
+Mann-Whitney,saut_moyenne,6.0,HUFL-11760,,,,True,77.0,False
+Autoencodeur,saut_moyenne,6.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,HUFL-11760,,,,False,,True
+CUSUM,saut_moyenne,6.0,HUFL-12600,,,,True,38.0,False
+Page-Hinkley,saut_moyenne,6.0,HUFL-12600,,,,True,43.0,False
+KS,saut_moyenne,6.0,HUFL-12600,,,,True,91.0,False
+Mann-Whitney,saut_moyenne,6.0,HUFL-12600,,,,True,102.0,False
+Autoencodeur,saut_moyenne,6.0,HUFL-12600,,,,True,10.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,HUFL-12600,,,,True,7.0,False
+CUSUM,saut_moyenne,6.0,HUFL-13440,,,,True,40.0,False
+Page-Hinkley,saut_moyenne,6.0,HUFL-13440,,,,True,38.0,False
+KS,saut_moyenne,6.0,HUFL-13440,,,,True,86.0,False
+Mann-Whitney,saut_moyenne,6.0,HUFL-13440,,,,True,103.0,False
+Autoencodeur,saut_moyenne,6.0,HUFL-13440,,,,True,4.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,HUFL-13440,,,,True,1.0,False
+CUSUM,saut_moyenne,6.0,MUFL-6720,,,,True,18.0,False
+Page-Hinkley,saut_moyenne,6.0,MUFL-6720,,,,True,40.0,False
+KS,saut_moyenne,6.0,MUFL-6720,,,,True,77.0,False
+Mann-Whitney,saut_moyenne,6.0,MUFL-6720,,,,True,45.0,False
+Autoencodeur,saut_moyenne,6.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,MUFL-6720,,,,True,4.0,False
+CUSUM,saut_moyenne,6.0,MUFL-7560,,,,True,30.0,False
+Page-Hinkley,saut_moyenne,6.0,MUFL-7560,,,,True,32.0,False
+KS,saut_moyenne,6.0,MUFL-7560,,,,True,87.0,False
+Mann-Whitney,saut_moyenne,6.0,MUFL-7560,,,,True,85.0,False
+Autoencodeur,saut_moyenne,6.0,MUFL-7560,,,,True,7.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,MUFL-7560,,,,True,2.0,False
+CUSUM,saut_moyenne,6.0,MUFL-8400,,,,True,36.0,False
+Page-Hinkley,saut_moyenne,6.0,MUFL-8400,,,,True,37.0,False
+KS,saut_moyenne,6.0,MUFL-8400,,,,True,87.0,False
+Mann-Whitney,saut_moyenne,6.0,MUFL-8400,,,,True,86.0,False
+Autoencodeur,saut_moyenne,6.0,MUFL-8400,,,,True,10.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,MUFL-8400,,,,True,5.0,False
+CUSUM,saut_moyenne,6.0,MUFL-9240,,,,True,38.0,False
+Page-Hinkley,saut_moyenne,6.0,MUFL-9240,,,,True,38.0,False
+KS,saut_moyenne,6.0,MUFL-9240,,,,True,83.0,False
+Mann-Whitney,saut_moyenne,6.0,MUFL-9240,,,,True,89.0,False
+Autoencodeur,saut_moyenne,6.0,MUFL-9240,,,,True,6.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,MUFL-9240,,,,True,4.0,False
+CUSUM,saut_moyenne,6.0,MUFL-10080,,,,True,41.0,False
+Page-Hinkley,saut_moyenne,6.0,MUFL-10080,,,,True,41.0,False
+KS,saut_moyenne,6.0,MUFL-10080,,,,True,83.0,False
+Mann-Whitney,saut_moyenne,6.0,MUFL-10080,,,,True,114.0,False
+Autoencodeur,saut_moyenne,6.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,MUFL-10080,,,,True,0.0,False
+CUSUM,saut_moyenne,6.0,MUFL-10920,,,,True,25.0,False
+Page-Hinkley,saut_moyenne,6.0,MUFL-10920,,,,True,40.0,False
+KS,saut_moyenne,6.0,MUFL-10920,,,,True,60.0,False
+Mann-Whitney,saut_moyenne,6.0,MUFL-10920,,,,True,46.0,False
+Autoencodeur,saut_moyenne,6.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,MUFL-10920,,,,False,,True
+CUSUM,saut_moyenne,6.0,MUFL-11760,,,,True,36.0,False
+Page-Hinkley,saut_moyenne,6.0,MUFL-11760,,,,True,38.0,False
+KS,saut_moyenne,6.0,MUFL-11760,,,,True,88.0,False
+Mann-Whitney,saut_moyenne,6.0,MUFL-11760,,,,True,86.0,False
+Autoencodeur,saut_moyenne,6.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,MUFL-11760,,,,False,,True
+CUSUM,saut_moyenne,6.0,MUFL-12600,,,,True,38.0,False
+Page-Hinkley,saut_moyenne,6.0,MUFL-12600,,,,True,43.0,False
+KS,saut_moyenne,6.0,MUFL-12600,,,,True,91.0,False
+Mann-Whitney,saut_moyenne,6.0,MUFL-12600,,,,True,101.0,False
+Autoencodeur,saut_moyenne,6.0,MUFL-12600,,,,True,9.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,MUFL-12600,,,,True,6.0,False
+CUSUM,saut_moyenne,6.0,MUFL-13440,,,,True,42.0,False
+Page-Hinkley,saut_moyenne,6.0,MUFL-13440,,,,True,39.0,False
+KS,saut_moyenne,6.0,MUFL-13440,,,,True,86.0,False
+Mann-Whitney,saut_moyenne,6.0,MUFL-13440,,,,True,99.0,False
+Autoencodeur,saut_moyenne,6.0,MUFL-13440,,,,True,4.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,MUFL-13440,,,,False,,True
+CUSUM,saut_moyenne,6.0,LUFL-6720,,,,True,35.0,False
+Page-Hinkley,saut_moyenne,6.0,LUFL-6720,,,,True,39.0,False
+KS,saut_moyenne,6.0,LUFL-6720,,,,True,33.0,False
+Mann-Whitney,saut_moyenne,6.0,LUFL-6720,,,,True,24.0,False
+Autoencodeur,saut_moyenne,6.0,LUFL-6720,,,,True,21.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,LUFL-6720,,,,True,13.0,False
+CUSUM,saut_moyenne,6.0,LUFL-7560,,,,False,,True
+Page-Hinkley,saut_moyenne,6.0,LUFL-7560,,,,False,,True
+KS,saut_moyenne,6.0,LUFL-7560,,,,False,,True
+Mann-Whitney,saut_moyenne,6.0,LUFL-7560,,,,False,,True
+Autoencodeur,saut_moyenne,6.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,LUFL-7560,,,,False,,True
+CUSUM,saut_moyenne,6.0,LUFL-8400,,,,False,,True
+Page-Hinkley,saut_moyenne,6.0,LUFL-8400,,,,True,40.0,False
+KS,saut_moyenne,6.0,LUFL-8400,,,,False,,True
+Mann-Whitney,saut_moyenne,6.0,LUFL-8400,,,,False,,True
+Autoencodeur,saut_moyenne,6.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,LUFL-8400,,,,True,4.0,False
+CUSUM,saut_moyenne,6.0,LUFL-9240,,,,False,,True
+Page-Hinkley,saut_moyenne,6.0,LUFL-9240,,,,True,42.0,False
+KS,saut_moyenne,6.0,LUFL-9240,,,,False,,True
+Mann-Whitney,saut_moyenne,6.0,LUFL-9240,,,,False,,True
+Autoencodeur,saut_moyenne,6.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,LUFL-9240,,,,True,5.0,False
+CUSUM,saut_moyenne,6.0,LUFL-10080,,,,False,,True
+Page-Hinkley,saut_moyenne,6.0,LUFL-10080,,,,True,22.0,False
+KS,saut_moyenne,6.0,LUFL-10080,,,,True,47.0,False
+Mann-Whitney,saut_moyenne,6.0,LUFL-10080,,,,False,,True
+Autoencodeur,saut_moyenne,6.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),saut_moyenne,6.0,LUFL-10080,,,,True,2.0,False
+CUSUM,saut_moyenne,6.0,LUFL-10920,,,,False,,True
+Page-Hinkley,saut_moyenne,6.0,LUFL-10920,,,,True,24.0,False
+KS,saut_moyenne,6.0,LUFL-10920,,,,False,,True
+Mann-Whitney,saut_moyenne,6.0,LUFL-10920,,,,False,,True
+Autoencodeur,saut_moyenne,6.0,LUFL-10920,,,,True,8.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,LUFL-10920,,,,True,3.0,False
+CUSUM,saut_moyenne,6.0,LUFL-11760,,,,True,33.0,False
+Page-Hinkley,saut_moyenne,6.0,LUFL-11760,,,,True,38.0,False
+KS,saut_moyenne,6.0,LUFL-11760,,,,False,,True
+Mann-Whitney,saut_moyenne,6.0,LUFL-11760,,,,True,2.0,False
+Autoencodeur,saut_moyenne,6.0,LUFL-11760,,,,True,6.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,LUFL-11760,,,,True,3.0,False
+CUSUM,saut_moyenne,6.0,LUFL-12600,,,,True,35.0,False
+Page-Hinkley,saut_moyenne,6.0,LUFL-12600,,,,True,38.0,False
+KS,saut_moyenne,6.0,LUFL-12600,,,,True,87.0,False
+Mann-Whitney,saut_moyenne,6.0,LUFL-12600,,,,True,104.0,False
+Autoencodeur,saut_moyenne,6.0,LUFL-12600,,,,True,5.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,LUFL-12600,,,,True,2.0,False
+CUSUM,saut_moyenne,6.0,LUFL-13440,,,,True,30.0,False
+Page-Hinkley,saut_moyenne,6.0,LUFL-13440,,,,True,29.0,False
+KS,saut_moyenne,6.0,LUFL-13440,,,,True,79.0,False
+Mann-Whitney,saut_moyenne,6.0,LUFL-13440,,,,True,119.0,False
+Autoencodeur,saut_moyenne,6.0,LUFL-13440,,,,True,8.0,False
+Sans réseau (contrôle),saut_moyenne,6.0,LUFL-13440,,,,True,3.0,False
+CUSUM,graduelle,2.0,HUFL-6720,,,,True,129.0,False
+Page-Hinkley,graduelle,2.0,HUFL-6720,,,,True,230.0,False
+KS,graduelle,2.0,HUFL-6720,,,,True,144.0,False
+Mann-Whitney,graduelle,2.0,HUFL-6720,,,,True,133.0,False
+Autoencodeur,graduelle,2.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,HUFL-6720,,,,True,178.0,False
+CUSUM,graduelle,2.0,HUFL-7560,,,,True,98.0,False
+Page-Hinkley,graduelle,2.0,HUFL-7560,,,,True,238.0,False
+KS,graduelle,2.0,HUFL-7560,,,,True,132.0,False
+Mann-Whitney,graduelle,2.0,HUFL-7560,,,,True,130.0,False
+Autoencodeur,graduelle,2.0,HUFL-7560,,,,True,53.0,False
+Sans réseau (contrôle),graduelle,2.0,HUFL-7560,,,,True,215.0,False
+CUSUM,graduelle,2.0,HUFL-8400,,,,True,275.0,False
+Page-Hinkley,graduelle,2.0,HUFL-8400,,,,True,300.0,False
+KS,graduelle,2.0,HUFL-8400,,,,True,227.0,False
+Mann-Whitney,graduelle,2.0,HUFL-8400,,,,True,212.0,False
+Autoencodeur,graduelle,2.0,HUFL-8400,,,,False,,False
+Sans réseau (contrôle),graduelle,2.0,HUFL-8400,,,,False,,False
+CUSUM,graduelle,2.0,HUFL-9240,,,,False,,False
+Page-Hinkley,graduelle,2.0,HUFL-9240,,,,False,,False
+KS,graduelle,2.0,HUFL-9240,,,,True,295.0,False
+Mann-Whitney,graduelle,2.0,HUFL-9240,,,,True,225.0,False
+Autoencodeur,graduelle,2.0,HUFL-9240,,,,True,165.0,False
+Sans réseau (contrôle),graduelle,2.0,HUFL-9240,,,,True,158.0,False
+CUSUM,graduelle,2.0,HUFL-10080,,,,True,259.0,False
+Page-Hinkley,graduelle,2.0,HUFL-10080,,,,True,256.0,False
+KS,graduelle,2.0,HUFL-10080,,,,True,226.0,False
+Mann-Whitney,graduelle,2.0,HUFL-10080,,,,True,219.0,False
+Autoencodeur,graduelle,2.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,HUFL-10080,,,,True,182.0,False
+CUSUM,graduelle,2.0,HUFL-10920,,,,True,147.0,False
+Page-Hinkley,graduelle,2.0,HUFL-10920,,,,True,223.0,False
+KS,graduelle,2.0,HUFL-10920,,,,True,73.0,False
+Mann-Whitney,graduelle,2.0,HUFL-10920,,,,False,,True
+Autoencodeur,graduelle,2.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,HUFL-10920,,,,False,,True
+CUSUM,graduelle,2.0,HUFL-11760,,,,True,203.0,False
+Page-Hinkley,graduelle,2.0,HUFL-11760,,,,True,228.0,False
+KS,graduelle,2.0,HUFL-11760,,,,True,135.0,False
+Mann-Whitney,graduelle,2.0,HUFL-11760,,,,True,156.0,False
+Autoencodeur,graduelle,2.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,HUFL-11760,,,,False,,True
+CUSUM,graduelle,2.0,HUFL-12600,,,,False,,False
+Page-Hinkley,graduelle,2.0,HUFL-12600,,,,False,,False
+KS,graduelle,2.0,HUFL-12600,,,,False,,False
+Mann-Whitney,graduelle,2.0,HUFL-12600,,,,True,272.0,False
+Autoencodeur,graduelle,2.0,HUFL-12600,,,,True,98.0,False
+Sans réseau (contrôle),graduelle,2.0,HUFL-12600,,,,False,,False
+CUSUM,graduelle,2.0,HUFL-13440,,,,True,299.0,False
+Page-Hinkley,graduelle,2.0,HUFL-13440,,,,True,266.0,False
+KS,graduelle,2.0,HUFL-13440,,,,True,239.0,False
+Mann-Whitney,graduelle,2.0,HUFL-13440,,,,True,235.0,False
+Autoencodeur,graduelle,2.0,HUFL-13440,,,,True,188.0,False
+Sans réseau (contrôle),graduelle,2.0,HUFL-13440,,,,True,178.0,False
+CUSUM,graduelle,2.0,MUFL-6720,,,,True,143.0,False
+Page-Hinkley,graduelle,2.0,MUFL-6720,,,,True,232.0,False
+KS,graduelle,2.0,MUFL-6720,,,,True,154.0,False
+Mann-Whitney,graduelle,2.0,MUFL-6720,,,,True,147.0,False
+Autoencodeur,graduelle,2.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,MUFL-6720,,,,True,179.0,False
+CUSUM,graduelle,2.0,MUFL-7560,,,,True,162.0,False
+Page-Hinkley,graduelle,2.0,MUFL-7560,,,,True,199.0,False
+KS,graduelle,2.0,MUFL-7560,,,,True,156.0,False
+Mann-Whitney,graduelle,2.0,MUFL-7560,,,,True,135.0,False
+Autoencodeur,graduelle,2.0,MUFL-7560,,,,True,142.0,False
+Sans réseau (contrôle),graduelle,2.0,MUFL-7560,,,,True,201.0,False
+CUSUM,graduelle,2.0,MUFL-8400,,,,True,246.0,False
+Page-Hinkley,graduelle,2.0,MUFL-8400,,,,True,267.0,False
+KS,graduelle,2.0,MUFL-8400,,,,True,195.0,False
+Mann-Whitney,graduelle,2.0,MUFL-8400,,,,True,180.0,False
+Autoencodeur,graduelle,2.0,MUFL-8400,,,,True,178.0,False
+Sans réseau (contrôle),graduelle,2.0,MUFL-8400,,,,False,,False
+CUSUM,graduelle,2.0,MUFL-9240,,,,True,296.0,False
+Page-Hinkley,graduelle,2.0,MUFL-9240,,,,True,298.0,False
+KS,graduelle,2.0,MUFL-9240,,,,True,218.0,False
+Mann-Whitney,graduelle,2.0,MUFL-9240,,,,True,179.0,False
+Autoencodeur,graduelle,2.0,MUFL-9240,,,,True,161.0,False
+Sans réseau (contrôle),graduelle,2.0,MUFL-9240,,,,True,157.0,False
+CUSUM,graduelle,2.0,MUFL-10080,,,,True,268.0,False
+Page-Hinkley,graduelle,2.0,MUFL-10080,,,,True,259.0,False
+KS,graduelle,2.0,MUFL-10080,,,,True,227.0,False
+Mann-Whitney,graduelle,2.0,MUFL-10080,,,,True,225.0,False
+Autoencodeur,graduelle,2.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,MUFL-10080,,,,True,182.0,False
+CUSUM,graduelle,2.0,MUFL-10920,,,,True,167.0,False
+Page-Hinkley,graduelle,2.0,MUFL-10920,,,,True,240.0,False
+KS,graduelle,2.0,MUFL-10920,,,,True,108.0,False
+Mann-Whitney,graduelle,2.0,MUFL-10920,,,,True,108.0,False
+Autoencodeur,graduelle,2.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,MUFL-10920,,,,False,,True
+CUSUM,graduelle,2.0,MUFL-11760,,,,True,208.0,False
+Page-Hinkley,graduelle,2.0,MUFL-11760,,,,True,230.0,False
+KS,graduelle,2.0,MUFL-11760,,,,True,134.0,False
+Mann-Whitney,graduelle,2.0,MUFL-11760,,,,True,159.0,False
+Autoencodeur,graduelle,2.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,MUFL-11760,,,,False,,True
+CUSUM,graduelle,2.0,MUFL-12600,,,,False,,False
+Page-Hinkley,graduelle,2.0,MUFL-12600,,,,False,,False
+KS,graduelle,2.0,MUFL-12600,,,,True,206.0,False
+Mann-Whitney,graduelle,2.0,MUFL-12600,,,,True,221.0,False
+Autoencodeur,graduelle,2.0,MUFL-12600,,,,True,95.0,False
+Sans réseau (contrôle),graduelle,2.0,MUFL-12600,,,,False,,False
+CUSUM,graduelle,2.0,MUFL-13440,,,,False,,False
+Page-Hinkley,graduelle,2.0,MUFL-13440,,,,True,271.0,False
+KS,graduelle,2.0,MUFL-13440,,,,True,234.0,False
+Mann-Whitney,graduelle,2.0,MUFL-13440,,,,True,232.0,False
+Autoencodeur,graduelle,2.0,MUFL-13440,,,,True,194.0,False
+Sans réseau (contrôle),graduelle,2.0,MUFL-13440,,,,False,,True
+CUSUM,graduelle,2.0,LUFL-6720,,,,True,191.0,False
+Page-Hinkley,graduelle,2.0,LUFL-6720,,,,True,234.0,False
+KS,graduelle,2.0,LUFL-6720,,,,True,115.0,False
+Mann-Whitney,graduelle,2.0,LUFL-6720,,,,True,79.0,False
+Autoencodeur,graduelle,2.0,LUFL-6720,,,,True,286.0,False
+Sans réseau (contrôle),graduelle,2.0,LUFL-6720,,,,True,289.0,False
+CUSUM,graduelle,2.0,LUFL-7560,,,,False,,True
+Page-Hinkley,graduelle,2.0,LUFL-7560,,,,False,,True
+KS,graduelle,2.0,LUFL-7560,,,,False,,True
+Mann-Whitney,graduelle,2.0,LUFL-7560,,,,False,,True
+Autoencodeur,graduelle,2.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,LUFL-7560,,,,False,,True
+CUSUM,graduelle,2.0,LUFL-8400,,,,False,,True
+Page-Hinkley,graduelle,2.0,LUFL-8400,,,,False,,False
+KS,graduelle,2.0,LUFL-8400,,,,False,,True
+Mann-Whitney,graduelle,2.0,LUFL-8400,,,,False,,True
+Autoencodeur,graduelle,2.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,LUFL-8400,,,,False,,False
+CUSUM,graduelle,2.0,LUFL-9240,,,,False,,True
+Page-Hinkley,graduelle,2.0,LUFL-9240,,,,False,,False
+KS,graduelle,2.0,LUFL-9240,,,,False,,True
+Mann-Whitney,graduelle,2.0,LUFL-9240,,,,False,,True
+Autoencodeur,graduelle,2.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,LUFL-9240,,,,False,,False
+CUSUM,graduelle,2.0,LUFL-10080,,,,False,,True
+Page-Hinkley,graduelle,2.0,LUFL-10080,,,,True,169.0,False
+KS,graduelle,2.0,LUFL-10080,,,,True,84.0,False
+Mann-Whitney,graduelle,2.0,LUFL-10080,,,,False,,True
+Autoencodeur,graduelle,2.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),graduelle,2.0,LUFL-10080,,,,True,145.0,False
+CUSUM,graduelle,2.0,LUFL-10920,,,,False,,True
+Page-Hinkley,graduelle,2.0,LUFL-10920,,,,True,79.0,False
+KS,graduelle,2.0,LUFL-10920,,,,False,,True
+Mann-Whitney,graduelle,2.0,LUFL-10920,,,,False,,True
+Autoencodeur,graduelle,2.0,LUFL-10920,,,,True,26.0,False
+Sans réseau (contrôle),graduelle,2.0,LUFL-10920,,,,True,16.0,False
+CUSUM,graduelle,2.0,LUFL-11760,,,,True,193.0,False
+Page-Hinkley,graduelle,2.0,LUFL-11760,,,,True,229.0,False
+KS,graduelle,2.0,LUFL-11760,,,,False,,True
+Mann-Whitney,graduelle,2.0,LUFL-11760,,,,True,7.0,False
+Autoencodeur,graduelle,2.0,LUFL-11760,,,,True,39.0,False
+Sans réseau (contrôle),graduelle,2.0,LUFL-11760,,,,True,132.0,False
+CUSUM,graduelle,2.0,LUFL-12600,,,,False,,False
+Page-Hinkley,graduelle,2.0,LUFL-12600,,,,False,,False
+KS,graduelle,2.0,LUFL-12600,,,,False,,False
+Mann-Whitney,graduelle,2.0,LUFL-12600,,,,False,,False
+Autoencodeur,graduelle,2.0,LUFL-12600,,,,True,109.0,False
+Sans réseau (contrôle),graduelle,2.0,LUFL-12600,,,,False,,False
+CUSUM,graduelle,2.0,LUFL-13440,,,,True,245.0,False
+Page-Hinkley,graduelle,2.0,LUFL-13440,,,,True,216.0,False
+KS,graduelle,2.0,LUFL-13440,,,,False,,False
+Mann-Whitney,graduelle,2.0,LUFL-13440,,,,True,257.0,False
+Autoencodeur,graduelle,2.0,LUFL-13440,,,,True,210.0,False
+Sans réseau (contrôle),graduelle,2.0,LUFL-13440,,,,False,,False
+CUSUM,graduelle,4.0,HUFL-6720,,,,True,90.0,False
+Page-Hinkley,graduelle,4.0,HUFL-6720,,,,True,164.0,False
+KS,graduelle,4.0,HUFL-6720,,,,True,115.0,False
+Mann-Whitney,graduelle,4.0,HUFL-6720,,,,True,88.0,False
+Autoencodeur,graduelle,4.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,HUFL-6720,,,,True,90.0,False
+CUSUM,graduelle,4.0,HUFL-7560,,,,True,63.0,False
+Page-Hinkley,graduelle,4.0,HUFL-7560,,,,True,155.0,False
+KS,graduelle,4.0,HUFL-7560,,,,True,104.0,False
+Mann-Whitney,graduelle,4.0,HUFL-7560,,,,True,85.0,False
+Autoencodeur,graduelle,4.0,HUFL-7560,,,,True,46.0,False
+Sans réseau (contrôle),graduelle,4.0,HUFL-7560,,,,True,54.0,False
+CUSUM,graduelle,4.0,HUFL-8400,,,,True,165.0,False
+Page-Hinkley,graduelle,4.0,HUFL-8400,,,,True,171.0,False
+KS,graduelle,4.0,HUFL-8400,,,,True,175.0,False
+Mann-Whitney,graduelle,4.0,HUFL-8400,,,,True,158.0,False
+Autoencodeur,graduelle,4.0,HUFL-8400,,,,True,127.0,False
+Sans réseau (contrôle),graduelle,4.0,HUFL-8400,,,,True,169.0,False
+CUSUM,graduelle,4.0,HUFL-9240,,,,True,177.0,False
+Page-Hinkley,graduelle,4.0,HUFL-9240,,,,True,163.0,False
+KS,graduelle,4.0,HUFL-9240,,,,True,172.0,False
+Mann-Whitney,graduelle,4.0,HUFL-9240,,,,True,168.0,False
+Autoencodeur,graduelle,4.0,HUFL-9240,,,,True,115.0,False
+Sans réseau (contrôle),graduelle,4.0,HUFL-9240,,,,True,110.0,False
+CUSUM,graduelle,4.0,HUFL-10080,,,,True,183.0,False
+Page-Hinkley,graduelle,4.0,HUFL-10080,,,,True,181.0,False
+KS,graduelle,4.0,HUFL-10080,,,,True,182.0,False
+Mann-Whitney,graduelle,4.0,HUFL-10080,,,,True,173.0,False
+Autoencodeur,graduelle,4.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,HUFL-10080,,,,True,105.0,False
+CUSUM,graduelle,4.0,HUFL-10920,,,,True,113.0,False
+Page-Hinkley,graduelle,4.0,HUFL-10920,,,,True,161.0,False
+KS,graduelle,4.0,HUFL-10920,,,,True,60.0,False
+Mann-Whitney,graduelle,4.0,HUFL-10920,,,,False,,True
+Autoencodeur,graduelle,4.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,HUFL-10920,,,,False,,True
+CUSUM,graduelle,4.0,HUFL-11760,,,,True,149.0,False
+Page-Hinkley,graduelle,4.0,HUFL-11760,,,,True,161.0,False
+KS,graduelle,4.0,HUFL-11760,,,,True,121.0,False
+Mann-Whitney,graduelle,4.0,HUFL-11760,,,,True,130.0,False
+Autoencodeur,graduelle,4.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,HUFL-11760,,,,False,,True
+CUSUM,graduelle,4.0,HUFL-12600,,,,True,162.0,False
+Page-Hinkley,graduelle,4.0,HUFL-12600,,,,True,190.0,False
+KS,graduelle,4.0,HUFL-12600,,,,True,171.0,False
+Mann-Whitney,graduelle,4.0,HUFL-12600,,,,True,171.0,False
+Autoencodeur,graduelle,4.0,HUFL-12600,,,,True,86.0,False
+Sans réseau (contrôle),graduelle,4.0,HUFL-12600,,,,True,87.0,False
+CUSUM,graduelle,4.0,HUFL-13440,,,,True,194.0,False
+Page-Hinkley,graduelle,4.0,HUFL-13440,,,,True,182.0,False
+KS,graduelle,4.0,HUFL-13440,,,,True,187.0,False
+Mann-Whitney,graduelle,4.0,HUFL-13440,,,,True,181.0,False
+Autoencodeur,graduelle,4.0,HUFL-13440,,,,True,138.0,False
+Sans réseau (contrôle),graduelle,4.0,HUFL-13440,,,,True,122.0,False
+CUSUM,graduelle,4.0,MUFL-6720,,,,True,99.0,False
+Page-Hinkley,graduelle,4.0,MUFL-6720,,,,True,166.0,False
+KS,graduelle,4.0,MUFL-6720,,,,True,126.0,False
+Mann-Whitney,graduelle,4.0,MUFL-6720,,,,True,98.0,False
+Autoencodeur,graduelle,4.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,MUFL-6720,,,,True,91.0,False
+CUSUM,graduelle,4.0,MUFL-7560,,,,True,122.0,False
+Page-Hinkley,graduelle,4.0,MUFL-7560,,,,True,143.0,False
+KS,graduelle,4.0,MUFL-7560,,,,True,114.0,False
+Mann-Whitney,graduelle,4.0,MUFL-7560,,,,True,113.0,False
+Autoencodeur,graduelle,4.0,MUFL-7560,,,,True,69.0,False
+Sans réseau (contrôle),graduelle,4.0,MUFL-7560,,,,True,120.0,False
+CUSUM,graduelle,4.0,MUFL-8400,,,,True,162.0,False
+Page-Hinkley,graduelle,4.0,MUFL-8400,,,,True,166.0,False
+KS,graduelle,4.0,MUFL-8400,,,,True,152.0,False
+Mann-Whitney,graduelle,4.0,MUFL-8400,,,,True,143.0,False
+Autoencodeur,graduelle,4.0,MUFL-8400,,,,True,120.0,False
+Sans réseau (contrôle),graduelle,4.0,MUFL-8400,,,,True,155.0,False
+CUSUM,graduelle,4.0,MUFL-9240,,,,True,161.0,False
+Page-Hinkley,graduelle,4.0,MUFL-9240,,,,True,160.0,False
+KS,graduelle,4.0,MUFL-9240,,,,True,154.0,False
+Mann-Whitney,graduelle,4.0,MUFL-9240,,,,True,152.0,False
+Autoencodeur,graduelle,4.0,MUFL-9240,,,,True,111.0,False
+Sans réseau (contrôle),graduelle,4.0,MUFL-9240,,,,True,109.0,False
+CUSUM,graduelle,4.0,MUFL-10080,,,,True,184.0,False
+Page-Hinkley,graduelle,4.0,MUFL-10080,,,,True,182.0,False
+KS,graduelle,4.0,MUFL-10080,,,,True,189.0,False
+Mann-Whitney,graduelle,4.0,MUFL-10080,,,,True,178.0,False
+Autoencodeur,graduelle,4.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,MUFL-10080,,,,True,105.0,False
+CUSUM,graduelle,4.0,MUFL-10920,,,,True,129.0,False
+Page-Hinkley,graduelle,4.0,MUFL-10920,,,,True,166.0,False
+KS,graduelle,4.0,MUFL-10920,,,,True,79.0,False
+Mann-Whitney,graduelle,4.0,MUFL-10920,,,,True,88.0,False
+Autoencodeur,graduelle,4.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,MUFL-10920,,,,False,,True
+CUSUM,graduelle,4.0,MUFL-11760,,,,True,153.0,False
+Page-Hinkley,graduelle,4.0,MUFL-11760,,,,True,163.0,False
+KS,graduelle,4.0,MUFL-11760,,,,True,131.0,False
+Mann-Whitney,graduelle,4.0,MUFL-11760,,,,True,133.0,False
+Autoencodeur,graduelle,4.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,MUFL-11760,,,,False,,True
+CUSUM,graduelle,4.0,MUFL-12600,,,,True,150.0,False
+Page-Hinkley,graduelle,4.0,MUFL-12600,,,,True,187.0,False
+KS,graduelle,4.0,MUFL-12600,,,,True,143.0,False
+Mann-Whitney,graduelle,4.0,MUFL-12600,,,,True,148.0,False
+Autoencodeur,graduelle,4.0,MUFL-12600,,,,True,79.0,False
+Sans réseau (contrôle),graduelle,4.0,MUFL-12600,,,,True,85.0,False
+CUSUM,graduelle,4.0,MUFL-13440,,,,True,195.0,False
+Page-Hinkley,graduelle,4.0,MUFL-13440,,,,True,183.0,False
+KS,graduelle,4.0,MUFL-13440,,,,True,188.0,False
+Mann-Whitney,graduelle,4.0,MUFL-13440,,,,True,181.0,False
+Autoencodeur,graduelle,4.0,MUFL-13440,,,,True,138.0,False
+Sans réseau (contrôle),graduelle,4.0,MUFL-13440,,,,False,,True
+CUSUM,graduelle,4.0,LUFL-6720,,,,True,135.0,False
+Page-Hinkley,graduelle,4.0,LUFL-6720,,,,True,153.0,False
+KS,graduelle,4.0,LUFL-6720,,,,True,92.0,False
+Mann-Whitney,graduelle,4.0,LUFL-6720,,,,True,61.0,False
+Autoencodeur,graduelle,4.0,LUFL-6720,,,,True,151.0,False
+Sans réseau (contrôle),graduelle,4.0,LUFL-6720,,,,True,209.0,False
+CUSUM,graduelle,4.0,LUFL-7560,,,,False,,True
+Page-Hinkley,graduelle,4.0,LUFL-7560,,,,False,,True
+KS,graduelle,4.0,LUFL-7560,,,,False,,True
+Mann-Whitney,graduelle,4.0,LUFL-7560,,,,False,,True
+Autoencodeur,graduelle,4.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,LUFL-7560,,,,False,,True
+CUSUM,graduelle,4.0,LUFL-8400,,,,False,,True
+Page-Hinkley,graduelle,4.0,LUFL-8400,,,,True,211.0,False
+KS,graduelle,4.0,LUFL-8400,,,,False,,True
+Mann-Whitney,graduelle,4.0,LUFL-8400,,,,False,,True
+Autoencodeur,graduelle,4.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,LUFL-8400,,,,False,,False
+CUSUM,graduelle,4.0,LUFL-9240,,,,False,,True
+Page-Hinkley,graduelle,4.0,LUFL-9240,,,,True,186.0,False
+KS,graduelle,4.0,LUFL-9240,,,,False,,True
+Mann-Whitney,graduelle,4.0,LUFL-9240,,,,False,,True
+Autoencodeur,graduelle,4.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,LUFL-9240,,,,True,220.0,False
+CUSUM,graduelle,4.0,LUFL-10080,,,,False,,True
+Page-Hinkley,graduelle,4.0,LUFL-10080,,,,True,118.0,False
+KS,graduelle,4.0,LUFL-10080,,,,True,69.0,False
+Mann-Whitney,graduelle,4.0,LUFL-10080,,,,False,,True
+Autoencodeur,graduelle,4.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),graduelle,4.0,LUFL-10080,,,,True,66.0,False
+CUSUM,graduelle,4.0,LUFL-10920,,,,False,,True
+Page-Hinkley,graduelle,4.0,LUFL-10920,,,,True,75.0,False
+KS,graduelle,4.0,LUFL-10920,,,,False,,True
+Mann-Whitney,graduelle,4.0,LUFL-10920,,,,False,,True
+Autoencodeur,graduelle,4.0,LUFL-10920,,,,True,25.0,False
+Sans réseau (contrôle),graduelle,4.0,LUFL-10920,,,,True,16.0,False
+CUSUM,graduelle,4.0,LUFL-11760,,,,True,140.0,False
+Page-Hinkley,graduelle,4.0,LUFL-11760,,,,True,159.0,False
+KS,graduelle,4.0,LUFL-11760,,,,False,,True
+Mann-Whitney,graduelle,4.0,LUFL-11760,,,,True,6.0,False
+Autoencodeur,graduelle,4.0,LUFL-11760,,,,True,40.0,False
+Sans réseau (contrôle),graduelle,4.0,LUFL-11760,,,,True,60.0,False
+CUSUM,graduelle,4.0,LUFL-12600,,,,True,177.0,False
+Page-Hinkley,graduelle,4.0,LUFL-12600,,,,True,191.0,False
+KS,graduelle,4.0,LUFL-12600,,,,True,178.0,False
+Mann-Whitney,graduelle,4.0,LUFL-12600,,,,True,177.0,False
+Autoencodeur,graduelle,4.0,LUFL-12600,,,,True,93.0,False
+Sans réseau (contrôle),graduelle,4.0,LUFL-12600,,,,True,114.0,False
+CUSUM,graduelle,4.0,LUFL-13440,,,,True,174.0,False
+Page-Hinkley,graduelle,4.0,LUFL-13440,,,,True,160.0,False
+KS,graduelle,4.0,LUFL-13440,,,,True,187.0,False
+Mann-Whitney,graduelle,4.0,LUFL-13440,,,,True,163.0,False
+Autoencodeur,graduelle,4.0,LUFL-13440,,,,True,170.0,False
+Sans réseau (contrôle),graduelle,4.0,LUFL-13440,,,,True,173.0,False
+CUSUM,graduelle,6.0,HUFL-6720,,,,True,79.0,False
+Page-Hinkley,graduelle,6.0,HUFL-6720,,,,True,132.0,False
+KS,graduelle,6.0,HUFL-6720,,,,True,89.0,False
+Mann-Whitney,graduelle,6.0,HUFL-6720,,,,True,77.0,False
+Autoencodeur,graduelle,6.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,HUFL-6720,,,,True,79.0,False
+CUSUM,graduelle,6.0,HUFL-7560,,,,True,57.0,False
+Page-Hinkley,graduelle,6.0,HUFL-7560,,,,True,120.0,False
+KS,graduelle,6.0,HUFL-7560,,,,True,86.0,False
+Mann-Whitney,graduelle,6.0,HUFL-7560,,,,True,81.0,False
+Autoencodeur,graduelle,6.0,HUFL-7560,,,,True,41.0,False
+Sans réseau (contrôle),graduelle,6.0,HUFL-7560,,,,True,45.0,False
+CUSUM,graduelle,6.0,HUFL-8400,,,,True,136.0,False
+Page-Hinkley,graduelle,6.0,HUFL-8400,,,,True,139.0,False
+KS,graduelle,6.0,HUFL-8400,,,,True,159.0,False
+Mann-Whitney,graduelle,6.0,HUFL-8400,,,,True,137.0,False
+Autoencodeur,graduelle,6.0,HUFL-8400,,,,True,112.0,False
+Sans réseau (contrôle),graduelle,6.0,HUFL-8400,,,,True,110.0,False
+CUSUM,graduelle,6.0,HUFL-9240,,,,True,139.0,False
+Page-Hinkley,graduelle,6.0,HUFL-9240,,,,True,133.0,False
+KS,graduelle,6.0,HUFL-9240,,,,True,149.0,False
+Mann-Whitney,graduelle,6.0,HUFL-9240,,,,True,154.0,False
+Autoencodeur,graduelle,6.0,HUFL-9240,,,,True,87.0,False
+Sans réseau (contrôle),graduelle,6.0,HUFL-9240,,,,True,87.0,False
+CUSUM,graduelle,6.0,HUFL-10080,,,,True,143.0,False
+Page-Hinkley,graduelle,6.0,HUFL-10080,,,,True,142.0,False
+KS,graduelle,6.0,HUFL-10080,,,,True,157.0,False
+Mann-Whitney,graduelle,6.0,HUFL-10080,,,,True,153.0,False
+Autoencodeur,graduelle,6.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,HUFL-10080,,,,True,78.0,False
+CUSUM,graduelle,6.0,HUFL-10920,,,,True,95.0,False
+Page-Hinkley,graduelle,6.0,HUFL-10920,,,,True,134.0,False
+KS,graduelle,6.0,HUFL-10920,,,,True,55.0,False
+Mann-Whitney,graduelle,6.0,HUFL-10920,,,,False,,True
+Autoencodeur,graduelle,6.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,HUFL-10920,,,,False,,True
+CUSUM,graduelle,6.0,HUFL-11760,,,,True,123.0,False
+Page-Hinkley,graduelle,6.0,HUFL-11760,,,,True,131.0,False
+KS,graduelle,6.0,HUFL-11760,,,,True,109.0,False
+Mann-Whitney,graduelle,6.0,HUFL-11760,,,,True,111.0,False
+Autoencodeur,graduelle,6.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,HUFL-11760,,,,False,,True
+CUSUM,graduelle,6.0,HUFL-12600,,,,True,124.0,False
+Page-Hinkley,graduelle,6.0,HUFL-12600,,,,True,133.0,False
+KS,graduelle,6.0,HUFL-12600,,,,True,145.0,False
+Mann-Whitney,graduelle,6.0,HUFL-12600,,,,True,139.0,False
+Autoencodeur,graduelle,6.0,HUFL-12600,,,,True,73.0,False
+Sans réseau (contrôle),graduelle,6.0,HUFL-12600,,,,True,83.0,False
+CUSUM,graduelle,6.0,HUFL-13440,,,,True,155.0,False
+Page-Hinkley,graduelle,6.0,HUFL-13440,,,,True,147.0,False
+KS,graduelle,6.0,HUFL-13440,,,,True,155.0,False
+Mann-Whitney,graduelle,6.0,HUFL-13440,,,,True,147.0,False
+Autoencodeur,graduelle,6.0,HUFL-13440,,,,True,90.0,False
+Sans réseau (contrôle),graduelle,6.0,HUFL-13440,,,,True,76.0,False
+CUSUM,graduelle,6.0,MUFL-6720,,,,True,84.0,False
+Page-Hinkley,graduelle,6.0,MUFL-6720,,,,True,133.0,False
+KS,graduelle,6.0,MUFL-6720,,,,True,117.0,False
+Mann-Whitney,graduelle,6.0,MUFL-6720,,,,True,87.0,False
+Autoencodeur,graduelle,6.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,MUFL-6720,,,,True,79.0,False
+CUSUM,graduelle,6.0,MUFL-7560,,,,True,100.0,False
+Page-Hinkley,graduelle,6.0,MUFL-7560,,,,True,118.0,False
+KS,graduelle,6.0,MUFL-7560,,,,True,110.0,False
+Mann-Whitney,graduelle,6.0,MUFL-7560,,,,True,108.0,False
+Autoencodeur,graduelle,6.0,MUFL-7560,,,,True,56.0,False
+Sans réseau (contrôle),graduelle,6.0,MUFL-7560,,,,True,67.0,False
+CUSUM,graduelle,6.0,MUFL-8400,,,,True,135.0,False
+Page-Hinkley,graduelle,6.0,MUFL-8400,,,,True,136.0,False
+KS,graduelle,6.0,MUFL-8400,,,,True,138.0,False
+Mann-Whitney,graduelle,6.0,MUFL-8400,,,,True,129.0,False
+Autoencodeur,graduelle,6.0,MUFL-8400,,,,True,111.0,False
+Sans réseau (contrôle),graduelle,6.0,MUFL-8400,,,,True,108.0,False
+CUSUM,graduelle,6.0,MUFL-9240,,,,True,132.0,False
+Page-Hinkley,graduelle,6.0,MUFL-9240,,,,True,131.0,False
+KS,graduelle,6.0,MUFL-9240,,,,True,125.0,False
+Mann-Whitney,graduelle,6.0,MUFL-9240,,,,True,139.0,False
+Autoencodeur,graduelle,6.0,MUFL-9240,,,,True,58.0,False
+Sans réseau (contrôle),graduelle,6.0,MUFL-9240,,,,True,82.0,False
+CUSUM,graduelle,6.0,MUFL-10080,,,,True,144.0,False
+Page-Hinkley,graduelle,6.0,MUFL-10080,,,,True,142.0,False
+KS,graduelle,6.0,MUFL-10080,,,,True,160.0,False
+Mann-Whitney,graduelle,6.0,MUFL-10080,,,,True,157.0,False
+Autoencodeur,graduelle,6.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,MUFL-10080,,,,True,79.0,False
+CUSUM,graduelle,6.0,MUFL-10920,,,,True,107.0,False
+Page-Hinkley,graduelle,6.0,MUFL-10920,,,,True,138.0,False
+KS,graduelle,6.0,MUFL-10920,,,,True,75.0,False
+Mann-Whitney,graduelle,6.0,MUFL-10920,,,,True,76.0,False
+Autoencodeur,graduelle,6.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,MUFL-10920,,,,False,,True
+CUSUM,graduelle,6.0,MUFL-11760,,,,True,125.0,False
+Page-Hinkley,graduelle,6.0,MUFL-11760,,,,True,131.0,False
+KS,graduelle,6.0,MUFL-11760,,,,True,109.0,False
+Mann-Whitney,graduelle,6.0,MUFL-11760,,,,True,119.0,False
+Autoencodeur,graduelle,6.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,MUFL-11760,,,,False,,True
+CUSUM,graduelle,6.0,MUFL-12600,,,,True,121.0,False
+Page-Hinkley,graduelle,6.0,MUFL-12600,,,,True,131.0,False
+KS,graduelle,6.0,MUFL-12600,,,,True,124.0,False
+Mann-Whitney,graduelle,6.0,MUFL-12600,,,,True,132.0,False
+Autoencodeur,graduelle,6.0,MUFL-12600,,,,True,69.0,False
+Sans réseau (contrôle),graduelle,6.0,MUFL-12600,,,,True,82.0,False
+CUSUM,graduelle,6.0,MUFL-13440,,,,True,157.0,False
+Page-Hinkley,graduelle,6.0,MUFL-13440,,,,True,148.0,False
+KS,graduelle,6.0,MUFL-13440,,,,True,155.0,False
+Mann-Whitney,graduelle,6.0,MUFL-13440,,,,True,147.0,False
+Autoencodeur,graduelle,6.0,MUFL-13440,,,,True,96.0,False
+Sans réseau (contrôle),graduelle,6.0,MUFL-13440,,,,False,,True
+CUSUM,graduelle,6.0,LUFL-6720,,,,True,113.0,False
+Page-Hinkley,graduelle,6.0,LUFL-6720,,,,True,126.0,False
+KS,graduelle,6.0,LUFL-6720,,,,True,81.0,False
+Mann-Whitney,graduelle,6.0,LUFL-6720,,,,True,58.0,False
+Autoencodeur,graduelle,6.0,LUFL-6720,,,,True,118.0,False
+Sans réseau (contrôle),graduelle,6.0,LUFL-6720,,,,True,119.0,False
+CUSUM,graduelle,6.0,LUFL-7560,,,,False,,True
+Page-Hinkley,graduelle,6.0,LUFL-7560,,,,False,,True
+KS,graduelle,6.0,LUFL-7560,,,,False,,True
+Mann-Whitney,graduelle,6.0,LUFL-7560,,,,False,,True
+Autoencodeur,graduelle,6.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,LUFL-7560,,,,False,,True
+CUSUM,graduelle,6.0,LUFL-8400,,,,False,,True
+Page-Hinkley,graduelle,6.0,LUFL-8400,,,,True,156.0,False
+KS,graduelle,6.0,LUFL-8400,,,,False,,True
+Mann-Whitney,graduelle,6.0,LUFL-8400,,,,False,,True
+Autoencodeur,graduelle,6.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,LUFL-8400,,,,True,167.0,False
+CUSUM,graduelle,6.0,LUFL-9240,,,,False,,True
+Page-Hinkley,graduelle,6.0,LUFL-9240,,,,True,145.0,False
+KS,graduelle,6.0,LUFL-9240,,,,False,,True
+Mann-Whitney,graduelle,6.0,LUFL-9240,,,,False,,True
+Autoencodeur,graduelle,6.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,LUFL-9240,,,,True,129.0,False
+CUSUM,graduelle,6.0,LUFL-10080,,,,False,,True
+Page-Hinkley,graduelle,6.0,LUFL-10080,,,,True,95.0,False
+KS,graduelle,6.0,LUFL-10080,,,,True,65.0,False
+Mann-Whitney,graduelle,6.0,LUFL-10080,,,,False,,True
+Autoencodeur,graduelle,6.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),graduelle,6.0,LUFL-10080,,,,True,36.0,False
+CUSUM,graduelle,6.0,LUFL-10920,,,,False,,True
+Page-Hinkley,graduelle,6.0,LUFL-10920,,,,True,72.0,False
+KS,graduelle,6.0,LUFL-10920,,,,False,,True
+Mann-Whitney,graduelle,6.0,LUFL-10920,,,,False,,True
+Autoencodeur,graduelle,6.0,LUFL-10920,,,,True,25.0,False
+Sans réseau (contrôle),graduelle,6.0,LUFL-10920,,,,True,16.0,False
+CUSUM,graduelle,6.0,LUFL-11760,,,,True,119.0,False
+Page-Hinkley,graduelle,6.0,LUFL-11760,,,,True,127.0,False
+KS,graduelle,6.0,LUFL-11760,,,,False,,True
+Mann-Whitney,graduelle,6.0,LUFL-11760,,,,True,6.0,False
+Autoencodeur,graduelle,6.0,LUFL-11760,,,,True,41.0,False
+Sans réseau (contrôle),graduelle,6.0,LUFL-11760,,,,True,53.0,False
+CUSUM,graduelle,6.0,LUFL-12600,,,,True,140.0,False
+Page-Hinkley,graduelle,6.0,LUFL-12600,,,,True,145.0,False
+KS,graduelle,6.0,LUFL-12600,,,,True,157.0,False
+Mann-Whitney,graduelle,6.0,LUFL-12600,,,,True,151.0,False
+Autoencodeur,graduelle,6.0,LUFL-12600,,,,True,85.0,False
+Sans réseau (contrôle),graduelle,6.0,LUFL-12600,,,,True,89.0,False
+CUSUM,graduelle,6.0,LUFL-13440,,,,True,134.0,False
+Page-Hinkley,graduelle,6.0,LUFL-13440,,,,True,116.0,False
+KS,graduelle,6.0,LUFL-13440,,,,True,150.0,False
+Mann-Whitney,graduelle,6.0,LUFL-13440,,,,True,144.0,False
+Autoencodeur,graduelle,6.0,LUFL-13440,,,,True,92.0,False
+Sans réseau (contrôle),graduelle,6.0,LUFL-13440,,,,True,101.0,False
+CUSUM,variance,2.0,HUFL-6720,,,,True,273.0,False
+Page-Hinkley,variance,2.0,HUFL-6720,,,,False,,False
+KS,variance,2.0,HUFL-6720,,,,False,,False
+Mann-Whitney,variance,2.0,HUFL-6720,,,,False,,False
+Autoencodeur,variance,2.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),variance,2.0,HUFL-6720,,,,False,,False
+CUSUM,variance,2.0,HUFL-7560,,,,True,252.0,False
+Page-Hinkley,variance,2.0,HUFL-7560,,,,False,,False
+KS,variance,2.0,HUFL-7560,,,,False,,False
+Mann-Whitney,variance,2.0,HUFL-7560,,,,False,,False
+Autoencodeur,variance,2.0,HUFL-7560,,,,True,29.0,False
+Sans réseau (contrôle),variance,2.0,HUFL-7560,,,,True,252.0,False
+CUSUM,variance,2.0,HUFL-8400,,,,False,,False
+Page-Hinkley,variance,2.0,HUFL-8400,,,,False,,False
+KS,variance,2.0,HUFL-8400,,,,False,,False
+Mann-Whitney,variance,2.0,HUFL-8400,,,,False,,False
+Autoencodeur,variance,2.0,HUFL-8400,,,,False,,False
+Sans réseau (contrôle),variance,2.0,HUFL-8400,,,,False,,False
+CUSUM,variance,2.0,HUFL-9240,,,,False,,False
+Page-Hinkley,variance,2.0,HUFL-9240,,,,False,,False
+KS,variance,2.0,HUFL-9240,,,,False,,False
+Mann-Whitney,variance,2.0,HUFL-9240,,,,False,,False
+Autoencodeur,variance,2.0,HUFL-9240,,,,True,17.0,False
+Sans réseau (contrôle),variance,2.0,HUFL-9240,,,,True,160.0,False
+CUSUM,variance,2.0,HUFL-10080,,,,False,,False
+Page-Hinkley,variance,2.0,HUFL-10080,,,,False,,False
+KS,variance,2.0,HUFL-10080,,,,False,,False
+Mann-Whitney,variance,2.0,HUFL-10080,,,,False,,False
+Autoencodeur,variance,2.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),variance,2.0,HUFL-10080,,,,False,,False
+CUSUM,variance,2.0,HUFL-10920,,,,False,,False
+Page-Hinkley,variance,2.0,HUFL-10920,,,,False,,False
+KS,variance,2.0,HUFL-10920,,,,False,,False
+Mann-Whitney,variance,2.0,HUFL-10920,,,,False,,True
+Autoencodeur,variance,2.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),variance,2.0,HUFL-10920,,,,False,,True
+CUSUM,variance,2.0,HUFL-11760,,,,False,,False
+Page-Hinkley,variance,2.0,HUFL-11760,,,,False,,False
+KS,variance,2.0,HUFL-11760,,,,False,,False
+Mann-Whitney,variance,2.0,HUFL-11760,,,,False,,False
+Autoencodeur,variance,2.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),variance,2.0,HUFL-11760,,,,False,,True
+CUSUM,variance,2.0,HUFL-12600,,,,False,,False
+Page-Hinkley,variance,2.0,HUFL-12600,,,,False,,False
+KS,variance,2.0,HUFL-12600,,,,False,,False
+Mann-Whitney,variance,2.0,HUFL-12600,,,,False,,False
+Autoencodeur,variance,2.0,HUFL-12600,,,,True,48.0,False
+Sans réseau (contrôle),variance,2.0,HUFL-12600,,,,False,,False
+CUSUM,variance,2.0,HUFL-13440,,,,False,,False
+Page-Hinkley,variance,2.0,HUFL-13440,,,,False,,False
+KS,variance,2.0,HUFL-13440,,,,False,,False
+Mann-Whitney,variance,2.0,HUFL-13440,,,,False,,False
+Autoencodeur,variance,2.0,HUFL-13440,,,,True,21.0,False
+Sans réseau (contrôle),variance,2.0,HUFL-13440,,,,True,22.0,False
+CUSUM,variance,2.0,MUFL-6720,,,,False,,False
+Page-Hinkley,variance,2.0,MUFL-6720,,,,False,,False
+KS,variance,2.0,MUFL-6720,,,,False,,False
+Mann-Whitney,variance,2.0,MUFL-6720,,,,False,,False
+Autoencodeur,variance,2.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),variance,2.0,MUFL-6720,,,,False,,False
+CUSUM,variance,2.0,MUFL-7560,,,,False,,False
+Page-Hinkley,variance,2.0,MUFL-7560,,,,False,,False
+KS,variance,2.0,MUFL-7560,,,,False,,False
+Mann-Whitney,variance,2.0,MUFL-7560,,,,False,,False
+Autoencodeur,variance,2.0,MUFL-7560,,,,True,41.0,False
+Sans réseau (contrôle),variance,2.0,MUFL-7560,,,,True,253.0,False
+CUSUM,variance,2.0,MUFL-8400,,,,False,,False
+Page-Hinkley,variance,2.0,MUFL-8400,,,,False,,False
+KS,variance,2.0,MUFL-8400,,,,False,,False
+Mann-Whitney,variance,2.0,MUFL-8400,,,,False,,False
+Autoencodeur,variance,2.0,MUFL-8400,,,,False,,False
+Sans réseau (contrôle),variance,2.0,MUFL-8400,,,,False,,False
+CUSUM,variance,2.0,MUFL-9240,,,,False,,False
+Page-Hinkley,variance,2.0,MUFL-9240,,,,False,,False
+KS,variance,2.0,MUFL-9240,,,,False,,False
+Mann-Whitney,variance,2.0,MUFL-9240,,,,False,,False
+Autoencodeur,variance,2.0,MUFL-9240,,,,True,18.0,False
+Sans réseau (contrôle),variance,2.0,MUFL-9240,,,,False,,False
+CUSUM,variance,2.0,MUFL-10080,,,,False,,False
+Page-Hinkley,variance,2.0,MUFL-10080,,,,False,,False
+KS,variance,2.0,MUFL-10080,,,,False,,False
+Mann-Whitney,variance,2.0,MUFL-10080,,,,False,,False
+Autoencodeur,variance,2.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),variance,2.0,MUFL-10080,,,,True,37.0,False
+CUSUM,variance,2.0,MUFL-10920,,,,False,,False
+Page-Hinkley,variance,2.0,MUFL-10920,,,,False,,False
+KS,variance,2.0,MUFL-10920,,,,False,,False
+Mann-Whitney,variance,2.0,MUFL-10920,,,,False,,False
+Autoencodeur,variance,2.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),variance,2.0,MUFL-10920,,,,False,,True
+CUSUM,variance,2.0,MUFL-11760,,,,False,,False
+Page-Hinkley,variance,2.0,MUFL-11760,,,,False,,False
+KS,variance,2.0,MUFL-11760,,,,False,,False
+Mann-Whitney,variance,2.0,MUFL-11760,,,,False,,False
+Autoencodeur,variance,2.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),variance,2.0,MUFL-11760,,,,False,,True
+CUSUM,variance,2.0,MUFL-12600,,,,False,,False
+Page-Hinkley,variance,2.0,MUFL-12600,,,,False,,False
+KS,variance,2.0,MUFL-12600,,,,False,,False
+Mann-Whitney,variance,2.0,MUFL-12600,,,,False,,False
+Autoencodeur,variance,2.0,MUFL-12600,,,,True,39.0,False
+Sans réseau (contrôle),variance,2.0,MUFL-12600,,,,False,,False
+CUSUM,variance,2.0,MUFL-13440,,,,False,,False
+Page-Hinkley,variance,2.0,MUFL-13440,,,,False,,False
+KS,variance,2.0,MUFL-13440,,,,False,,False
+Mann-Whitney,variance,2.0,MUFL-13440,,,,False,,False
+Autoencodeur,variance,2.0,MUFL-13440,,,,True,18.0,False
+Sans réseau (contrôle),variance,2.0,MUFL-13440,,,,False,,True
+CUSUM,variance,2.0,LUFL-6720,,,,False,,False
+Page-Hinkley,variance,2.0,LUFL-6720,,,,False,,False
+KS,variance,2.0,LUFL-6720,,,,True,291.0,False
+Mann-Whitney,variance,2.0,LUFL-6720,,,,False,,False
+Autoencodeur,variance,2.0,LUFL-6720,,,,False,,False
+Sans réseau (contrôle),variance,2.0,LUFL-6720,,,,False,,False
+CUSUM,variance,2.0,LUFL-7560,,,,False,,True
+Page-Hinkley,variance,2.0,LUFL-7560,,,,False,,True
+KS,variance,2.0,LUFL-7560,,,,False,,True
+Mann-Whitney,variance,2.0,LUFL-7560,,,,False,,True
+Autoencodeur,variance,2.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),variance,2.0,LUFL-7560,,,,False,,True
+CUSUM,variance,2.0,LUFL-8400,,,,False,,True
+Page-Hinkley,variance,2.0,LUFL-8400,,,,False,,False
+KS,variance,2.0,LUFL-8400,,,,False,,True
+Mann-Whitney,variance,2.0,LUFL-8400,,,,False,,True
+Autoencodeur,variance,2.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),variance,2.0,LUFL-8400,,,,True,143.0,False
+CUSUM,variance,2.0,LUFL-9240,,,,False,,True
+Page-Hinkley,variance,2.0,LUFL-9240,,,,False,,False
+KS,variance,2.0,LUFL-9240,,,,False,,True
+Mann-Whitney,variance,2.0,LUFL-9240,,,,False,,True
+Autoencodeur,variance,2.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),variance,2.0,LUFL-9240,,,,True,95.0,False
+CUSUM,variance,2.0,LUFL-10080,,,,False,,True
+Page-Hinkley,variance,2.0,LUFL-10080,,,,False,,False
+KS,variance,2.0,LUFL-10080,,,,False,,False
+Mann-Whitney,variance,2.0,LUFL-10080,,,,False,,True
+Autoencodeur,variance,2.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),variance,2.0,LUFL-10080,,,,True,295.0,False
+CUSUM,variance,2.0,LUFL-10920,,,,False,,True
+Page-Hinkley,variance,2.0,LUFL-10920,,,,True,104.0,False
+KS,variance,2.0,LUFL-10920,,,,False,,True
+Mann-Whitney,variance,2.0,LUFL-10920,,,,False,,True
+Autoencodeur,variance,2.0,LUFL-10920,,,,True,26.0,False
+Sans réseau (contrôle),variance,2.0,LUFL-10920,,,,True,22.0,False
+CUSUM,variance,2.0,LUFL-11760,,,,False,,False
+Page-Hinkley,variance,2.0,LUFL-11760,,,,False,,False
+KS,variance,2.0,LUFL-11760,,,,False,,True
+Mann-Whitney,variance,2.0,LUFL-11760,,,,True,3.0,False
+Autoencodeur,variance,2.0,LUFL-11760,,,,True,27.0,False
+Sans réseau (contrôle),variance,2.0,LUFL-11760,,,,True,299.0,False
+CUSUM,variance,2.0,LUFL-12600,,,,False,,False
+Page-Hinkley,variance,2.0,LUFL-12600,,,,False,,False
+KS,variance,2.0,LUFL-12600,,,,False,,False
+Mann-Whitney,variance,2.0,LUFL-12600,,,,False,,False
+Autoencodeur,variance,2.0,LUFL-12600,,,,True,25.0,False
+Sans réseau (contrôle),variance,2.0,LUFL-12600,,,,False,,False
+CUSUM,variance,2.0,LUFL-13440,,,,False,,False
+Page-Hinkley,variance,2.0,LUFL-13440,,,,False,,False
+KS,variance,2.0,LUFL-13440,,,,False,,False
+Mann-Whitney,variance,2.0,LUFL-13440,,,,False,,False
+Autoencodeur,variance,2.0,LUFL-13440,,,,True,258.0,False
+Sans réseau (contrôle),variance,2.0,LUFL-13440,,,,False,,False
+CUSUM,variance,4.0,HUFL-6720,,,,False,,False
+Page-Hinkley,variance,4.0,HUFL-6720,,,,False,,False
+KS,variance,4.0,HUFL-6720,,,,False,,False
+Mann-Whitney,variance,4.0,HUFL-6720,,,,False,,False
+Autoencodeur,variance,4.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),variance,4.0,HUFL-6720,,,,True,178.0,False
+CUSUM,variance,4.0,HUFL-7560,,,,True,263.0,False
+Page-Hinkley,variance,4.0,HUFL-7560,,,,False,,False
+KS,variance,4.0,HUFL-7560,,,,False,,False
+Mann-Whitney,variance,4.0,HUFL-7560,,,,False,,False
+Autoencodeur,variance,4.0,HUFL-7560,,,,True,19.0,False
+Sans réseau (contrôle),variance,4.0,HUFL-7560,,,,True,32.0,False
+CUSUM,variance,4.0,HUFL-8400,,,,False,,False
+Page-Hinkley,variance,4.0,HUFL-8400,,,,False,,False
+KS,variance,4.0,HUFL-8400,,,,False,,False
+Mann-Whitney,variance,4.0,HUFL-8400,,,,False,,False
+Autoencodeur,variance,4.0,HUFL-8400,,,,True,38.0,False
+Sans réseau (contrôle),variance,4.0,HUFL-8400,,,,False,,False
+CUSUM,variance,4.0,HUFL-9240,,,,False,,False
+Page-Hinkley,variance,4.0,HUFL-9240,,,,False,,False
+KS,variance,4.0,HUFL-9240,,,,False,,False
+Mann-Whitney,variance,4.0,HUFL-9240,,,,False,,False
+Autoencodeur,variance,4.0,HUFL-9240,,,,True,7.0,False
+Sans réseau (contrôle),variance,4.0,HUFL-9240,,,,True,6.0,False
+CUSUM,variance,4.0,HUFL-10080,,,,False,,False
+Page-Hinkley,variance,4.0,HUFL-10080,,,,False,,False
+KS,variance,4.0,HUFL-10080,,,,False,,False
+Mann-Whitney,variance,4.0,HUFL-10080,,,,False,,False
+Autoencodeur,variance,4.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),variance,4.0,HUFL-10080,,,,True,7.0,False
+CUSUM,variance,4.0,HUFL-10920,,,,True,269.0,False
+Page-Hinkley,variance,4.0,HUFL-10920,,,,False,,False
+KS,variance,4.0,HUFL-10920,,,,False,,False
+Mann-Whitney,variance,4.0,HUFL-10920,,,,False,,True
+Autoencodeur,variance,4.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),variance,4.0,HUFL-10920,,,,False,,True
+CUSUM,variance,4.0,HUFL-11760,,,,False,,False
+Page-Hinkley,variance,4.0,HUFL-11760,,,,False,,False
+KS,variance,4.0,HUFL-11760,,,,False,,False
+Mann-Whitney,variance,4.0,HUFL-11760,,,,False,,False
+Autoencodeur,variance,4.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),variance,4.0,HUFL-11760,,,,False,,True
+CUSUM,variance,4.0,HUFL-12600,,,,False,,False
+Page-Hinkley,variance,4.0,HUFL-12600,,,,False,,False
+KS,variance,4.0,HUFL-12600,,,,False,,False
+Mann-Whitney,variance,4.0,HUFL-12600,,,,False,,False
+Autoencodeur,variance,4.0,HUFL-12600,,,,True,21.0,False
+Sans réseau (contrôle),variance,4.0,HUFL-12600,,,,True,120.0,False
+CUSUM,variance,4.0,HUFL-13440,,,,False,,False
+Page-Hinkley,variance,4.0,HUFL-13440,,,,False,,False
+KS,variance,4.0,HUFL-13440,,,,False,,False
+Mann-Whitney,variance,4.0,HUFL-13440,,,,False,,False
+Autoencodeur,variance,4.0,HUFL-13440,,,,True,5.0,False
+Sans réseau (contrôle),variance,4.0,HUFL-13440,,,,True,1.0,False
+CUSUM,variance,4.0,MUFL-6720,,,,True,264.0,False
+Page-Hinkley,variance,4.0,MUFL-6720,,,,False,,False
+KS,variance,4.0,MUFL-6720,,,,False,,False
+Mann-Whitney,variance,4.0,MUFL-6720,,,,False,,False
+Autoencodeur,variance,4.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),variance,4.0,MUFL-6720,,,,True,87.0,False
+CUSUM,variance,4.0,MUFL-7560,,,,False,,False
+Page-Hinkley,variance,4.0,MUFL-7560,,,,False,,False
+KS,variance,4.0,MUFL-7560,,,,False,,False
+Mann-Whitney,variance,4.0,MUFL-7560,,,,False,,False
+Autoencodeur,variance,4.0,MUFL-7560,,,,True,19.0,False
+Sans réseau (contrôle),variance,4.0,MUFL-7560,,,,True,251.0,False
+CUSUM,variance,4.0,MUFL-8400,,,,False,,False
+Page-Hinkley,variance,4.0,MUFL-8400,,,,False,,False
+KS,variance,4.0,MUFL-8400,,,,False,,False
+Mann-Whitney,variance,4.0,MUFL-8400,,,,False,,False
+Autoencodeur,variance,4.0,MUFL-8400,,,,True,45.0,False
+Sans réseau (contrôle),variance,4.0,MUFL-8400,,,,False,,False
+CUSUM,variance,4.0,MUFL-9240,,,,False,,False
+Page-Hinkley,variance,4.0,MUFL-9240,,,,False,,False
+KS,variance,4.0,MUFL-9240,,,,False,,False
+Mann-Whitney,variance,4.0,MUFL-9240,,,,False,,False
+Autoencodeur,variance,4.0,MUFL-9240,,,,True,9.0,False
+Sans réseau (contrôle),variance,4.0,MUFL-9240,,,,True,12.0,False
+CUSUM,variance,4.0,MUFL-10080,,,,False,,False
+Page-Hinkley,variance,4.0,MUFL-10080,,,,False,,False
+KS,variance,4.0,MUFL-10080,,,,False,,False
+Mann-Whitney,variance,4.0,MUFL-10080,,,,False,,False
+Autoencodeur,variance,4.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),variance,4.0,MUFL-10080,,,,True,5.0,False
+CUSUM,variance,4.0,MUFL-10920,,,,False,,False
+Page-Hinkley,variance,4.0,MUFL-10920,,,,False,,False
+KS,variance,4.0,MUFL-10920,,,,False,,False
+Mann-Whitney,variance,4.0,MUFL-10920,,,,False,,False
+Autoencodeur,variance,4.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),variance,4.0,MUFL-10920,,,,False,,True
+CUSUM,variance,4.0,MUFL-11760,,,,False,,False
+Page-Hinkley,variance,4.0,MUFL-11760,,,,False,,False
+KS,variance,4.0,MUFL-11760,,,,False,,False
+Mann-Whitney,variance,4.0,MUFL-11760,,,,False,,False
+Autoencodeur,variance,4.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),variance,4.0,MUFL-11760,,,,False,,True
+CUSUM,variance,4.0,MUFL-12600,,,,False,,False
+Page-Hinkley,variance,4.0,MUFL-12600,,,,False,,False
+KS,variance,4.0,MUFL-12600,,,,False,,False
+Mann-Whitney,variance,4.0,MUFL-12600,,,,False,,False
+Autoencodeur,variance,4.0,MUFL-12600,,,,True,16.0,False
+Sans réseau (contrôle),variance,4.0,MUFL-12600,,,,True,52.0,False
+CUSUM,variance,4.0,MUFL-13440,,,,False,,False
+Page-Hinkley,variance,4.0,MUFL-13440,,,,False,,False
+KS,variance,4.0,MUFL-13440,,,,False,,False
+Mann-Whitney,variance,4.0,MUFL-13440,,,,False,,False
+Autoencodeur,variance,4.0,MUFL-13440,,,,True,16.0,False
+Sans réseau (contrôle),variance,4.0,MUFL-13440,,,,False,,True
+CUSUM,variance,4.0,LUFL-6720,,,,False,,False
+Page-Hinkley,variance,4.0,LUFL-6720,,,,False,,False
+KS,variance,4.0,LUFL-6720,,,,False,,False
+Mann-Whitney,variance,4.0,LUFL-6720,,,,False,,False
+Autoencodeur,variance,4.0,LUFL-6720,,,,False,,False
+Sans réseau (contrôle),variance,4.0,LUFL-6720,,,,False,,False
+CUSUM,variance,4.0,LUFL-7560,,,,False,,True
+Page-Hinkley,variance,4.0,LUFL-7560,,,,False,,True
+KS,variance,4.0,LUFL-7560,,,,False,,True
+Mann-Whitney,variance,4.0,LUFL-7560,,,,False,,True
+Autoencodeur,variance,4.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),variance,4.0,LUFL-7560,,,,False,,True
+CUSUM,variance,4.0,LUFL-8400,,,,False,,True
+Page-Hinkley,variance,4.0,LUFL-8400,,,,True,242.0,False
+KS,variance,4.0,LUFL-8400,,,,False,,True
+Mann-Whitney,variance,4.0,LUFL-8400,,,,False,,True
+Autoencodeur,variance,4.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),variance,4.0,LUFL-8400,,,,True,21.0,False
+CUSUM,variance,4.0,LUFL-9240,,,,False,,True
+Page-Hinkley,variance,4.0,LUFL-9240,,,,False,,False
+KS,variance,4.0,LUFL-9240,,,,False,,True
+Mann-Whitney,variance,4.0,LUFL-9240,,,,False,,True
+Autoencodeur,variance,4.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),variance,4.0,LUFL-9240,,,,True,22.0,False
+CUSUM,variance,4.0,LUFL-10080,,,,False,,True
+Page-Hinkley,variance,4.0,LUFL-10080,,,,False,,False
+KS,variance,4.0,LUFL-10080,,,,False,,False
+Mann-Whitney,variance,4.0,LUFL-10080,,,,False,,True
+Autoencodeur,variance,4.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),variance,4.0,LUFL-10080,,,,True,12.0,False
+CUSUM,variance,4.0,LUFL-10920,,,,False,,True
+Page-Hinkley,variance,4.0,LUFL-10920,,,,True,103.0,False
+KS,variance,4.0,LUFL-10920,,,,False,,True
+Mann-Whitney,variance,4.0,LUFL-10920,,,,False,,True
+Autoencodeur,variance,4.0,LUFL-10920,,,,True,20.0,False
+Sans réseau (contrôle),variance,4.0,LUFL-10920,,,,True,15.0,False
+CUSUM,variance,4.0,LUFL-11760,,,,False,,False
+Page-Hinkley,variance,4.0,LUFL-11760,,,,False,,False
+KS,variance,4.0,LUFL-11760,,,,False,,True
+Mann-Whitney,variance,4.0,LUFL-11760,,,,True,6.0,False
+Autoencodeur,variance,4.0,LUFL-11760,,,,True,18.0,False
+Sans réseau (contrôle),variance,4.0,LUFL-11760,,,,True,120.0,False
+CUSUM,variance,4.0,LUFL-12600,,,,False,,False
+Page-Hinkley,variance,4.0,LUFL-12600,,,,False,,False
+KS,variance,4.0,LUFL-12600,,,,False,,False
+Mann-Whitney,variance,4.0,LUFL-12600,,,,False,,False
+Autoencodeur,variance,4.0,LUFL-12600,,,,True,8.0,False
+Sans réseau (contrôle),variance,4.0,LUFL-12600,,,,True,51.0,False
+CUSUM,variance,4.0,LUFL-13440,,,,False,,False
+Page-Hinkley,variance,4.0,LUFL-13440,,,,False,,False
+KS,variance,4.0,LUFL-13440,,,,False,,False
+Mann-Whitney,variance,4.0,LUFL-13440,,,,False,,False
+Autoencodeur,variance,4.0,LUFL-13440,,,,True,27.0,False
+Sans réseau (contrôle),variance,4.0,LUFL-13440,,,,True,288.0,False
+CUSUM,variance,6.0,HUFL-6720,,,,True,182.0,False
+Page-Hinkley,variance,6.0,HUFL-6720,,,,False,,False
+KS,variance,6.0,HUFL-6720,,,,False,,False
+Mann-Whitney,variance,6.0,HUFL-6720,,,,False,,False
+Autoencodeur,variance,6.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),variance,6.0,HUFL-6720,,,,True,7.0,False
+CUSUM,variance,6.0,HUFL-7560,,,,True,63.0,False
+Page-Hinkley,variance,6.0,HUFL-7560,,,,False,,False
+KS,variance,6.0,HUFL-7560,,,,False,,False
+Mann-Whitney,variance,6.0,HUFL-7560,,,,False,,False
+Autoencodeur,variance,6.0,HUFL-7560,,,,True,11.0,False
+Sans réseau (contrôle),variance,6.0,HUFL-7560,,,,True,15.0,False
+CUSUM,variance,6.0,HUFL-8400,,,,False,,False
+Page-Hinkley,variance,6.0,HUFL-8400,,,,False,,False
+KS,variance,6.0,HUFL-8400,,,,False,,False
+Mann-Whitney,variance,6.0,HUFL-8400,,,,False,,False
+Autoencodeur,variance,6.0,HUFL-8400,,,,True,22.0,False
+Sans réseau (contrôle),variance,6.0,HUFL-8400,,,,True,24.0,False
+CUSUM,variance,6.0,HUFL-9240,,,,False,,False
+Page-Hinkley,variance,6.0,HUFL-9240,,,,False,,False
+KS,variance,6.0,HUFL-9240,,,,False,,False
+Mann-Whitney,variance,6.0,HUFL-9240,,,,False,,False
+Autoencodeur,variance,6.0,HUFL-9240,,,,True,8.0,False
+Sans réseau (contrôle),variance,6.0,HUFL-9240,,,,True,10.0,False
+CUSUM,variance,6.0,HUFL-10080,,,,False,,False
+Page-Hinkley,variance,6.0,HUFL-10080,,,,False,,False
+KS,variance,6.0,HUFL-10080,,,,False,,False
+Mann-Whitney,variance,6.0,HUFL-10080,,,,False,,False
+Autoencodeur,variance,6.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),variance,6.0,HUFL-10080,,,,True,2.0,False
+CUSUM,variance,6.0,HUFL-10920,,,,False,,False
+Page-Hinkley,variance,6.0,HUFL-10920,,,,False,,False
+KS,variance,6.0,HUFL-10920,,,,False,,False
+Mann-Whitney,variance,6.0,HUFL-10920,,,,False,,True
+Autoencodeur,variance,6.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),variance,6.0,HUFL-10920,,,,False,,True
+CUSUM,variance,6.0,HUFL-11760,,,,False,,False
+Page-Hinkley,variance,6.0,HUFL-11760,,,,False,,False
+KS,variance,6.0,HUFL-11760,,,,False,,False
+Mann-Whitney,variance,6.0,HUFL-11760,,,,False,,False
+Autoencodeur,variance,6.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),variance,6.0,HUFL-11760,,,,False,,True
+CUSUM,variance,6.0,HUFL-12600,,,,False,,False
+Page-Hinkley,variance,6.0,HUFL-12600,,,,False,,False
+KS,variance,6.0,HUFL-12600,,,,False,,False
+Mann-Whitney,variance,6.0,HUFL-12600,,,,False,,False
+Autoencodeur,variance,6.0,HUFL-12600,,,,True,14.0,False
+Sans réseau (contrôle),variance,6.0,HUFL-12600,,,,True,16.0,False
+CUSUM,variance,6.0,HUFL-13440,,,,False,,False
+Page-Hinkley,variance,6.0,HUFL-13440,,,,False,,False
+KS,variance,6.0,HUFL-13440,,,,False,,False
+Mann-Whitney,variance,6.0,HUFL-13440,,,,False,,False
+Autoencodeur,variance,6.0,HUFL-13440,,,,True,10.0,False
+Sans réseau (contrôle),variance,6.0,HUFL-13440,,,,True,8.0,False
+CUSUM,variance,6.0,MUFL-6720,,,,False,,False
+Page-Hinkley,variance,6.0,MUFL-6720,,,,False,,False
+KS,variance,6.0,MUFL-6720,,,,False,,False
+Mann-Whitney,variance,6.0,MUFL-6720,,,,False,,False
+Autoencodeur,variance,6.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),variance,6.0,MUFL-6720,,,,True,41.0,False
+CUSUM,variance,6.0,MUFL-7560,,,,False,,False
+Page-Hinkley,variance,6.0,MUFL-7560,,,,False,,False
+KS,variance,6.0,MUFL-7560,,,,False,,False
+Mann-Whitney,variance,6.0,MUFL-7560,,,,False,,False
+Autoencodeur,variance,6.0,MUFL-7560,,,,True,16.0,False
+Sans réseau (contrôle),variance,6.0,MUFL-7560,,,,True,75.0,False
+CUSUM,variance,6.0,MUFL-8400,,,,False,,False
+Page-Hinkley,variance,6.0,MUFL-8400,,,,False,,False
+KS,variance,6.0,MUFL-8400,,,,False,,False
+Mann-Whitney,variance,6.0,MUFL-8400,,,,False,,False
+Autoencodeur,variance,6.0,MUFL-8400,,,,True,22.0,False
+Sans réseau (contrôle),variance,6.0,MUFL-8400,,,,True,64.0,False
+CUSUM,variance,6.0,MUFL-9240,,,,False,,False
+Page-Hinkley,variance,6.0,MUFL-9240,,,,False,,False
+KS,variance,6.0,MUFL-9240,,,,False,,False
+Mann-Whitney,variance,6.0,MUFL-9240,,,,False,,False
+Autoencodeur,variance,6.0,MUFL-9240,,,,True,6.0,False
+Sans réseau (contrôle),variance,6.0,MUFL-9240,,,,True,13.0,False
+CUSUM,variance,6.0,MUFL-10080,,,,False,,False
+Page-Hinkley,variance,6.0,MUFL-10080,,,,False,,False
+KS,variance,6.0,MUFL-10080,,,,False,,False
+Mann-Whitney,variance,6.0,MUFL-10080,,,,False,,False
+Autoencodeur,variance,6.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),variance,6.0,MUFL-10080,,,,True,1.0,False
+CUSUM,variance,6.0,MUFL-10920,,,,False,,False
+Page-Hinkley,variance,6.0,MUFL-10920,,,,False,,False
+KS,variance,6.0,MUFL-10920,,,,False,,False
+Mann-Whitney,variance,6.0,MUFL-10920,,,,False,,False
+Autoencodeur,variance,6.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),variance,6.0,MUFL-10920,,,,False,,True
+CUSUM,variance,6.0,MUFL-11760,,,,False,,False
+Page-Hinkley,variance,6.0,MUFL-11760,,,,False,,False
+KS,variance,6.0,MUFL-11760,,,,False,,False
+Mann-Whitney,variance,6.0,MUFL-11760,,,,False,,False
+Autoencodeur,variance,6.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),variance,6.0,MUFL-11760,,,,False,,True
+CUSUM,variance,6.0,MUFL-12600,,,,False,,False
+Page-Hinkley,variance,6.0,MUFL-12600,,,,False,,False
+KS,variance,6.0,MUFL-12600,,,,False,,False
+Mann-Whitney,variance,6.0,MUFL-12600,,,,False,,False
+Autoencodeur,variance,6.0,MUFL-12600,,,,True,14.0,False
+Sans réseau (contrôle),variance,6.0,MUFL-12600,,,,True,19.0,False
+CUSUM,variance,6.0,MUFL-13440,,,,False,,False
+Page-Hinkley,variance,6.0,MUFL-13440,,,,False,,False
+KS,variance,6.0,MUFL-13440,,,,False,,False
+Mann-Whitney,variance,6.0,MUFL-13440,,,,False,,False
+Autoencodeur,variance,6.0,MUFL-13440,,,,True,5.0,False
+Sans réseau (contrôle),variance,6.0,MUFL-13440,,,,False,,True
+CUSUM,variance,6.0,LUFL-6720,,,,True,290.0,False
+Page-Hinkley,variance,6.0,LUFL-6720,,,,False,,False
+KS,variance,6.0,LUFL-6720,,,,True,162.0,False
+Mann-Whitney,variance,6.0,LUFL-6720,,,,False,,False
+Autoencodeur,variance,6.0,LUFL-6720,,,,True,29.0,False
+Sans réseau (contrôle),variance,6.0,LUFL-6720,,,,True,265.0,False
+CUSUM,variance,6.0,LUFL-7560,,,,False,,True
+Page-Hinkley,variance,6.0,LUFL-7560,,,,False,,True
+KS,variance,6.0,LUFL-7560,,,,False,,True
+Mann-Whitney,variance,6.0,LUFL-7560,,,,False,,True
+Autoencodeur,variance,6.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),variance,6.0,LUFL-7560,,,,False,,True
+CUSUM,variance,6.0,LUFL-8400,,,,False,,True
+Page-Hinkley,variance,6.0,LUFL-8400,,,,False,,False
+KS,variance,6.0,LUFL-8400,,,,False,,True
+Mann-Whitney,variance,6.0,LUFL-8400,,,,False,,True
+Autoencodeur,variance,6.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),variance,6.0,LUFL-8400,,,,True,20.0,False
+CUSUM,variance,6.0,LUFL-9240,,,,False,,True
+Page-Hinkley,variance,6.0,LUFL-9240,,,,False,,False
+KS,variance,6.0,LUFL-9240,,,,False,,True
+Mann-Whitney,variance,6.0,LUFL-9240,,,,False,,True
+Autoencodeur,variance,6.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),variance,6.0,LUFL-9240,,,,True,8.0,False
+CUSUM,variance,6.0,LUFL-10080,,,,False,,True
+Page-Hinkley,variance,6.0,LUFL-10080,,,,False,,False
+KS,variance,6.0,LUFL-10080,,,,False,,False
+Mann-Whitney,variance,6.0,LUFL-10080,,,,False,,True
+Autoencodeur,variance,6.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),variance,6.0,LUFL-10080,,,,True,13.0,False
+CUSUM,variance,6.0,LUFL-10920,,,,False,,True
+Page-Hinkley,variance,6.0,LUFL-10920,,,,True,89.0,False
+KS,variance,6.0,LUFL-10920,,,,False,,True
+Mann-Whitney,variance,6.0,LUFL-10920,,,,False,,True
+Autoencodeur,variance,6.0,LUFL-10920,,,,True,17.0,False
+Sans réseau (contrôle),variance,6.0,LUFL-10920,,,,True,15.0,False
+CUSUM,variance,6.0,LUFL-11760,,,,False,,False
+Page-Hinkley,variance,6.0,LUFL-11760,,,,False,,False
+KS,variance,6.0,LUFL-11760,,,,False,,True
+Mann-Whitney,variance,6.0,LUFL-11760,,,,True,4.0,False
+Autoencodeur,variance,6.0,LUFL-11760,,,,True,7.0,False
+Sans réseau (contrôle),variance,6.0,LUFL-11760,,,,True,14.0,False
+CUSUM,variance,6.0,LUFL-12600,,,,False,,False
+Page-Hinkley,variance,6.0,LUFL-12600,,,,False,,False
+KS,variance,6.0,LUFL-12600,,,,False,,False
+Mann-Whitney,variance,6.0,LUFL-12600,,,,False,,False
+Autoencodeur,variance,6.0,LUFL-12600,,,,True,11.0,False
+Sans réseau (contrôle),variance,6.0,LUFL-12600,,,,True,14.0,False
+CUSUM,variance,6.0,LUFL-13440,,,,False,,False
+Page-Hinkley,variance,6.0,LUFL-13440,,,,False,,False
+KS,variance,6.0,LUFL-13440,,,,False,,False
+Mann-Whitney,variance,6.0,LUFL-13440,,,,False,,False
+Autoencodeur,variance,6.0,LUFL-13440,,,,True,18.0,False
+Sans réseau (contrôle),variance,6.0,LUFL-13440,,,,True,48.0,False
+CUSUM,saisonnalite,2.0,HUFL-6720,,,,True,267.0,False
+Page-Hinkley,saisonnalite,2.0,HUFL-6720,,,,False,,False
+KS,saisonnalite,2.0,HUFL-6720,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,HUFL-6720,,,,False,,False
+Autoencodeur,saisonnalite,2.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,HUFL-6720,,,,False,,False
+CUSUM,saisonnalite,2.0,HUFL-7560,,,,True,252.0,False
+Page-Hinkley,saisonnalite,2.0,HUFL-7560,,,,False,,False
+KS,saisonnalite,2.0,HUFL-7560,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,HUFL-7560,,,,False,,False
+Autoencodeur,saisonnalite,2.0,HUFL-7560,,,,True,252.0,False
+Sans réseau (contrôle),saisonnalite,2.0,HUFL-7560,,,,True,251.0,False
+CUSUM,saisonnalite,2.0,HUFL-8400,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,HUFL-8400,,,,False,,False
+KS,saisonnalite,2.0,HUFL-8400,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,HUFL-8400,,,,False,,False
+Autoencodeur,saisonnalite,2.0,HUFL-8400,,,,False,,False
+Sans réseau (contrôle),saisonnalite,2.0,HUFL-8400,,,,False,,False
+CUSUM,saisonnalite,2.0,HUFL-9240,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,HUFL-9240,,,,False,,False
+KS,saisonnalite,2.0,HUFL-9240,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,HUFL-9240,,,,False,,False
+Autoencodeur,saisonnalite,2.0,HUFL-9240,,,,True,231.0,False
+Sans réseau (contrôle),saisonnalite,2.0,HUFL-9240,,,,False,,False
+CUSUM,saisonnalite,2.0,HUFL-10080,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,HUFL-10080,,,,False,,False
+KS,saisonnalite,2.0,HUFL-10080,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,HUFL-10080,,,,False,,False
+Autoencodeur,saisonnalite,2.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,HUFL-10080,,,,False,,False
+CUSUM,saisonnalite,2.0,HUFL-10920,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,HUFL-10920,,,,False,,False
+KS,saisonnalite,2.0,HUFL-10920,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,HUFL-10920,,,,False,,True
+Autoencodeur,saisonnalite,2.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,HUFL-10920,,,,False,,True
+CUSUM,saisonnalite,2.0,HUFL-11760,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,HUFL-11760,,,,False,,False
+KS,saisonnalite,2.0,HUFL-11760,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,HUFL-11760,,,,False,,False
+Autoencodeur,saisonnalite,2.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,HUFL-11760,,,,False,,True
+CUSUM,saisonnalite,2.0,HUFL-12600,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,HUFL-12600,,,,False,,False
+KS,saisonnalite,2.0,HUFL-12600,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,HUFL-12600,,,,False,,False
+Autoencodeur,saisonnalite,2.0,HUFL-12600,,,,False,,False
+Sans réseau (contrôle),saisonnalite,2.0,HUFL-12600,,,,False,,False
+CUSUM,saisonnalite,2.0,HUFL-13440,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,HUFL-13440,,,,False,,False
+KS,saisonnalite,2.0,HUFL-13440,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,HUFL-13440,,,,False,,False
+Autoencodeur,saisonnalite,2.0,HUFL-13440,,,,True,43.0,False
+Sans réseau (contrôle),saisonnalite,2.0,HUFL-13440,,,,True,19.0,False
+CUSUM,saisonnalite,2.0,MUFL-6720,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,MUFL-6720,,,,False,,False
+KS,saisonnalite,2.0,MUFL-6720,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,MUFL-6720,,,,False,,False
+Autoencodeur,saisonnalite,2.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,MUFL-6720,,,,False,,False
+CUSUM,saisonnalite,2.0,MUFL-7560,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,MUFL-7560,,,,False,,False
+KS,saisonnalite,2.0,MUFL-7560,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,MUFL-7560,,,,False,,False
+Autoencodeur,saisonnalite,2.0,MUFL-7560,,,,True,258.0,False
+Sans réseau (contrôle),saisonnalite,2.0,MUFL-7560,,,,True,254.0,False
+CUSUM,saisonnalite,2.0,MUFL-8400,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,MUFL-8400,,,,False,,False
+KS,saisonnalite,2.0,MUFL-8400,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,MUFL-8400,,,,False,,False
+Autoencodeur,saisonnalite,2.0,MUFL-8400,,,,False,,False
+Sans réseau (contrôle),saisonnalite,2.0,MUFL-8400,,,,False,,False
+CUSUM,saisonnalite,2.0,MUFL-9240,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,MUFL-9240,,,,False,,False
+KS,saisonnalite,2.0,MUFL-9240,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,MUFL-9240,,,,False,,False
+Autoencodeur,saisonnalite,2.0,MUFL-9240,,,,True,263.0,False
+Sans réseau (contrôle),saisonnalite,2.0,MUFL-9240,,,,False,,False
+CUSUM,saisonnalite,2.0,MUFL-10080,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,MUFL-10080,,,,False,,False
+KS,saisonnalite,2.0,MUFL-10080,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,MUFL-10080,,,,False,,False
+Autoencodeur,saisonnalite,2.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,MUFL-10080,,,,False,,False
+CUSUM,saisonnalite,2.0,MUFL-10920,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,MUFL-10920,,,,False,,False
+KS,saisonnalite,2.0,MUFL-10920,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,MUFL-10920,,,,False,,False
+Autoencodeur,saisonnalite,2.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,MUFL-10920,,,,False,,True
+CUSUM,saisonnalite,2.0,MUFL-11760,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,MUFL-11760,,,,False,,False
+KS,saisonnalite,2.0,MUFL-11760,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,MUFL-11760,,,,False,,False
+Autoencodeur,saisonnalite,2.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,MUFL-11760,,,,False,,True
+CUSUM,saisonnalite,2.0,MUFL-12600,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,MUFL-12600,,,,False,,False
+KS,saisonnalite,2.0,MUFL-12600,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,MUFL-12600,,,,False,,False
+Autoencodeur,saisonnalite,2.0,MUFL-12600,,,,False,,False
+Sans réseau (contrôle),saisonnalite,2.0,MUFL-12600,,,,False,,False
+CUSUM,saisonnalite,2.0,MUFL-13440,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,MUFL-13440,,,,False,,False
+KS,saisonnalite,2.0,MUFL-13440,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,MUFL-13440,,,,False,,False
+Autoencodeur,saisonnalite,2.0,MUFL-13440,,,,True,140.0,False
+Sans réseau (contrôle),saisonnalite,2.0,MUFL-13440,,,,False,,True
+CUSUM,saisonnalite,2.0,LUFL-6720,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,LUFL-6720,,,,False,,False
+KS,saisonnalite,2.0,LUFL-6720,,,,True,292.0,False
+Mann-Whitney,saisonnalite,2.0,LUFL-6720,,,,True,291.0,False
+Autoencodeur,saisonnalite,2.0,LUFL-6720,,,,False,,False
+Sans réseau (contrôle),saisonnalite,2.0,LUFL-6720,,,,False,,False
+CUSUM,saisonnalite,2.0,LUFL-7560,,,,False,,True
+Page-Hinkley,saisonnalite,2.0,LUFL-7560,,,,False,,True
+KS,saisonnalite,2.0,LUFL-7560,,,,False,,True
+Mann-Whitney,saisonnalite,2.0,LUFL-7560,,,,False,,True
+Autoencodeur,saisonnalite,2.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,LUFL-7560,,,,False,,True
+CUSUM,saisonnalite,2.0,LUFL-8400,,,,False,,True
+Page-Hinkley,saisonnalite,2.0,LUFL-8400,,,,False,,False
+KS,saisonnalite,2.0,LUFL-8400,,,,False,,True
+Mann-Whitney,saisonnalite,2.0,LUFL-8400,,,,False,,True
+Autoencodeur,saisonnalite,2.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,LUFL-8400,,,,False,,False
+CUSUM,saisonnalite,2.0,LUFL-9240,,,,False,,True
+Page-Hinkley,saisonnalite,2.0,LUFL-9240,,,,False,,False
+KS,saisonnalite,2.0,LUFL-9240,,,,False,,True
+Mann-Whitney,saisonnalite,2.0,LUFL-9240,,,,False,,True
+Autoencodeur,saisonnalite,2.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,LUFL-9240,,,,False,,False
+CUSUM,saisonnalite,2.0,LUFL-10080,,,,False,,True
+Page-Hinkley,saisonnalite,2.0,LUFL-10080,,,,False,,False
+KS,saisonnalite,2.0,LUFL-10080,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,LUFL-10080,,,,False,,True
+Autoencodeur,saisonnalite,2.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),saisonnalite,2.0,LUFL-10080,,,,False,,False
+CUSUM,saisonnalite,2.0,LUFL-10920,,,,False,,True
+Page-Hinkley,saisonnalite,2.0,LUFL-10920,,,,True,103.0,False
+KS,saisonnalite,2.0,LUFL-10920,,,,False,,True
+Mann-Whitney,saisonnalite,2.0,LUFL-10920,,,,False,,True
+Autoencodeur,saisonnalite,2.0,LUFL-10920,,,,True,26.0,False
+Sans réseau (contrôle),saisonnalite,2.0,LUFL-10920,,,,True,16.0,False
+CUSUM,saisonnalite,2.0,LUFL-11760,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,LUFL-11760,,,,False,,False
+KS,saisonnalite,2.0,LUFL-11760,,,,False,,True
+Mann-Whitney,saisonnalite,2.0,LUFL-11760,,,,True,2.0,False
+Autoencodeur,saisonnalite,2.0,LUFL-11760,,,,True,35.0,False
+Sans réseau (contrôle),saisonnalite,2.0,LUFL-11760,,,,False,,False
+CUSUM,saisonnalite,2.0,LUFL-12600,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,LUFL-12600,,,,False,,False
+KS,saisonnalite,2.0,LUFL-12600,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,LUFL-12600,,,,True,281.0,False
+Autoencodeur,saisonnalite,2.0,LUFL-12600,,,,False,,False
+Sans réseau (contrôle),saisonnalite,2.0,LUFL-12600,,,,False,,False
+CUSUM,saisonnalite,2.0,LUFL-13440,,,,False,,False
+Page-Hinkley,saisonnalite,2.0,LUFL-13440,,,,False,,False
+KS,saisonnalite,2.0,LUFL-13440,,,,False,,False
+Mann-Whitney,saisonnalite,2.0,LUFL-13440,,,,False,,False
+Autoencodeur,saisonnalite,2.0,LUFL-13440,,,,True,260.0,False
+Sans réseau (contrôle),saisonnalite,2.0,LUFL-13440,,,,False,,False
+CUSUM,saisonnalite,4.0,HUFL-6720,,,,True,253.0,False
+Page-Hinkley,saisonnalite,4.0,HUFL-6720,,,,False,,False
+KS,saisonnalite,4.0,HUFL-6720,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,HUFL-6720,,,,False,,False
+Autoencodeur,saisonnalite,4.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,HUFL-6720,,,,False,,False
+CUSUM,saisonnalite,4.0,HUFL-7560,,,,True,251.0,False
+Page-Hinkley,saisonnalite,4.0,HUFL-7560,,,,False,,False
+KS,saisonnalite,4.0,HUFL-7560,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,HUFL-7560,,,,False,,False
+Autoencodeur,saisonnalite,4.0,HUFL-7560,,,,True,52.0,False
+Sans réseau (contrôle),saisonnalite,4.0,HUFL-7560,,,,True,249.0,False
+CUSUM,saisonnalite,4.0,HUFL-8400,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,HUFL-8400,,,,False,,False
+KS,saisonnalite,4.0,HUFL-8400,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,HUFL-8400,,,,False,,False
+Autoencodeur,saisonnalite,4.0,HUFL-8400,,,,False,,False
+Sans réseau (contrôle),saisonnalite,4.0,HUFL-8400,,,,False,,False
+CUSUM,saisonnalite,4.0,HUFL-9240,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,HUFL-9240,,,,False,,False
+KS,saisonnalite,4.0,HUFL-9240,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,HUFL-9240,,,,False,,False
+Autoencodeur,saisonnalite,4.0,HUFL-9240,,,,True,36.0,False
+Sans réseau (contrôle),saisonnalite,4.0,HUFL-9240,,,,True,33.0,False
+CUSUM,saisonnalite,4.0,HUFL-10080,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,HUFL-10080,,,,False,,False
+KS,saisonnalite,4.0,HUFL-10080,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,HUFL-10080,,,,False,,False
+Autoencodeur,saisonnalite,4.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,HUFL-10080,,,,True,79.0,False
+CUSUM,saisonnalite,4.0,HUFL-10920,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,HUFL-10920,,,,False,,False
+KS,saisonnalite,4.0,HUFL-10920,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,HUFL-10920,,,,False,,True
+Autoencodeur,saisonnalite,4.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,HUFL-10920,,,,False,,True
+CUSUM,saisonnalite,4.0,HUFL-11760,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,HUFL-11760,,,,False,,False
+KS,saisonnalite,4.0,HUFL-11760,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,HUFL-11760,,,,False,,False
+Autoencodeur,saisonnalite,4.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,HUFL-11760,,,,False,,True
+CUSUM,saisonnalite,4.0,HUFL-12600,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,HUFL-12600,,,,False,,False
+KS,saisonnalite,4.0,HUFL-12600,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,HUFL-12600,,,,False,,False
+Autoencodeur,saisonnalite,4.0,HUFL-12600,,,,False,,False
+Sans réseau (contrôle),saisonnalite,4.0,HUFL-12600,,,,False,,False
+CUSUM,saisonnalite,4.0,HUFL-13440,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,HUFL-13440,,,,False,,False
+KS,saisonnalite,4.0,HUFL-13440,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,HUFL-13440,,,,False,,False
+Autoencodeur,saisonnalite,4.0,HUFL-13440,,,,True,20.0,False
+Sans réseau (contrôle),saisonnalite,4.0,HUFL-13440,,,,True,15.0,False
+CUSUM,saisonnalite,4.0,MUFL-6720,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,MUFL-6720,,,,False,,False
+KS,saisonnalite,4.0,MUFL-6720,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,MUFL-6720,,,,False,,False
+Autoencodeur,saisonnalite,4.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,MUFL-6720,,,,False,,False
+CUSUM,saisonnalite,4.0,MUFL-7560,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,MUFL-7560,,,,False,,False
+KS,saisonnalite,4.0,MUFL-7560,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,MUFL-7560,,,,False,,False
+Autoencodeur,saisonnalite,4.0,MUFL-7560,,,,True,254.0,False
+Sans réseau (contrôle),saisonnalite,4.0,MUFL-7560,,,,True,251.0,False
+CUSUM,saisonnalite,4.0,MUFL-8400,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,MUFL-8400,,,,False,,False
+KS,saisonnalite,4.0,MUFL-8400,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,MUFL-8400,,,,False,,False
+Autoencodeur,saisonnalite,4.0,MUFL-8400,,,,False,,False
+Sans réseau (contrôle),saisonnalite,4.0,MUFL-8400,,,,False,,False
+CUSUM,saisonnalite,4.0,MUFL-9240,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,MUFL-9240,,,,False,,False
+KS,saisonnalite,4.0,MUFL-9240,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,MUFL-9240,,,,False,,False
+Autoencodeur,saisonnalite,4.0,MUFL-9240,,,,True,38.0,False
+Sans réseau (contrôle),saisonnalite,4.0,MUFL-9240,,,,True,35.0,False
+CUSUM,saisonnalite,4.0,MUFL-10080,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,MUFL-10080,,,,False,,False
+KS,saisonnalite,4.0,MUFL-10080,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,MUFL-10080,,,,False,,False
+Autoencodeur,saisonnalite,4.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,MUFL-10080,,,,True,55.0,False
+CUSUM,saisonnalite,4.0,MUFL-10920,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,MUFL-10920,,,,False,,False
+KS,saisonnalite,4.0,MUFL-10920,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,MUFL-10920,,,,False,,False
+Autoencodeur,saisonnalite,4.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,MUFL-10920,,,,False,,True
+CUSUM,saisonnalite,4.0,MUFL-11760,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,MUFL-11760,,,,False,,False
+KS,saisonnalite,4.0,MUFL-11760,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,MUFL-11760,,,,False,,False
+Autoencodeur,saisonnalite,4.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,MUFL-11760,,,,False,,True
+CUSUM,saisonnalite,4.0,MUFL-12600,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,MUFL-12600,,,,False,,False
+KS,saisonnalite,4.0,MUFL-12600,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,MUFL-12600,,,,False,,False
+Autoencodeur,saisonnalite,4.0,MUFL-12600,,,,True,61.0,False
+Sans réseau (contrôle),saisonnalite,4.0,MUFL-12600,,,,False,,False
+CUSUM,saisonnalite,4.0,MUFL-13440,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,MUFL-13440,,,,False,,False
+KS,saisonnalite,4.0,MUFL-13440,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,MUFL-13440,,,,False,,False
+Autoencodeur,saisonnalite,4.0,MUFL-13440,,,,True,24.0,False
+Sans réseau (contrôle),saisonnalite,4.0,MUFL-13440,,,,False,,True
+CUSUM,saisonnalite,4.0,LUFL-6720,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,LUFL-6720,,,,False,,False
+KS,saisonnalite,4.0,LUFL-6720,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,LUFL-6720,,,,False,,False
+Autoencodeur,saisonnalite,4.0,LUFL-6720,,,,False,,False
+Sans réseau (contrôle),saisonnalite,4.0,LUFL-6720,,,,False,,False
+CUSUM,saisonnalite,4.0,LUFL-7560,,,,False,,True
+Page-Hinkley,saisonnalite,4.0,LUFL-7560,,,,False,,True
+KS,saisonnalite,4.0,LUFL-7560,,,,False,,True
+Mann-Whitney,saisonnalite,4.0,LUFL-7560,,,,False,,True
+Autoencodeur,saisonnalite,4.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,LUFL-7560,,,,False,,True
+CUSUM,saisonnalite,4.0,LUFL-8400,,,,False,,True
+Page-Hinkley,saisonnalite,4.0,LUFL-8400,,,,False,,False
+KS,saisonnalite,4.0,LUFL-8400,,,,False,,True
+Mann-Whitney,saisonnalite,4.0,LUFL-8400,,,,False,,True
+Autoencodeur,saisonnalite,4.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,LUFL-8400,,,,True,137.0,False
+CUSUM,saisonnalite,4.0,LUFL-9240,,,,False,,True
+Page-Hinkley,saisonnalite,4.0,LUFL-9240,,,,False,,False
+KS,saisonnalite,4.0,LUFL-9240,,,,False,,True
+Mann-Whitney,saisonnalite,4.0,LUFL-9240,,,,False,,True
+Autoencodeur,saisonnalite,4.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,LUFL-9240,,,,True,21.0,False
+CUSUM,saisonnalite,4.0,LUFL-10080,,,,False,,True
+Page-Hinkley,saisonnalite,4.0,LUFL-10080,,,,False,,False
+KS,saisonnalite,4.0,LUFL-10080,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,LUFL-10080,,,,False,,True
+Autoencodeur,saisonnalite,4.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),saisonnalite,4.0,LUFL-10080,,,,False,,False
+CUSUM,saisonnalite,4.0,LUFL-10920,,,,False,,True
+Page-Hinkley,saisonnalite,4.0,LUFL-10920,,,,True,102.0,False
+KS,saisonnalite,4.0,LUFL-10920,,,,False,,True
+Mann-Whitney,saisonnalite,4.0,LUFL-10920,,,,False,,True
+Autoencodeur,saisonnalite,4.0,LUFL-10920,,,,True,24.0,False
+Sans réseau (contrôle),saisonnalite,4.0,LUFL-10920,,,,True,16.0,False
+CUSUM,saisonnalite,4.0,LUFL-11760,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,LUFL-11760,,,,False,,False
+KS,saisonnalite,4.0,LUFL-11760,,,,False,,True
+Mann-Whitney,saisonnalite,4.0,LUFL-11760,,,,True,2.0,False
+Autoencodeur,saisonnalite,4.0,LUFL-11760,,,,True,29.0,False
+Sans réseau (contrôle),saisonnalite,4.0,LUFL-11760,,,,True,127.0,False
+CUSUM,saisonnalite,4.0,LUFL-12600,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,LUFL-12600,,,,False,,False
+KS,saisonnalite,4.0,LUFL-12600,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,LUFL-12600,,,,False,,False
+Autoencodeur,saisonnalite,4.0,LUFL-12600,,,,True,242.0,False
+Sans réseau (contrôle),saisonnalite,4.0,LUFL-12600,,,,False,,False
+CUSUM,saisonnalite,4.0,LUFL-13440,,,,False,,False
+Page-Hinkley,saisonnalite,4.0,LUFL-13440,,,,False,,False
+KS,saisonnalite,4.0,LUFL-13440,,,,False,,False
+Mann-Whitney,saisonnalite,4.0,LUFL-13440,,,,False,,False
+Autoencodeur,saisonnalite,4.0,LUFL-13440,,,,True,29.0,False
+Sans réseau (contrôle),saisonnalite,4.0,LUFL-13440,,,,False,,False
+CUSUM,saisonnalite,6.0,HUFL-6720,,,,True,249.0,False
+Page-Hinkley,saisonnalite,6.0,HUFL-6720,,,,False,,False
+KS,saisonnalite,6.0,HUFL-6720,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,HUFL-6720,,,,False,,False
+Autoencodeur,saisonnalite,6.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,HUFL-6720,,,,True,151.0,False
+CUSUM,saisonnalite,6.0,HUFL-7560,,,,True,250.0,False
+Page-Hinkley,saisonnalite,6.0,HUFL-7560,,,,False,,False
+KS,saisonnalite,6.0,HUFL-7560,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,HUFL-7560,,,,False,,False
+Autoencodeur,saisonnalite,6.0,HUFL-7560,,,,True,20.0,False
+Sans réseau (contrôle),saisonnalite,6.0,HUFL-7560,,,,True,34.0,False
+CUSUM,saisonnalite,6.0,HUFL-8400,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,HUFL-8400,,,,False,,False
+KS,saisonnalite,6.0,HUFL-8400,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,HUFL-8400,,,,False,,False
+Autoencodeur,saisonnalite,6.0,HUFL-8400,,,,False,,False
+Sans réseau (contrôle),saisonnalite,6.0,HUFL-8400,,,,False,,False
+CUSUM,saisonnalite,6.0,HUFL-9240,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,HUFL-9240,,,,False,,False
+KS,saisonnalite,6.0,HUFL-9240,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,HUFL-9240,,,,False,,False
+Autoencodeur,saisonnalite,6.0,HUFL-9240,,,,True,21.0,False
+Sans réseau (contrôle),saisonnalite,6.0,HUFL-9240,,,,True,19.0,False
+CUSUM,saisonnalite,6.0,HUFL-10080,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,HUFL-10080,,,,False,,False
+KS,saisonnalite,6.0,HUFL-10080,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,HUFL-10080,,,,False,,False
+Autoencodeur,saisonnalite,6.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,HUFL-10080,,,,True,7.0,False
+CUSUM,saisonnalite,6.0,HUFL-10920,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,HUFL-10920,,,,False,,False
+KS,saisonnalite,6.0,HUFL-10920,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,HUFL-10920,,,,False,,True
+Autoencodeur,saisonnalite,6.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,HUFL-10920,,,,False,,True
+CUSUM,saisonnalite,6.0,HUFL-11760,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,HUFL-11760,,,,False,,False
+KS,saisonnalite,6.0,HUFL-11760,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,HUFL-11760,,,,False,,False
+Autoencodeur,saisonnalite,6.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,HUFL-11760,,,,False,,True
+CUSUM,saisonnalite,6.0,HUFL-12600,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,HUFL-12600,,,,False,,False
+KS,saisonnalite,6.0,HUFL-12600,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,HUFL-12600,,,,False,,False
+Autoencodeur,saisonnalite,6.0,HUFL-12600,,,,True,51.0,False
+Sans réseau (contrôle),saisonnalite,6.0,HUFL-12600,,,,False,,False
+CUSUM,saisonnalite,6.0,HUFL-13440,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,HUFL-13440,,,,False,,False
+KS,saisonnalite,6.0,HUFL-13440,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,HUFL-13440,,,,False,,False
+Autoencodeur,saisonnalite,6.0,HUFL-13440,,,,True,15.0,False
+Sans réseau (contrôle),saisonnalite,6.0,HUFL-13440,,,,True,6.0,False
+CUSUM,saisonnalite,6.0,MUFL-6720,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,MUFL-6720,,,,False,,False
+KS,saisonnalite,6.0,MUFL-6720,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,MUFL-6720,,,,False,,False
+Autoencodeur,saisonnalite,6.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,MUFL-6720,,,,True,188.0,False
+CUSUM,saisonnalite,6.0,MUFL-7560,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,MUFL-7560,,,,False,,False
+KS,saisonnalite,6.0,MUFL-7560,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,MUFL-7560,,,,False,,False
+Autoencodeur,saisonnalite,6.0,MUFL-7560,,,,True,27.0,False
+Sans réseau (contrôle),saisonnalite,6.0,MUFL-7560,,,,True,248.0,False
+CUSUM,saisonnalite,6.0,MUFL-8400,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,MUFL-8400,,,,False,,False
+KS,saisonnalite,6.0,MUFL-8400,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,MUFL-8400,,,,False,,False
+Autoencodeur,saisonnalite,6.0,MUFL-8400,,,,False,,False
+Sans réseau (contrôle),saisonnalite,6.0,MUFL-8400,,,,False,,False
+CUSUM,saisonnalite,6.0,MUFL-9240,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,MUFL-9240,,,,False,,False
+KS,saisonnalite,6.0,MUFL-9240,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,MUFL-9240,,,,False,,False
+Autoencodeur,saisonnalite,6.0,MUFL-9240,,,,True,22.0,False
+Sans réseau (contrôle),saisonnalite,6.0,MUFL-9240,,,,True,20.0,False
+CUSUM,saisonnalite,6.0,MUFL-10080,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,MUFL-10080,,,,False,,False
+KS,saisonnalite,6.0,MUFL-10080,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,MUFL-10080,,,,False,,False
+Autoencodeur,saisonnalite,6.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,MUFL-10080,,,,True,7.0,False
+CUSUM,saisonnalite,6.0,MUFL-10920,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,MUFL-10920,,,,False,,False
+KS,saisonnalite,6.0,MUFL-10920,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,MUFL-10920,,,,False,,False
+Autoencodeur,saisonnalite,6.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,MUFL-10920,,,,False,,True
+CUSUM,saisonnalite,6.0,MUFL-11760,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,MUFL-11760,,,,False,,False
+KS,saisonnalite,6.0,MUFL-11760,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,MUFL-11760,,,,False,,False
+Autoencodeur,saisonnalite,6.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,MUFL-11760,,,,False,,True
+CUSUM,saisonnalite,6.0,MUFL-12600,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,MUFL-12600,,,,False,,False
+KS,saisonnalite,6.0,MUFL-12600,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,MUFL-12600,,,,False,,False
+Autoencodeur,saisonnalite,6.0,MUFL-12600,,,,True,45.0,False
+Sans réseau (contrôle),saisonnalite,6.0,MUFL-12600,,,,True,58.0,False
+CUSUM,saisonnalite,6.0,MUFL-13440,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,MUFL-13440,,,,False,,False
+KS,saisonnalite,6.0,MUFL-13440,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,MUFL-13440,,,,False,,False
+Autoencodeur,saisonnalite,6.0,MUFL-13440,,,,True,17.0,False
+Sans réseau (contrôle),saisonnalite,6.0,MUFL-13440,,,,False,,True
+CUSUM,saisonnalite,6.0,LUFL-6720,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,LUFL-6720,,,,False,,False
+KS,saisonnalite,6.0,LUFL-6720,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,LUFL-6720,,,,False,,False
+Autoencodeur,saisonnalite,6.0,LUFL-6720,,,,False,,False
+Sans réseau (contrôle),saisonnalite,6.0,LUFL-6720,,,,False,,False
+CUSUM,saisonnalite,6.0,LUFL-7560,,,,False,,True
+Page-Hinkley,saisonnalite,6.0,LUFL-7560,,,,False,,True
+KS,saisonnalite,6.0,LUFL-7560,,,,False,,True
+Mann-Whitney,saisonnalite,6.0,LUFL-7560,,,,False,,True
+Autoencodeur,saisonnalite,6.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,LUFL-7560,,,,False,,True
+CUSUM,saisonnalite,6.0,LUFL-8400,,,,False,,True
+Page-Hinkley,saisonnalite,6.0,LUFL-8400,,,,False,,False
+KS,saisonnalite,6.0,LUFL-8400,,,,False,,True
+Mann-Whitney,saisonnalite,6.0,LUFL-8400,,,,False,,True
+Autoencodeur,saisonnalite,6.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,LUFL-8400,,,,True,22.0,False
+CUSUM,saisonnalite,6.0,LUFL-9240,,,,False,,True
+Page-Hinkley,saisonnalite,6.0,LUFL-9240,,,,False,,False
+KS,saisonnalite,6.0,LUFL-9240,,,,False,,True
+Mann-Whitney,saisonnalite,6.0,LUFL-9240,,,,False,,True
+Autoencodeur,saisonnalite,6.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,LUFL-9240,,,,True,19.0,False
+CUSUM,saisonnalite,6.0,LUFL-10080,,,,False,,True
+Page-Hinkley,saisonnalite,6.0,LUFL-10080,,,,False,,False
+KS,saisonnalite,6.0,LUFL-10080,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,LUFL-10080,,,,False,,True
+Autoencodeur,saisonnalite,6.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),saisonnalite,6.0,LUFL-10080,,,,True,7.0,False
+CUSUM,saisonnalite,6.0,LUFL-10920,,,,False,,True
+Page-Hinkley,saisonnalite,6.0,LUFL-10920,,,,True,102.0,False
+KS,saisonnalite,6.0,LUFL-10920,,,,False,,True
+Mann-Whitney,saisonnalite,6.0,LUFL-10920,,,,False,,True
+Autoencodeur,saisonnalite,6.0,LUFL-10920,,,,True,21.0,False
+Sans réseau (contrôle),saisonnalite,6.0,LUFL-10920,,,,True,15.0,False
+CUSUM,saisonnalite,6.0,LUFL-11760,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,LUFL-11760,,,,False,,False
+KS,saisonnalite,6.0,LUFL-11760,,,,False,,True
+Mann-Whitney,saisonnalite,6.0,LUFL-11760,,,,True,2.0,False
+Autoencodeur,saisonnalite,6.0,LUFL-11760,,,,True,24.0,False
+Sans réseau (contrôle),saisonnalite,6.0,LUFL-11760,,,,True,18.0,False
+CUSUM,saisonnalite,6.0,LUFL-12600,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,LUFL-12600,,,,False,,False
+KS,saisonnalite,6.0,LUFL-12600,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,LUFL-12600,,,,False,,False
+Autoencodeur,saisonnalite,6.0,LUFL-12600,,,,True,24.0,False
+Sans réseau (contrôle),saisonnalite,6.0,LUFL-12600,,,,False,,False
+CUSUM,saisonnalite,6.0,LUFL-13440,,,,False,,False
+Page-Hinkley,saisonnalite,6.0,LUFL-13440,,,,False,,False
+KS,saisonnalite,6.0,LUFL-13440,,,,False,,False
+Mann-Whitney,saisonnalite,6.0,LUFL-13440,,,,False,,False
+Autoencodeur,saisonnalite,6.0,LUFL-13440,,,,True,20.0,False
+Sans réseau (contrôle),saisonnalite,6.0,LUFL-13440,,,,True,49.0,False
+CUSUM,forme,0.0,HUFL-6720,,,,True,94.0,False
+Page-Hinkley,forme,0.0,HUFL-6720,,,,False,,False
+KS,forme,0.0,HUFL-6720,,,,True,145.0,False
+Mann-Whitney,forme,0.0,HUFL-6720,,,,True,56.0,False
+Autoencodeur,forme,0.0,HUFL-6720,,,,False,,True
+Sans réseau (contrôle),forme,0.0,HUFL-6720,,,,False,,False
+CUSUM,forme,0.0,HUFL-7560,,,,False,,False
+Page-Hinkley,forme,0.0,HUFL-7560,,,,False,,False
+KS,forme,0.0,HUFL-7560,,,,False,,False
+Mann-Whitney,forme,0.0,HUFL-7560,,,,False,,False
+Autoencodeur,forme,0.0,HUFL-7560,,,,True,26.0,False
+Sans réseau (contrôle),forme,0.0,HUFL-7560,,,,False,,False
+CUSUM,forme,0.0,HUFL-8400,,,,False,,False
+Page-Hinkley,forme,0.0,HUFL-8400,,,,False,,False
+KS,forme,0.0,HUFL-8400,,,,False,,False
+Mann-Whitney,forme,0.0,HUFL-8400,,,,False,,False
+Autoencodeur,forme,0.0,HUFL-8400,,,,False,,False
+Sans réseau (contrôle),forme,0.0,HUFL-8400,,,,False,,False
+CUSUM,forme,0.0,HUFL-9240,,,,False,,False
+Page-Hinkley,forme,0.0,HUFL-9240,,,,False,,False
+KS,forme,0.0,HUFL-9240,,,,False,,False
+Mann-Whitney,forme,0.0,HUFL-9240,,,,False,,False
+Autoencodeur,forme,0.0,HUFL-9240,,,,True,15.0,False
+Sans réseau (contrôle),forme,0.0,HUFL-9240,,,,False,,False
+CUSUM,forme,0.0,HUFL-10080,,,,False,,False
+Page-Hinkley,forme,0.0,HUFL-10080,,,,False,,False
+KS,forme,0.0,HUFL-10080,,,,False,,False
+Mann-Whitney,forme,0.0,HUFL-10080,,,,False,,False
+Autoencodeur,forme,0.0,HUFL-10080,,,,False,,True
+Sans réseau (contrôle),forme,0.0,HUFL-10080,,,,False,,False
+CUSUM,forme,0.0,HUFL-10920,,,,False,,False
+Page-Hinkley,forme,0.0,HUFL-10920,,,,False,,False
+KS,forme,0.0,HUFL-10920,,,,True,55.0,False
+Mann-Whitney,forme,0.0,HUFL-10920,,,,False,,True
+Autoencodeur,forme,0.0,HUFL-10920,,,,False,,True
+Sans réseau (contrôle),forme,0.0,HUFL-10920,,,,False,,True
+CUSUM,forme,0.0,HUFL-11760,,,,False,,False
+Page-Hinkley,forme,0.0,HUFL-11760,,,,False,,False
+KS,forme,0.0,HUFL-11760,,,,False,,False
+Mann-Whitney,forme,0.0,HUFL-11760,,,,False,,False
+Autoencodeur,forme,0.0,HUFL-11760,,,,False,,True
+Sans réseau (contrôle),forme,0.0,HUFL-11760,,,,False,,True
+CUSUM,forme,0.0,HUFL-12600,,,,False,,False
+Page-Hinkley,forme,0.0,HUFL-12600,,,,False,,False
+KS,forme,0.0,HUFL-12600,,,,False,,False
+Mann-Whitney,forme,0.0,HUFL-12600,,,,False,,False
+Autoencodeur,forme,0.0,HUFL-12600,,,,True,40.0,False
+Sans réseau (contrôle),forme,0.0,HUFL-12600,,,,False,,False
+CUSUM,forme,0.0,HUFL-13440,,,,False,,False
+Page-Hinkley,forme,0.0,HUFL-13440,,,,False,,False
+KS,forme,0.0,HUFL-13440,,,,False,,False
+Mann-Whitney,forme,0.0,HUFL-13440,,,,False,,False
+Autoencodeur,forme,0.0,HUFL-13440,,,,True,16.0,False
+Sans réseau (contrôle),forme,0.0,HUFL-13440,,,,False,,False
+CUSUM,forme,0.0,MUFL-6720,,,,True,148.0,False
+Page-Hinkley,forme,0.0,MUFL-6720,,,,False,,False
+KS,forme,0.0,MUFL-6720,,,,True,154.0,False
+Mann-Whitney,forme,0.0,MUFL-6720,,,,True,153.0,False
+Autoencodeur,forme,0.0,MUFL-6720,,,,False,,True
+Sans réseau (contrôle),forme,0.0,MUFL-6720,,,,False,,False
+CUSUM,forme,0.0,MUFL-7560,,,,False,,False
+Page-Hinkley,forme,0.0,MUFL-7560,,,,False,,False
+KS,forme,0.0,MUFL-7560,,,,False,,False
+Mann-Whitney,forme,0.0,MUFL-7560,,,,False,,False
+Autoencodeur,forme,0.0,MUFL-7560,,,,True,114.0,False
+Sans réseau (contrôle),forme,0.0,MUFL-7560,,,,False,,False
+CUSUM,forme,0.0,MUFL-8400,,,,False,,False
+Page-Hinkley,forme,0.0,MUFL-8400,,,,False,,False
+KS,forme,0.0,MUFL-8400,,,,False,,False
+Mann-Whitney,forme,0.0,MUFL-8400,,,,False,,False
+Autoencodeur,forme,0.0,MUFL-8400,,,,False,,False
+Sans réseau (contrôle),forme,0.0,MUFL-8400,,,,False,,False
+CUSUM,forme,0.0,MUFL-9240,,,,False,,False
+Page-Hinkley,forme,0.0,MUFL-9240,,,,False,,False
+KS,forme,0.0,MUFL-9240,,,,False,,False
+Mann-Whitney,forme,0.0,MUFL-9240,,,,False,,False
+Autoencodeur,forme,0.0,MUFL-9240,,,,True,14.0,False
+Sans réseau (contrôle),forme,0.0,MUFL-9240,,,,False,,False
+CUSUM,forme,0.0,MUFL-10080,,,,False,,False
+Page-Hinkley,forme,0.0,MUFL-10080,,,,False,,False
+KS,forme,0.0,MUFL-10080,,,,False,,False
+Mann-Whitney,forme,0.0,MUFL-10080,,,,False,,False
+Autoencodeur,forme,0.0,MUFL-10080,,,,False,,True
+Sans réseau (contrôle),forme,0.0,MUFL-10080,,,,False,,False
+CUSUM,forme,0.0,MUFL-10920,,,,False,,False
+Page-Hinkley,forme,0.0,MUFL-10920,,,,False,,False
+KS,forme,0.0,MUFL-10920,,,,True,101.0,False
+Mann-Whitney,forme,0.0,MUFL-10920,,,,True,107.0,False
+Autoencodeur,forme,0.0,MUFL-10920,,,,False,,True
+Sans réseau (contrôle),forme,0.0,MUFL-10920,,,,False,,True
+CUSUM,forme,0.0,MUFL-11760,,,,False,,False
+Page-Hinkley,forme,0.0,MUFL-11760,,,,False,,False
+KS,forme,0.0,MUFL-11760,,,,False,,False
+Mann-Whitney,forme,0.0,MUFL-11760,,,,False,,False
+Autoencodeur,forme,0.0,MUFL-11760,,,,False,,True
+Sans réseau (contrôle),forme,0.0,MUFL-11760,,,,False,,True
+CUSUM,forme,0.0,MUFL-12600,,,,False,,False
+Page-Hinkley,forme,0.0,MUFL-12600,,,,False,,False
+KS,forme,0.0,MUFL-12600,,,,False,,False
+Mann-Whitney,forme,0.0,MUFL-12600,,,,False,,False
+Autoencodeur,forme,0.0,MUFL-12600,,,,True,31.0,False
+Sans réseau (contrôle),forme,0.0,MUFL-12600,,,,False,,False
+CUSUM,forme,0.0,MUFL-13440,,,,False,,False
+Page-Hinkley,forme,0.0,MUFL-13440,,,,False,,False
+KS,forme,0.0,MUFL-13440,,,,False,,False
+Mann-Whitney,forme,0.0,MUFL-13440,,,,False,,False
+Autoencodeur,forme,0.0,MUFL-13440,,,,True,14.0,False
+Sans réseau (contrôle),forme,0.0,MUFL-13440,,,,False,,True
+CUSUM,forme,0.0,LUFL-6720,,,,True,84.0,False
+Page-Hinkley,forme,0.0,LUFL-6720,,,,True,103.0,False
+KS,forme,0.0,LUFL-6720,,,,True,78.0,False
+Mann-Whitney,forme,0.0,LUFL-6720,,,,True,28.0,False
+Autoencodeur,forme,0.0,LUFL-6720,,,,True,22.0,False
+Sans réseau (contrôle),forme,0.0,LUFL-6720,,,,True,22.0,False
+CUSUM,forme,0.0,LUFL-7560,,,,False,,True
+Page-Hinkley,forme,0.0,LUFL-7560,,,,False,,True
+KS,forme,0.0,LUFL-7560,,,,False,,True
+Mann-Whitney,forme,0.0,LUFL-7560,,,,False,,True
+Autoencodeur,forme,0.0,LUFL-7560,,,,False,,True
+Sans réseau (contrôle),forme,0.0,LUFL-7560,,,,False,,True
+CUSUM,forme,0.0,LUFL-8400,,,,False,,True
+Page-Hinkley,forme,0.0,LUFL-8400,,,,False,,False
+KS,forme,0.0,LUFL-8400,,,,False,,True
+Mann-Whitney,forme,0.0,LUFL-8400,,,,False,,True
+Autoencodeur,forme,0.0,LUFL-8400,,,,False,,True
+Sans réseau (contrôle),forme,0.0,LUFL-8400,,,,False,,False
+CUSUM,forme,0.0,LUFL-9240,,,,False,,True
+Page-Hinkley,forme,0.0,LUFL-9240,,,,False,,False
+KS,forme,0.0,LUFL-9240,,,,False,,True
+Mann-Whitney,forme,0.0,LUFL-9240,,,,False,,True
+Autoencodeur,forme,0.0,LUFL-9240,,,,False,,True
+Sans réseau (contrôle),forme,0.0,LUFL-9240,,,,False,,False
+CUSUM,forme,0.0,LUFL-10080,,,,False,,True
+Page-Hinkley,forme,0.0,LUFL-10080,,,,True,100.0,False
+KS,forme,0.0,LUFL-10080,,,,True,76.0,False
+Mann-Whitney,forme,0.0,LUFL-10080,,,,False,,True
+Autoencodeur,forme,0.0,LUFL-10080,,,,False,,True
+Sans réseau (contrôle),forme,0.0,LUFL-10080,,,,True,3.0,False
+CUSUM,forme,0.0,LUFL-10920,,,,False,,True
+Page-Hinkley,forme,0.0,LUFL-10920,,,,True,156.0,False
+KS,forme,0.0,LUFL-10920,,,,False,,True
+Mann-Whitney,forme,0.0,LUFL-10920,,,,False,,True
+Autoencodeur,forme,0.0,LUFL-10920,,,,True,33.0,False
+Sans réseau (contrôle),forme,0.0,LUFL-10920,,,,True,33.0,False
+CUSUM,forme,0.0,LUFL-11760,,,,False,,False
+Page-Hinkley,forme,0.0,LUFL-11760,,,,False,,False
+KS,forme,0.0,LUFL-11760,,,,False,,True
+Mann-Whitney,forme,0.0,LUFL-11760,,,,True,6.0,False
+Autoencodeur,forme,0.0,LUFL-11760,,,,True,45.0,False
+Sans réseau (contrôle),forme,0.0,LUFL-11760,,,,False,,False
+CUSUM,forme,0.0,LUFL-12600,,,,False,,False
+Page-Hinkley,forme,0.0,LUFL-12600,,,,False,,False
+KS,forme,0.0,LUFL-12600,,,,False,,False
+Mann-Whitney,forme,0.0,LUFL-12600,,,,False,,False
+Autoencodeur,forme,0.0,LUFL-12600,,,,True,13.0,False
+Sans réseau (contrôle),forme,0.0,LUFL-12600,,,,False,,False
+CUSUM,forme,0.0,LUFL-13440,,,,False,,False
+Page-Hinkley,forme,0.0,LUFL-13440,,,,False,,False
+KS,forme,0.0,LUFL-13440,,,,False,,False
+Mann-Whitney,forme,0.0,LUFL-13440,,,,False,,False
+Autoencodeur,forme,0.0,LUFL-13440,,,,True,90.0,False
+Sans réseau (contrôle),forme,0.0,LUFL-13440,,,,False,,False

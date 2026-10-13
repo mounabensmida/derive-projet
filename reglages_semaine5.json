@@ -1,0 +1,8 @@
+{
+ "CUSUM": 200,
+ "Page-Hinkley": 200,
+ "KS": 1e-20,
+ "Mann-Whitney": 1e-16,
+ "Autoencodeur": 1.5,
+ "Sans r\u00e9seau (contr\u00f4le)": 2.0
+}

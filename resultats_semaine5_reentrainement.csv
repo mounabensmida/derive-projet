@@ -1,0 +1,721 @@
+condition,fenetre,strategie,mae,reentrainements
+aucune,ETTh1-0,jamais,2.372751698339451,0
+aucune,ETTh1-0,tous les 56 j,1.2933646863401371,1
+aucune,ETTh1-0,tous les 28 j,2.2129938588442237,3
+aucune,ETTh1-0,tous les 14 j,1.452355952666298,7
+aucune,ETTh1-0,tous les 7 j,1.1953995541140794,15
+aucune,ETTh1-0,sur alerte (h=20),1.398820734187091,4
+aucune,ETTh1-0,sur alerte (h=50),1.4747746169426534,4
+aucune,ETTh1-0,sur alerte (h=100),1.6454546646622397,3
+aucune,ETTh1-0,sur alerte (h=200),1.2196604552420427,2
+aucune,ETTh1-0,oracle,1.1462693843135994,1
+aucune,ETTh1-1,jamais,1.3078650366730344,0
+aucune,ETTh1-1,tous les 56 j,1.848201314175399,1
+aucune,ETTh1-1,tous les 28 j,1.6308874498261086,3
+aucune,ETTh1-1,tous les 14 j,1.2401783440027916,7
+aucune,ETTh1-1,tous les 7 j,1.135615814815835,15
+aucune,ETTh1-1,sur alerte (h=20),1.3399962650094932,4
+aucune,ETTh1-1,sur alerte (h=50),1.2900608567346552,1
+aucune,ETTh1-1,sur alerte (h=100),1.2900608567346552,1
+aucune,ETTh1-1,sur alerte (h=200),1.2974576220899061,1
+aucune,ETTh1-1,oracle,2.7481274462780094,1
+aucune,ETTh1-2,jamais,0.5782906632260412,0
+aucune,ETTh1-2,tous les 56 j,0.5626574240639102,1
+aucune,ETTh1-2,tous les 28 j,0.6283819861548764,3
+aucune,ETTh1-2,tous les 14 j,0.43434804676772176,7
+aucune,ETTh1-2,tous les 7 j,0.40188754067526605,15
+aucune,ETTh1-2,sur alerte (h=20),0.4930218985691015,3
+aucune,ETTh1-2,sur alerte (h=50),0.69102652438512,1
+aucune,ETTh1-2,sur alerte (h=100),0.6331180752604278,1
+aucune,ETTh1-2,sur alerte (h=200),0.622459914866609,1
+aucune,ETTh1-2,oracle,0.6120753790803197,1
+aucune,ETTh1-3,jamais,3.394769717945385,0
+aucune,ETTh1-3,tous les 56 j,2.024485349160036,1
+aucune,ETTh1-3,tous les 28 j,1.3636225527933257,3
+aucune,ETTh1-3,tous les 14 j,1.0998453681106048,7
+aucune,ETTh1-3,tous les 7 j,0.9643719872787938,15
+aucune,ETTh1-3,sur alerte (h=20),1.1659570927958463,4
+aucune,ETTh1-3,sur alerte (h=50),1.1925764962327434,3
+aucune,ETTh1-3,sur alerte (h=100),1.1638543019420622,3
+aucune,ETTh1-3,sur alerte (h=200),1.2497702086119513,3
+aucune,ETTh1-3,oracle,2.44694886601525,1
+aucune,ETTh1-4,jamais,3.2784384105327753,0
+aucune,ETTh1-4,tous les 56 j,1.7348132102360105,1
+aucune,ETTh1-4,tous les 28 j,0.922811722324543,3
+aucune,ETTh1-4,tous les 14 j,0.7312671268848183,7
+aucune,ETTh1-4,tous les 7 j,0.6463444360698988,15
+aucune,ETTh1-4,sur alerte (h=20),0.8078582488614112,4
+aucune,ETTh1-4,sur alerte (h=50),0.8199943373950215,4
+aucune,ETTh1-4,sur alerte (h=100),0.8238918919956861,3
+aucune,ETTh1-4,sur alerte (h=200),1.0017160017793503,2
+aucune,ETTh1-4,oracle,1.5803826939622798,1
+aucune,ETTh1-5,jamais,3.464668717666439,0
+aucune,ETTh1-5,tous les 56 j,1.2890208393943017,1
+aucune,ETTh1-5,tous les 28 j,0.9674128686351297,3
+aucune,ETTh1-5,tous les 14 j,0.8596249326913414,7
+aucune,ETTh1-5,tous les 7 j,0.8211775777035035,15
+aucune,ETTh1-5,sur alerte (h=20),0.9064131927080753,4
+aucune,ETTh1-5,sur alerte (h=50),1.0825159001702092,3
+aucune,ETTh1-5,sur alerte (h=100),1.0138215594967006,2
+aucune,ETTh1-5,sur alerte (h=200),1.236687210992966,2
+aucune,ETTh1-5,oracle,1.0350268287394437,1
+aucune,ETTh1-6,jamais,1.4290455468396808,0
+aucune,ETTh1-6,tous les 56 j,1.2698977000666014,1
+aucune,ETTh1-6,tous les 28 j,1.195135308465286,3
+aucune,ETTh1-6,tous les 14 j,1.2044307366852216,7
+aucune,ETTh1-6,tous les 7 j,1.133785759925129,15
+aucune,ETTh1-6,sur alerte (h=20),1.2366951362627432,4
+aucune,ETTh1-6,sur alerte (h=50),1.2949182053860198,3
+aucune,ETTh1-6,sur alerte (h=100),1.169805563100343,2
+aucune,ETTh1-6,sur alerte (h=200),1.4187498568152173,1
+aucune,ETTh1-6,oracle,1.1843512463368893,1
+aucune,ETTh1-7,jamais,1.6364401213431872,0
+aucune,ETTh1-7,tous les 56 j,1.6941625238094253,1
+aucune,ETTh1-7,tous les 28 j,1.5975514674246125,3
+aucune,ETTh1-7,tous les 14 j,1.2040283533778078,7
+aucune,ETTh1-7,tous les 7 j,1.2471243151229137,15
+aucune,ETTh1-7,sur alerte (h=20),1.6433507719595197,4
+aucune,ETTh1-7,sur alerte (h=50),1.3633429447904917,3
+aucune,ETTh1-7,sur alerte (h=100),1.2626840618799076,3
+aucune,ETTh1-7,sur alerte (h=200),1.252434874971928,1
+aucune,ETTh1-7,oracle,1.7716555153261169,1
+aucune,ETTh1-8,jamais,2.804086809052736,0
+aucune,ETTh1-8,tous les 56 j,1.6332102553341474,1
+aucune,ETTh1-8,tous les 28 j,2.0215696302045307,3
+aucune,ETTh1-8,tous les 14 j,1.7338552522726174,7
+aucune,ETTh1-8,tous les 7 j,1.5846516016924086,15
+aucune,ETTh1-8,sur alerte (h=20),1.441137459903045,4
+aucune,ETTh1-8,sur alerte (h=50),1.434651895943537,3
+aucune,ETTh1-8,sur alerte (h=100),1.495697920054464,3
+aucune,ETTh1-8,sur alerte (h=200),1.6477222761178667,2
+aucune,ETTh1-8,oracle,1.8581069836838875,1
+aucune,ETTh2-0,jamais,3.0712420449590314,0
+aucune,ETTh2-0,tous les 56 j,1.2085314770958175,1
+aucune,ETTh2-0,tous les 28 j,0.7209287077176951,3
+aucune,ETTh2-0,tous les 14 j,0.5632982819024869,7
+aucune,ETTh2-0,tous les 7 j,0.5455899577685871,15
+aucune,ETTh2-0,sur alerte (h=20),0.6242432895485119,4
+aucune,ETTh2-0,sur alerte (h=50),0.6036990380909524,3
+aucune,ETTh2-0,sur alerte (h=100),0.6730080407313496,2
+aucune,ETTh2-0,sur alerte (h=200),0.7464474272316642,2
+aucune,ETTh2-0,oracle,0.9320781580062029,1
+aucune,ETTh2-1,jamais,1.5508601862258258,0
+aucune,ETTh2-1,tous les 56 j,2.0575816835081238,1
+aucune,ETTh2-1,tous les 28 j,1.9792519613399737,3
+aucune,ETTh2-1,tous les 14 j,1.2358817662652926,7
+aucune,ETTh2-1,tous les 7 j,1.1134207348942597,15
+aucune,ETTh2-1,sur alerte (h=20),1.4300245735986317,4
+aucune,ETTh2-1,sur alerte (h=50),1.0257399073259958,3
+aucune,ETTh2-1,sur alerte (h=100),1.4878730736942813,3
+aucune,ETTh2-1,sur alerte (h=200),1.7199011403357716,3
+aucune,ETTh2-1,oracle,1.3062071173017427,1
+aucune,ETTh2-2,jamais,4.2581732311026625,0
+aucune,ETTh2-2,tous les 56 j,4.229423563367515,1
+aucune,ETTh2-2,tous les 28 j,2.8789642791240175,3
+aucune,ETTh2-2,tous les 14 j,1.973477092702086,7
+aucune,ETTh2-2,tous les 7 j,1.6600056672576788,15
+aucune,ETTh2-2,sur alerte (h=20),2.1639352446666176,4
+aucune,ETTh2-2,sur alerte (h=50),2.383162184585722,3
+aucune,ETTh2-2,sur alerte (h=100),1.830536059713785,3
+aucune,ETTh2-2,sur alerte (h=200),1.8856100019937674,3
+aucune,ETTh2-2,oracle,6.579913415533873,1
+aucune,ETTh2-3,jamais,3.118896267736451,0
+aucune,ETTh2-3,tous les 56 j,1.5667423831867109,1
+aucune,ETTh2-3,tous les 28 j,1.1077454542723448,3
+aucune,ETTh2-3,tous les 14 j,0.8494413001908571,7
+aucune,ETTh2-3,tous les 7 j,0.80716459576213,15
+aucune,ETTh2-3,sur alerte (h=20),0.9527275999589272,4
+aucune,ETTh2-3,sur alerte (h=50),1.1393369311950767,3
+aucune,ETTh2-3,sur alerte (h=100),1.1187754081456938,3
+aucune,ETTh2-3,sur alerte (h=200),1.0782083540099465,3
+aucune,ETTh2-3,oracle,1.6633792544586208,1
+aucune,ETTh2-4,jamais,4.254622512417223,0
+aucune,ETTh2-4,tous les 56 j,2.0492992013481945,1
+aucune,ETTh2-4,tous les 28 j,1.3983067975062147,3
+aucune,ETTh2-4,tous les 14 j,1.181795719834903,7
+aucune,ETTh2-4,tous les 7 j,0.9643057554137129,15
+aucune,ETTh2-4,sur alerte (h=20),1.2517331906471536,4
+aucune,ETTh2-4,sur alerte (h=50),1.3631607377982116,3
+aucune,ETTh2-4,sur alerte (h=100),1.367239170253193,3
+aucune,ETTh2-4,sur alerte (h=200),1.137249352407982,3
+aucune,ETTh2-4,oracle,1.9101698120082058,1
+aucune,ETTh2-5,jamais,4.2430177512788845,0
+aucune,ETTh2-5,tous les 56 j,1.4211982798615488,1
+aucune,ETTh2-5,tous les 28 j,1.2264513184337817,3
+aucune,ETTh2-5,tous les 14 j,0.9732744279527747,7
+aucune,ETTh2-5,tous les 7 j,0.8988507612359482,15
+aucune,ETTh2-5,sur alerte (h=20),1.2806823342490905,3
+aucune,ETTh2-5,sur alerte (h=50),1.2953095729289668,3
+aucune,ETTh2-5,sur alerte (h=100),1.05843146389162,3
+aucune,ETTh2-5,sur alerte (h=200),1.2107008864068927,2
+aucune,ETTh2-5,oracle,1.4354150616223464,1
+aucune,ETTh2-6,jamais,1.3276693322093893,0
+aucune,ETTh2-6,tous les 56 j,1.268307797444337,1
+aucune,ETTh2-6,tous les 28 j,1.101204603624676,3
+aucune,ETTh2-6,tous les 14 j,0.8549731414335427,7
+aucune,ETTh2-6,tous les 7 j,0.7658421659013575,15
+aucune,ETTh2-6,sur alerte (h=20),1.006537346441109,4
+aucune,ETTh2-6,sur alerte (h=50),1.0371332540868805,4
+aucune,ETTh2-6,sur alerte (h=100),1.0144154692798646,3
+aucune,ETTh2-6,sur alerte (h=200),1.1464258083142063,3
+aucune,ETTh2-6,oracle,1.3664584341487882,1
+aucune,ETTh2-7,jamais,1.6608460484722642,0
+aucune,ETTh2-7,tous les 56 j,2.066541142677601,1
+aucune,ETTh2-7,tous les 28 j,1.8421084702020865,3
+aucune,ETTh2-7,tous les 14 j,1.361845403788966,7
+aucune,ETTh2-7,tous les 7 j,1.3765270700722545,15
+aucune,ETTh2-7,sur alerte (h=20),1.4553806936167857,4
+aucune,ETTh2-7,sur alerte (h=50),1.6638566119554448,3
+aucune,ETTh2-7,sur alerte (h=100),1.5403926159690398,2
+aucune,ETTh2-7,sur alerte (h=200),1.5131549251617542,3
+aucune,ETTh2-7,oracle,2.435583709930268,1
+aucune,ETTh2-8,jamais,1.9037898652680125,0
+aucune,ETTh2-8,tous les 56 j,1.4941433571039926,1
+aucune,ETTh2-8,tous les 28 j,1.5572237097838608,3
+aucune,ETTh2-8,tous les 14 j,1.312476038553118,7
+aucune,ETTh2-8,tous les 7 j,1.2187130641655304,15
+aucune,ETTh2-8,sur alerte (h=20),1.3069563209265085,4
+aucune,ETTh2-8,sur alerte (h=50),1.3457507792813157,3
+aucune,ETTh2-8,sur alerte (h=100),1.8434972237025873,2
+aucune,ETTh2-8,sur alerte (h=200),1.3663285490462735,3
+aucune,ETTh2-8,oracle,1.5508672848733236,1
+saut 1,ETTh1-0,jamais,3.249476734607303,0
+saut 1,ETTh1-0,tous les 56 j,1.8285011967687395,1
+saut 1,ETTh1-0,tous les 28 j,2.5775473073792687,3
+saut 1,ETTh1-0,tous les 14 j,1.6836222452126162,7
+saut 1,ETTh1-0,tous les 7 j,1.3501936553644094,15
+saut 1,ETTh1-0,sur alerte (h=20),1.6725138416805208,4
+saut 1,ETTh1-0,sur alerte (h=50),1.7891366999811225,4
+saut 1,ETTh1-0,sur alerte (h=100),1.9961013482300054,3
+saut 1,ETTh1-0,sur alerte (h=200),1.5168136193520139,2
+saut 1,ETTh1-0,oracle,1.3140651866475301,1
+saut 1,ETTh1-1,jamais,1.9188544068925693,0
+saut 1,ETTh1-1,tous les 56 j,2.2171729428390714,1
+saut 1,ETTh1-1,tous les 28 j,1.7689941354593697,3
+saut 1,ETTh1-1,tous les 14 j,1.5150678868385008,7
+saut 1,ETTh1-1,tous les 7 j,1.3387671441116542,15
+saut 1,ETTh1-1,sur alerte (h=20),1.4966625348600266,4
+saut 1,ETTh1-1,sur alerte (h=50),1.1286236390076463,2
+saut 1,ETTh1-1,sur alerte (h=100),1.2405129263682535,1
+saut 1,ETTh1-1,sur alerte (h=200),1.2537189590170337,1
+saut 1,ETTh1-1,oracle,3.4507463182899114,1
+saut 1,ETTh1-2,jamais,0.820485842640888,0
+saut 1,ETTh1-2,tous les 56 j,0.6216818069215542,1
+saut 1,ETTh1-2,tous les 28 j,0.6230879028222127,3
+saut 1,ETTh1-2,tous les 14 j,0.5381954254408892,7
+saut 1,ETTh1-2,tous les 7 j,0.48098838001513183,15
+saut 1,ETTh1-2,sur alerte (h=20),0.6769281518226933,3
+saut 1,ETTh1-2,sur alerte (h=50),0.8324332571260136,2
+saut 1,ETTh1-2,sur alerte (h=100),0.8104046145494063,2
+saut 1,ETTh1-2,sur alerte (h=200),0.820485842640888,0
+saut 1,ETTh1-2,oracle,0.5838408728172182,1
+saut 1,ETTh1-3,jamais,4.388822987199,0
+saut 1,ETTh1-3,tous les 56 j,2.443042951809777,1
+saut 1,ETTh1-3,tous les 28 j,1.6505266773824692,3
+saut 1,ETTh1-3,tous les 14 j,1.3148946516531976,7
+saut 1,ETTh1-3,tous les 7 j,1.1111834766813897,15
+saut 1,ETTh1-3,sur alerte (h=20),1.3938106197639548,4
+saut 1,ETTh1-3,sur alerte (h=50),1.499798671869679,3
+saut 1,ETTh1-3,sur alerte (h=100),1.4215022808657203,3
+saut 1,ETTh1-3,sur alerte (h=200),1.5505911693677366,3
+saut 1,ETTh1-3,oracle,3.1541485611985838,1
+saut 1,ETTh1-4,jamais,2.2830963942371656,0
+saut 1,ETTh1-4,tous les 56 j,1.1811960346779369,1
+saut 1,ETTh1-4,tous les 28 j,0.7743377796936817,3
+saut 1,ETTh1-4,tous les 14 j,0.6978527697911628,7
+saut 1,ETTh1-4,tous les 7 j,0.632854008354688,15
+saut 1,ETTh1-4,sur alerte (h=20),0.7012546940108729,4
+saut 1,ETTh1-4,sur alerte (h=50),0.7210783322314726,4
+saut 1,ETTh1-4,sur alerte (h=100),0.7291308919468622,3
+saut 1,ETTh1-4,sur alerte (h=200),0.6664721460082641,2
+saut 1,ETTh1-4,oracle,0.964971131431884,1
+saut 1,ETTh1-5,jamais,4.464668717666439,0
+saut 1,ETTh1-5,tous les 56 j,1.503759159242237,1
+saut 1,ETTh1-5,tous les 28 j,1.1806164908525267,3
+saut 1,ETTh1-5,tous les 14 j,1.0182660898555065,7
+saut 1,ETTh1-5,tous les 7 j,0.9286987066129627,15
+saut 1,ETTh1-5,sur alerte (h=20),1.5315444154144582,3
+saut 1,ETTh1-5,sur alerte (h=50),1.514839466009086,3
+saut 1,ETTh1-5,sur alerte (h=100),1.4543094920337467,2
+saut 1,ETTh1-5,sur alerte (h=200),1.528637198377703,2
+saut 1,ETTh1-5,oracle,1.2467130041068093,1
+saut 1,ETTh1-6,jamais,1.0783008896011697,0
+saut 1,ETTh1-6,tous les 56 j,1.5328887653456504,1
+saut 1,ETTh1-6,tous les 28 j,1.4284206370421093,3
+saut 1,ETTh1-6,tous les 14 j,1.3673795815951377,7
+saut 1,ETTh1-6,tous les 7 j,1.2583613730199983,15
+saut 1,ETTh1-6,sur alerte (h=20),1.4601668456538666,4
+saut 1,ETTh1-6,sur alerte (h=50),1.4944470995789294,3
+saut 1,ETTh1-6,sur alerte (h=100),1.6630418946308028,2
+saut 1,ETTh1-6,sur alerte (h=200),1.4893203174864327,2
+saut 1,ETTh1-6,oracle,1.605384211446147,1
+saut 1,ETTh1-7,jamais,1.2352308902887452,0
+saut 1,ETTh1-7,tous les 56 j,1.3217391069213429,1
+saut 1,ETTh1-7,tous les 28 j,1.2658693190165866,3
+saut 1,ETTh1-7,tous les 14 j,1.1774895238938285,7
+saut 1,ETTh1-7,tous les 7 j,1.2425528043688943,15
+saut 1,ETTh1-7,sur alerte (h=20),1.330768073428136,4
+saut 1,ETTh1-7,sur alerte (h=50),1.45375257782108,3
+saut 1,ETTh1-7,sur alerte (h=100),1.3489520498663767,2
+saut 1,ETTh1-7,sur alerte (h=200),1.2144786985544513,1
+saut 1,ETTh1-7,oracle,1.223073010260789,1
+saut 1,ETTh1-8,jamais,3.7348206327701834,0
+saut 1,ETTh1-8,tous les 56 j,1.970363786721146,1
+saut 1,ETTh1-8,tous les 28 j,2.275210971437371,3
+saut 1,ETTh1-8,tous les 14 j,1.8836577808362376,7
+saut 1,ETTh1-8,tous les 7 j,1.682416577753361,15
+saut 1,ETTh1-8,sur alerte (h=20),1.5651088055328333,4
+saut 1,ETTh1-8,sur alerte (h=50),1.6320702839130043,3
+saut 1,ETTh1-8,sur alerte (h=100),2.132790839468863,2
+saut 1,ETTh1-8,sur alerte (h=200),2.228541035935932,2
+saut 1,ETTh1-8,oracle,2.350361247265281,1
+saut 1,ETTh2-0,jamais,2.0771307034660462,0
+saut 1,ETTh2-0,tous les 56 j,0.7574760145999756,1
+saut 1,ETTh2-0,tous les 28 j,0.7345040712925207,3
+saut 1,ETTh2-0,tous les 14 j,0.5926718993367767,7
+saut 1,ETTh2-0,tous les 7 j,0.6068360319561825,15
+saut 1,ETTh2-0,sur alerte (h=20),0.5802555055299226,4
+saut 1,ETTh2-0,sur alerte (h=50),0.621547065250078,3
+saut 1,ETTh2-0,sur alerte (h=100),0.6616560644310904,3
+saut 1,ETTh2-0,sur alerte (h=200),0.5672442612288235,1
+saut 1,ETTh2-0,oracle,0.6989111979977778,1
+saut 1,ETTh2-1,jamais,2.3876897235164303,0
+saut 1,ETTh2-1,tous les 56 j,2.389234578283926,1
+saut 1,ETTh2-1,tous les 28 j,2.1234946920196016,3
+saut 1,ETTh2-1,tous les 14 j,1.3235691189569543,7
+saut 1,ETTh2-1,tous les 7 j,1.1643598865146434,15
+saut 1,ETTh2-1,sur alerte (h=20),1.5162139019097434,4
+saut 1,ETTh2-1,sur alerte (h=50),1.2228609177493388,3
+saut 1,ETTh2-1,sur alerte (h=100),1.7063668971475108,3
+saut 1,ETTh2-1,sur alerte (h=200),1.9828130037903107,3
+saut 1,ETTh2-1,oracle,1.4319954502416814,1
+saut 1,ETTh2-2,jamais,5.1319999266474765,0
+saut 1,ETTh2-2,tous les 56 j,4.696933276910208,1
+saut 1,ETTh2-2,tous les 28 j,3.2429130163837865,3
+saut 1,ETTh2-2,tous les 14 j,2.238317623536603,7
+saut 1,ETTh2-2,tous les 7 j,1.8575204186605903,15
+saut 1,ETTh2-2,sur alerte (h=20),2.412586150109424,4
+saut 1,ETTh2-2,sur alerte (h=50),2.6913311164710176,3
+saut 1,ETTh2-2,sur alerte (h=100),3.183167570695531,2
+saut 1,ETTh2-2,sur alerte (h=200),2.2986101189650983,3
+saut 1,ETTh2-2,oracle,7.107330123878568,1
+saut 1,ETTh2-3,jamais,2.19167617852761,0
+saut 1,ETTh2-3,tous les 56 j,1.1339394305405797,1
+saut 1,ETTh2-3,tous les 28 j,0.8929526337363843,3
+saut 1,ETTh2-3,tous les 14 j,0.7876313115121105,7
+saut 1,ETTh2-3,tous les 7 j,0.7518381876879483,15
+saut 1,ETTh2-3,sur alerte (h=20),0.8111769475240259,4
+saut 1,ETTh2-3,sur alerte (h=50),0.8602378363483314,3
+saut 1,ETTh2-3,sur alerte (h=100),0.8958028106230553,2
+saut 1,ETTh2-3,sur alerte (h=200),0.983487854180349,2
+saut 1,ETTh2-3,oracle,1.015928839659691,1
+saut 1,ETTh2-4,jamais,5.254622512417223,0
+saut 1,ETTh2-4,tous les 56 j,2.4221155443493094,1
+saut 1,ETTh2-4,tous les 28 j,1.7222864597377263,3
+saut 1,ETTh2-4,tous les 14 j,1.3869427670243197,7
+saut 1,ETTh2-4,tous les 7 j,1.0836338406789967,15
+saut 1,ETTh2-4,sur alerte (h=20),1.525186466213642,4
+saut 1,ETTh2-4,sur alerte (h=50),1.6504368421206446,3
+saut 1,ETTh2-4,sur alerte (h=100),1.4958323498861035,3
+saut 1,ETTh2-4,sur alerte (h=200),1.4160517421482974,2
+saut 1,ETTh2-4,oracle,2.4418156688753037,1
+saut 1,ETTh2-5,jamais,3.2528742524148653,0
+saut 1,ETTh2-5,tous les 56 j,1.1209722195807754,1
+saut 1,ETTh2-5,tous les 28 j,1.1126862494349727,3
+saut 1,ETTh2-5,tous les 14 j,0.9182239051028322,7
+saut 1,ETTh2-5,tous les 7 j,0.8496199475753885,15
+saut 1,ETTh2-5,sur alerte (h=20),0.9875755396118949,4
+saut 1,ETTh2-5,sur alerte (h=50),1.2369491388250375,3
+saut 1,ETTh2-5,sur alerte (h=100),1.290095130035108,3
+saut 1,ETTh2-5,sur alerte (h=200),0.8867712999887529,3
+saut 1,ETTh2-5,oracle,0.9151182817435127,1
+saut 1,ETTh2-6,jamais,2.089887696269123,0
+saut 1,ETTh2-6,tous les 56 j,1.6442396654584892,1
+saut 1,ETTh2-6,tous les 28 j,1.4096796282290236,3
+saut 1,ETTh2-6,tous les 14 j,1.059173373523347,7
+saut 1,ETTh2-6,tous les 7 j,0.9326510551023055,15
+saut 1,ETTh2-6,sur alerte (h=20),1.3136207211977373,4
+saut 1,ETTh2-6,sur alerte (h=50),1.2891947549838183,4
+saut 1,ETTh2-6,sur alerte (h=100),1.2920724907923478,4
+saut 1,ETTh2-6,sur alerte (h=200),1.5713223248739288,3
+saut 1,ETTh2-6,oracle,1.711705128312591,1
+saut 1,ETTh2-7,jamais,2.008195114708152,0
+saut 1,ETTh2-7,tous les 56 j,2.07533480800037,1
+saut 1,ETTh2-7,tous les 28 j,1.694229106891948,3
+saut 1,ETTh2-7,tous les 14 j,1.4454368287262593,7
+saut 1,ETTh2-7,tous les 7 j,1.3911777603336062,15
+saut 1,ETTh2-7,sur alerte (h=20),1.4254330857649562,4
+saut 1,ETTh2-7,sur alerte (h=50),1.6538324277872387,4
+saut 1,ETTh2-7,sur alerte (h=100),1.5427441561387214,3
+saut 1,ETTh2-7,sur alerte (h=200),1.755101294620958,2
+saut 1,ETTh2-7,oracle,2.573126647580207,1
+saut 1,ETTh2-8,jamais,1.307795985032836,0
+saut 1,ETTh2-8,tous les 56 j,1.330266657994655,1
+saut 1,ETTh2-8,tous les 28 j,1.3923913580893565,3
+saut 1,ETTh2-8,tous les 14 j,1.2090549227549698,7
+saut 1,ETTh2-8,tous les 7 j,1.1319472785213784,15
+saut 1,ETTh2-8,sur alerte (h=20),1.2136206505106746,4
+saut 1,ETTh2-8,sur alerte (h=50),1.2285865684034798,3
+saut 1,ETTh2-8,sur alerte (h=100),1.3485834296137973,3
+saut 1,ETTh2-8,sur alerte (h=200),1.2383306733776804,3
+saut 1,ETTh2-8,oracle,1.3632730656472254,1
+saut 3,ETTh1-0,jamais,5.212406588271064,0
+saut 3,ETTh1-0,tous les 56 j,3.1741754930463992,1
+saut 3,ETTh1-0,tous les 28 j,3.3506655233188485,3
+saut 3,ETTh1-0,tous les 14 j,2.217701224852565,7
+saut 3,ETTh1-0,tous les 7 j,1.7228461697292694,15
+saut 3,ETTh1-0,sur alerte (h=20),2.351518310766055,4
+saut 3,ETTh1-0,sur alerte (h=50),2.6732499683728803,4
+saut 3,ETTh1-0,sur alerte (h=100),3.6503657462627026,3
+saut 3,ETTh1-0,sur alerte (h=200),2.2503971572720016,2
+saut 3,ETTh1-0,oracle,2.4117915178435445,1
+saut 3,ETTh1-1,jamais,3.7410348924293935,0
+saut 3,ETTh1-1,tous les 56 j,3.3014142136443456,1
+saut 3,ETTh1-1,tous les 28 j,2.1626005608759913,3
+saut 3,ETTh1-1,tous les 14 j,2.114268452018251,7
+saut 3,ETTh1-1,tous les 7 j,1.7979447949239862,15
+saut 3,ETTh1-1,sur alerte (h=20),2.019138496617449,4
+saut 3,ETTh1-1,sur alerte (h=50),2.3940006244608556,3
+saut 3,ETTh1-1,sur alerte (h=100),2.139537324664482,2
+saut 3,ETTh1-1,sur alerte (h=200),2.6921898892596694,1
+saut 3,ETTh1-1,oracle,5.0828163538398545,1
+saut 3,ETTh1-2,jamais,2.696258297048568,0
+saut 3,ETTh1-2,tous les 56 j,1.2148556955483027,1
+saut 3,ETTh1-2,tous les 28 j,1.1731163513571754,3
+saut 3,ETTh1-2,tous les 14 j,1.0867218227951185,7
+saut 3,ETTh1-2,tous les 7 j,0.9019578937404357,15
+saut 3,ETTh1-2,sur alerte (h=20),1.2400338065425653,3
+saut 3,ETTh1-2,sur alerte (h=50),1.2799440315373078,3
+saut 3,ETTh1-2,sur alerte (h=100),1.4135476249655203,2
+saut 3,ETTh1-2,sur alerte (h=200),1.4116215984565663,2
+saut 3,ETTh1-2,oracle,1.473332719673259,1
+saut 3,ETTh1-3,jamais,6.388822987199,0
+saut 3,ETTh1-3,tous les 56 j,3.304974149330207,1
+saut 3,ETTh1-3,tous les 28 j,2.28066830668547,3
+saut 3,ETTh1-3,tous les 14 j,1.818173763552261,7
+saut 3,ETTh1-3,tous les 7 j,1.501221438367677,15
+saut 3,ETTh1-3,sur alerte (h=20),2.0766343332384114,4
+saut 3,ETTh1-3,sur alerte (h=50),2.3306595653668474,3
+saut 3,ETTh1-3,sur alerte (h=100),2.109763236516392,3
+saut 3,ETTh1-3,sur alerte (h=200),2.303724198240464,3
+saut 3,ETTh1-3,oracle,4.607861073452519,1
+saut 3,ETTh1-4,jamais,0.822856149405445,0
+saut 3,ETTh1-4,tous les 56 j,0.6944562636502654,1
+saut 3,ETTh1-4,tous les 28 j,0.9380234500148311,3
+saut 3,ETTh1-4,tous les 14 j,1.0225194468531025,7
+saut 3,ETTh1-4,tous les 7 j,0.9065834737337627,15
+saut 3,ETTh1-4,sur alerte (h=20),1.00712732197721,4
+saut 3,ETTh1-4,sur alerte (h=50),1.0446809273650142,4
+saut 3,ETTh1-4,sur alerte (h=100),1.4439973631545953,1
+saut 3,ETTh1-4,sur alerte (h=200),1.4439973631545953,1
+saut 3,ETTh1-4,oracle,0.904505630384611,1
+saut 3,ETTh1-5,jamais,6.464668717666439,0
+saut 3,ETTh1-5,tous les 56 j,2.1408652220896776,1
+saut 3,ETTh1-5,tous les 28 j,1.7538539834195421,3
+saut 3,ETTh1-5,tous les 14 j,1.5173771457901162,7
+saut 3,ETTh1-5,tous les 7 j,1.30292865638237,15
+saut 3,ETTh1-5,sur alerte (h=20),1.7474977249087091,3
+saut 3,ETTh1-5,sur alerte (h=50),2.0802967889583,3
+saut 3,ETTh1-5,sur alerte (h=100),2.4615685342233715,3
+saut 3,ETTh1-5,sur alerte (h=200),2.599432843511649,2
+saut 3,ETTh1-5,oracle,2.0402263236396103,1
+saut 3,ETTh1-6,jamais,2.0959257327224363,0
+saut 3,ETTh1-6,tous les 56 j,2.5466817118880676,1
+saut 3,ETTh1-6,tous les 28 j,2.1666523380405582,3
+saut 3,ETTh1-6,tous les 14 j,1.887726180656915,7
+saut 3,ETTh1-6,tous les 7 j,1.663524874726665,15
+saut 3,ETTh1-6,sur alerte (h=20),2.1363115750491395,4
+saut 3,ETTh1-6,sur alerte (h=50),2.1125993087859336,3
+saut 3,ETTh1-6,sur alerte (h=100),3.566936028841727,2
+saut 3,ETTh1-6,sur alerte (h=200),2.048089138272132,3
+saut 3,ETTh1-6,oracle,2.9732357036800896,1
+saut 3,ETTh1-7,jamais,1.7953800023545707,0
+saut 3,ETTh1-7,tous les 56 j,1.8611975796921272,1
+saut 3,ETTh1-7,tous les 28 j,1.5341560305167758,3
+saut 3,ETTh1-7,tous les 14 j,1.6095705806146963,7
+saut 3,ETTh1-7,tous les 7 j,1.5321630212161312,15
+saut 3,ETTh1-7,sur alerte (h=20),1.6390313934180343,4
+saut 3,ETTh1-7,sur alerte (h=50),1.6484895661263719,3
+saut 3,ETTh1-7,sur alerte (h=100),1.9857236993858203,2
+saut 3,ETTh1-7,sur alerte (h=200),1.8428080614833462,1
+saut 3,ETTh1-7,oracle,1.9013612564923312,1
+saut 3,ETTh1-8,jamais,5.69373116257164,0
+saut 3,ETTh1-8,tous les 56 j,2.9276676607869057,1
+saut 3,ETTh1-8,tous les 28 j,2.9739361889008142,3
+saut 3,ETTh1-8,tous les 14 j,2.3643273659985997,7
+saut 3,ETTh1-8,tous les 7 j,1.982399574217689,15
+saut 3,ETTh1-8,sur alerte (h=20),2.087949491997827,4
+saut 3,ETTh1-8,sur alerte (h=50),2.898635092890587,3
+saut 3,ETTh1-8,sur alerte (h=100),3.2736685070694884,2
+saut 3,ETTh1-8,sur alerte (h=200),3.182554531690836,2
+saut 3,ETTh1-8,oracle,3.603836333238891,1
+saut 3,ETTh2-0,jamais,0.7197413662171243,0
+saut 3,ETTh2-0,tous les 56 j,1.1757731014070067,1
+saut 3,ETTh2-0,tous les 28 j,1.4362387959114626,3
+saut 3,ETTh2-0,tous les 14 j,1.264503062008099,7
+saut 3,ETTh2-0,tous les 7 j,1.13711304078909,15
+saut 3,ETTh2-0,sur alerte (h=20),1.2516874450767606,4
+saut 3,ETTh2-0,sur alerte (h=50),1.2233849078595143,3
+saut 3,ETTh2-0,sur alerte (h=100),1.3080978033327673,3
+saut 3,ETTh2-0,sur alerte (h=200),1.5224543053705484,3
+saut 3,ETTh2-0,oracle,1.238152388248702,1
+saut 3,ETTh2-1,jamais,4.35357634696367,0
+saut 3,ETTh2-1,tous les 56 j,3.188327936792293,1
+saut 3,ETTh2-1,tous les 28 j,2.5615135587730955,3
+saut 3,ETTh2-1,tous les 14 j,1.7557926710039617,7
+saut 3,ETTh2-1,tous les 7 j,1.5434189735676063,15
+saut 3,ETTh2-1,sur alerte (h=20),2.816764470074584,3
+saut 3,ETTh2-1,sur alerte (h=50),2.6264826370925527,3
+saut 3,ETTh2-1,sur alerte (h=100),2.6503379008351513,3
+saut 3,ETTh2-1,sur alerte (h=200),2.9909522284337617,3
+saut 3,ETTh2-1,oracle,2.709776902768815,1
+saut 3,ETTh2-2,jamais,7.064819663645985,0
+saut 3,ETTh2-2,tous les 56 j,5.783958557488267,1
+saut 3,ETTh2-2,tous les 28 j,4.018207497093682,3
+saut 3,ETTh2-2,tous les 14 j,2.8440143479426516,7
+saut 3,ETTh2-2,tous les 7 j,2.340925468096056,15
+saut 3,ETTh2-2,sur alerte (h=20),3.114265410920236,4
+saut 3,ETTh2-2,sur alerte (h=50),3.4330579432998753,3
+saut 3,ETTh2-2,sur alerte (h=100),3.875790369026806,2
+saut 3,ETTh2-2,sur alerte (h=200),3.058331557731374,3
+saut 3,ETTh2-2,oracle,8.298444775367345,1
+saut 3,ETTh2-3,jamais,1.1112747242043375,0
+saut 3,ETTh2-3,tous les 56 j,0.9349117702531787,1
+saut 3,ETTh2-3,tous les 28 j,1.032545688855605,3
+saut 3,ETTh2-3,tous les 14 j,1.1476238768568927,7
+saut 3,ETTh2-3,tous les 7 j,1.0632616319801953,15
+saut 3,ETTh2-3,sur alerte (h=20),1.1119152696686951,4
+saut 3,ETTh2-3,sur alerte (h=50),1.1284901879242053,3
+saut 3,ETTh2-3,sur alerte (h=100),1.3754569454379157,1
+saut 3,ETTh2-3,sur alerte (h=200),1.3754569454379157,1
+saut 3,ETTh2-3,oracle,1.1774046502221236,1
+saut 3,ETTh2-4,jamais,7.254622512417222,0
+saut 3,ETTh2-4,tous les 56 j,3.1786180656463756,1
+saut 3,ETTh2-4,tous les 28 j,2.4216142437852515,3
+saut 3,ETTh2-4,tous les 14 j,1.9327360251897365,7
+saut 3,ETTh2-4,tous les 7 j,1.4870181352092016,15
+saut 3,ETTh2-4,sur alerte (h=20),2.058668612047136,4
+saut 3,ETTh2-4,sur alerte (h=50),2.118878253507227,3
+saut 3,ETTh2-4,sur alerte (h=100),2.1538998458572975,3
+saut 3,ETTh2-4,sur alerte (h=200),2.392777089026563,2
+saut 3,ETTh2-4,oracle,3.5970198709277907,1
+saut 3,ETTh2-5,jamais,1.7681374492897797,0
+saut 3,ETTh2-5,tous les 56 j,1.145859544925361,1
+saut 3,ETTh2-5,tous les 28 j,1.4650681356238064,3
+saut 3,ETTh2-5,tous les 14 j,1.2973824350933922,7
+saut 3,ETTh2-5,tous les 7 j,1.1910101708994365,15
+saut 3,ETTh2-5,sur alerte (h=20),1.208725577681919,4
+saut 3,ETTh2-5,sur alerte (h=50),1.518850618348911,4
+saut 3,ETTh2-5,sur alerte (h=100),1.6538325045627351,3
+saut 3,ETTh2-5,sur alerte (h=200),1.8963262780776364,3
+saut 3,ETTh2-5,oracle,1.93853784489361,1
+saut 3,ETTh2-6,jamais,4.011851686563019,0
+saut 3,ETTh2-6,tous les 56 j,2.5781508245179663,1
+saut 3,ETTh2-6,tous les 28 j,2.1830984745897175,3
+saut 3,ETTh2-6,tous les 14 j,1.6450388663910527,7
+saut 3,ETTh2-6,tous les 7 j,1.440734663366294,15
+saut 3,ETTh2-6,sur alerte (h=20),2.167574212771296,4
+saut 3,ETTh2-6,sur alerte (h=50),2.0327090411140194,4
+saut 3,ETTh2-6,sur alerte (h=100),1.9893175439039068,4
+saut 3,ETTh2-6,sur alerte (h=200),2.631107300847816,3
+saut 3,ETTh2-6,oracle,2.583793790095581,1
+saut 3,ETTh2-7,jamais,3.674989056306621,0
+saut 3,ETTh2-7,tous les 56 j,2.487023391186636,1
+saut 3,ETTh2-7,tous les 28 j,1.6262649240048546,3
+saut 3,ETTh2-7,tous les 14 j,1.8750900620641429,7
+saut 3,ETTh2-7,tous les 7 j,1.651394099030767,15
+saut 3,ETTh2-7,sur alerte (h=20),1.7836739763500338,4
+saut 3,ETTh2-7,sur alerte (h=50),1.9541609709364802,3
+saut 3,ETTh2-7,sur alerte (h=100),1.9014668564221278,3
+saut 3,ETTh2-7,sur alerte (h=200),2.211805443126881,2
+saut 3,ETTh2-7,oracle,3.1045558642024598,1
+saut 3,ETTh2-8,jamais,1.621286907973885,0
+saut 3,ETTh2-8,tous les 56 j,1.3866354607138605,1
+saut 3,ETTh2-8,tous les 28 j,1.2887329326722474,3
+saut 3,ETTh2-8,tous les 14 j,1.345879690360905,7
+saut 3,ETTh2-8,tous les 7 j,1.216963309541918,15
+saut 3,ETTh2-8,sur alerte (h=20),1.3819585760640574,4
+saut 3,ETTh2-8,sur alerte (h=50),1.4201060573506765,3
+saut 3,ETTh2-8,sur alerte (h=100),1.427256954736245,3
+saut 3,ETTh2-8,sur alerte (h=200),1.5654272802654512,3
+saut 3,ETTh2-8,oracle,1.3956418971871158,1
+relation 3,ETTh1-0,jamais,4.18317369081663,0
+relation 3,ETTh1-0,tous les 56 j,2.133971406162044,1
+relation 3,ETTh1-0,tous les 28 j,2.6451257963705572,3
+relation 3,ETTh1-0,tous les 14 j,1.8741810766127371,7
+relation 3,ETTh1-0,tous les 7 j,1.5581836997007483,15
+relation 3,ETTh1-0,sur alerte (h=20),1.9756862439624472,4
+relation 3,ETTh1-0,sur alerte (h=50),2.4559256319498495,3
+relation 3,ETTh1-0,sur alerte (h=100),2.05184449982905,2
+relation 3,ETTh1-0,sur alerte (h=200),2.21815655960032,2
+relation 3,ETTh1-0,oracle,2.530849764982099,1
+relation 3,ETTh1-1,jamais,3.664219801965458,0
+relation 3,ETTh1-1,tous les 56 j,2.828060584587571,1
+relation 3,ETTh1-1,tous les 28 j,2.0761547816158923,3
+relation 3,ETTh1-1,tous les 14 j,2.074824016521933,7
+relation 3,ETTh1-1,tous les 7 j,1.8184410513984492,15
+relation 3,ETTh1-1,sur alerte (h=20),2.270909686675619,3
+relation 3,ETTh1-1,sur alerte (h=50),2.3331012829898192,3
+relation 3,ETTh1-1,sur alerte (h=100),3.306895266731312,1
+relation 3,ETTh1-1,sur alerte (h=200),3.3258081836405866,1
+relation 3,ETTh1-1,oracle,4.190864969241714,1
+relation 3,ETTh1-2,jamais,2.393367858655849,0
+relation 3,ETTh1-2,tous les 56 j,1.7254624766685493,1
+relation 3,ETTh1-2,tous les 28 j,1.3296510907496961,3
+relation 3,ETTh1-2,tous les 14 j,1.0819878044046989,7
+relation 3,ETTh1-2,tous les 7 j,0.947170505710835,15
+relation 3,ETTh1-2,sur alerte (h=20),1.4462544154718546,2
+relation 3,ETTh1-2,sur alerte (h=50),1.7780326068521184,1
+relation 3,ETTh1-2,sur alerte (h=100),1.3477337629209252,2
+relation 3,ETTh1-2,sur alerte (h=200),1.7320386538216248,1
+relation 3,ETTh1-2,oracle,1.941578976607022,1
+relation 3,ETTh1-3,jamais,3.582405280136101,0
+relation 3,ETTh1-3,tous les 56 j,2.3435155121493634,1
+relation 3,ETTh1-3,tous les 28 j,1.6339837329924527,3
+relation 3,ETTh1-3,tous les 14 j,1.309981206795519,7
+relation 3,ETTh1-3,tous les 7 j,1.1451603436701612,15
+relation 3,ETTh1-3,sur alerte (h=20),1.5673369921778653,3
+relation 3,ETTh1-3,sur alerte (h=50),1.3122442000765608,3
+relation 3,ETTh1-3,sur alerte (h=100),1.3221516459092053,3
+relation 3,ETTh1-3,sur alerte (h=200),1.4667265245593186,3
+relation 3,ETTh1-3,oracle,2.637945765628185,1
+relation 3,ETTh1-4,jamais,2.6447803918263597,0
+relation 3,ETTh1-4,tous les 56 j,2.094777114283637,1
+relation 3,ETTh1-4,tous les 28 j,1.3649157294915262,3
+relation 3,ETTh1-4,tous les 14 j,1.1343730732222408,7
+relation 3,ETTh1-4,tous les 7 j,1.0007500834276835,15
+relation 3,ETTh1-4,sur alerte (h=20),2.045041920287348,1
+relation 3,ETTh1-4,sur alerte (h=50),2.045041920287348,1
+relation 3,ETTh1-4,sur alerte (h=100),2.045041920287348,1
+relation 3,ETTh1-4,sur alerte (h=200),2.045041920287348,1
+relation 3,ETTh1-4,oracle,1.7618870615631952,1
+relation 3,ETTh1-5,jamais,6.047466252202791,0
+relation 3,ETTh1-5,tous les 56 j,2.249503727039781,1
+relation 3,ETTh1-5,tous les 28 j,1.7581011948779355,3
+relation 3,ETTh1-5,tous les 14 j,1.576047791402858,7
+relation 3,ETTh1-5,tous les 7 j,1.3664689013708349,15
+relation 3,ETTh1-5,sur alerte (h=20),2.4939361802786757,3
+relation 3,ETTh1-5,sur alerte (h=50),2.5020376820966486,3
+relation 3,ETTh1-5,sur alerte (h=100),2.6211585243302764,2
+relation 3,ETTh1-5,sur alerte (h=200),3.7610868346021946,2
+relation 3,ETTh1-5,oracle,2.54964015150051,1
+relation 3,ETTh1-6,jamais,2.6606053435583528,0
+relation 3,ETTh1-6,tous les 56 j,2.2356342822959396,1
+relation 3,ETTh1-6,tous les 28 j,2.0553262726050083,3
+relation 3,ETTh1-6,tous les 14 j,1.8471981371045556,7
+relation 3,ETTh1-6,tous les 7 j,1.622921404958491,15
+relation 3,ETTh1-6,sur alerte (h=20),2.033907329883972,4
+relation 3,ETTh1-6,sur alerte (h=50),2.8786518836564703,2
+relation 3,ETTh1-6,sur alerte (h=100),3.011387717407329,2
+relation 3,ETTh1-6,sur alerte (h=200),2.2181778316618184,1
+relation 3,ETTh1-6,oracle,2.582793298403531,1
+relation 3,ETTh1-7,jamais,3.2101064528905856,0
+relation 3,ETTh1-7,tous les 56 j,2.346718716626669,1
+relation 3,ETTh1-7,tous les 28 j,2.02120408705569,3
+relation 3,ETTh1-7,tous les 14 j,1.6408788418785574,7
+relation 3,ETTh1-7,tous les 7 j,1.5825418998320442,15
+relation 3,ETTh1-7,sur alerte (h=20),1.9699810027901525,4
+relation 3,ETTh1-7,sur alerte (h=50),1.9099859441791598,3
+relation 3,ETTh1-7,sur alerte (h=100),1.9194145867146084,3
+relation 3,ETTh1-7,sur alerte (h=200),2.2263870939509274,1
+relation 3,ETTh1-7,oracle,2.899958196684049,1
+relation 3,ETTh1-8,jamais,3.6580113015111198,0
+relation 3,ETTh1-8,tous les 56 j,2.3746197639820483,1
+relation 3,ETTh1-8,tous les 28 j,2.4222955105361272,3
+relation 3,ETTh1-8,tous les 14 j,2.2745022451746193,7
+relation 3,ETTh1-8,tous les 7 j,1.9642352588509906,15
+relation 3,ETTh1-8,sur alerte (h=20),2.0524698360034983,4
+relation 3,ETTh1-8,sur alerte (h=50),2.1057745476327017,3
+relation 3,ETTh1-8,sur alerte (h=100),3.4317172430859832,1
+relation 3,ETTh1-8,sur alerte (h=200),2.1153109406638984,2
+relation 3,ETTh1-8,oracle,2.6176070695990883,1
+relation 3,ETTh2-0,jamais,3.6139070349698525,0
+relation 3,ETTh2-0,tous les 56 j,1.6409036009165157,1
+relation 3,ETTh2-0,tous les 28 j,0.8966550854526502,3
+relation 3,ETTh2-0,tous les 14 j,0.8560917887335898,7
+relation 3,ETTh2-0,tous les 7 j,0.7933097142557846,15
+relation 3,ETTh2-0,sur alerte (h=20),1.2392550942789335,3
+relation 3,ETTh2-0,sur alerte (h=50),1.4347101272166558,1
+relation 3,ETTh2-0,sur alerte (h=100),1.4347101272166558,1
+relation 3,ETTh2-0,sur alerte (h=200),1.4347101272166558,1
+relation 3,ETTh2-0,oracle,1.2045686708009573,1
+relation 3,ETTh2-1,jamais,4.980961857962667,0
+relation 3,ETTh2-1,tous les 56 j,4.677543114827559,1
+relation 3,ETTh2-1,tous les 28 j,3.3015785091343717,3
+relation 3,ETTh2-1,tous les 14 j,2.3529701293526415,7
+relation 3,ETTh2-1,tous les 7 j,2.099903901268758,15
+relation 3,ETTh2-1,sur alerte (h=20),2.944666308553842,3
+relation 3,ETTh2-1,sur alerte (h=50),2.611260180708351,3
+relation 3,ETTh2-1,sur alerte (h=100),3.501996257686832,2
+relation 3,ETTh2-1,sur alerte (h=200),3.6201476976072238,3
+relation 3,ETTh2-1,oracle,4.484016613849069,1
+relation 3,ETTh2-2,jamais,4.191571171719524,0
+relation 3,ETTh2-2,tous les 56 j,3.900250392224011,1
+relation 3,ETTh2-2,tous les 28 j,3.1703475249023865,3
+relation 3,ETTh2-2,tous les 14 j,2.5357427162474435,7
+relation 3,ETTh2-2,tous les 7 j,2.179738319836923,15
+relation 3,ETTh2-2,sur alerte (h=20),2.8710400674894903,3
+relation 3,ETTh2-2,sur alerte (h=50),3.3140398521058616,3
+relation 3,ETTh2-2,sur alerte (h=100),2.6782521921699747,3
+relation 3,ETTh2-2,sur alerte (h=200),3.8672390167113373,1
+relation 3,ETTh2-2,oracle,5.785652377538153,1
+relation 3,ETTh2-3,jamais,6.972250746860301,0
+relation 3,ETTh2-3,tous les 56 j,3.446889505702869,1
+relation 3,ETTh2-3,tous les 28 j,2.4175513093671124,3
+relation 3,ETTh2-3,tous les 14 j,1.9134225161112373,7
+relation 3,ETTh2-3,tous les 7 j,1.671443385021866,15
+relation 3,ETTh2-3,sur alerte (h=20),2.4771543428772658,4
+relation 3,ETTh2-3,sur alerte (h=50),2.922081869670328,3
+relation 3,ETTh2-3,sur alerte (h=100),2.9371174782842298,3
+relation 3,ETTh2-3,sur alerte (h=200),3.144447094498415,3
+relation 3,ETTh2-3,oracle,4.248847810793604,1
+relation 3,ETTh2-4,jamais,5.58383868481171,0
+relation 3,ETTh2-4,tous les 56 j,3.63079565358187,1
+relation 3,ETTh2-4,tous les 28 j,2.0000124302214153,3
+relation 3,ETTh2-4,tous les 14 j,1.7990036882701996,7
+relation 3,ETTh2-4,tous les 7 j,1.3700054288971293,15
+relation 3,ETTh2-4,sur alerte (h=20),1.4499879542834573,4
+relation 3,ETTh2-4,sur alerte (h=50),1.6312981673012747,3
+relation 3,ETTh2-4,sur alerte (h=100),1.7814588525909898,3
+relation 3,ETTh2-4,sur alerte (h=200),1.9221455721306935,2
+relation 3,ETTh2-4,oracle,4.0134371669722695,1
+relation 3,ETTh2-5,jamais,3.4548336050955037,0
+relation 3,ETTh2-5,tous les 56 j,1.9270722028633347,1
+relation 3,ETTh2-5,tous les 28 j,2.2403073630796295,3
+relation 3,ETTh2-5,tous les 14 j,1.9054867298412208,7
+relation 3,ETTh2-5,tous les 7 j,1.6204078341259256,15
+relation 3,ETTh2-5,sur alerte (h=20),2.0308617139532856,4
+relation 3,ETTh2-5,sur alerte (h=50),2.269801160621107,4
+relation 3,ETTh2-5,sur alerte (h=100),2.4946444362917486,3
+relation 3,ETTh2-5,sur alerte (h=200),2.7558839276996117,3
+relation 3,ETTh2-5,oracle,4.307861432667398,1
+relation 3,ETTh2-6,jamais,4.322248275137091,0
+relation 3,ETTh2-6,tous les 56 j,2.914908911550517,1
+relation 3,ETTh2-6,tous les 28 j,2.755586736623475,3
+relation 3,ETTh2-6,tous les 14 j,2.462421384887946,7
+relation 3,ETTh2-6,tous les 7 j,2.2338751963616996,15
+relation 3,ETTh2-6,sur alerte (h=20),3.380106130337533,3
+relation 3,ETTh2-6,sur alerte (h=50),2.931228706178716,3
+relation 3,ETTh2-6,sur alerte (h=100),3.199468821452235,3
+relation 3,ETTh2-6,sur alerte (h=200),3.1024705704411075,2
+relation 3,ETTh2-6,oracle,4.239970246964649,1
+relation 3,ETTh2-7,jamais,3.5449022639817795,0
+relation 3,ETTh2-7,tous les 56 j,3.0040988860223212,1
+relation 3,ETTh2-7,tous les 28 j,2.8553325783705152,3
+relation 3,ETTh2-7,tous les 14 j,2.1943990514729808,7
+relation 3,ETTh2-7,tous les 7 j,1.8759423262927146,15
+relation 3,ETTh2-7,sur alerte (h=20),3.180842002876932,2
+relation 3,ETTh2-7,sur alerte (h=50),3.700852193420071,2
+relation 3,ETTh2-7,sur alerte (h=100),3.7388473127794075,2
+relation 3,ETTh2-7,sur alerte (h=200),3.8327672194357296,1
+relation 3,ETTh2-7,oracle,2.6840010509977503,1
+relation 3,ETTh2-8,jamais,6.444968282266434,0
+relation 3,ETTh2-8,tous les 56 j,2.7056666916145935,1
+relation 3,ETTh2-8,tous les 28 j,2.637957649549436,3
+relation 3,ETTh2-8,tous les 14 j,2.259621388617442,7
+relation 3,ETTh2-8,tous les 7 j,1.9079407772771786,15
+relation 3,ETTh2-8,sur alerte (h=20),2.74540096540189,3
+relation 3,ETTh2-8,sur alerte (h=50),3.4225676662549622,3
+relation 3,ETTh2-8,sur alerte (h=100),3.935753650839476,3
+relation 3,ETTh2-8,sur alerte (h=200),6.547668075732733,1
+relation 3,ETTh2-8,oracle,3.1979125851631043,1

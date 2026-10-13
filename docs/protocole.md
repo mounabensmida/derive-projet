@@ -193,3 +193,23 @@ sur les délais. Seuil 0,01 (5 comparaisons).
 Données synthétiques ; un seul type de réseau (8 neurones cachés, scikit-learn) ;
 calibration sur 50 séries (CUSUM : 6 % calibré, environ 16 % mesuré) ; dérive "forme"
 confondue avec une perte de mémoire ; bruit modifié via la taille relative du saut.
+
+
+## 21. Données réelles (v5)
+Jeu ETT (ETTh1, ETTh2), 17 420 h chacun. Fenêtres de 3 360 h. Passé (calibration) : débuts 0 à 3 360 pas 840.
+Futur (test) : débuts 6 720 à 14 000 pas 840. Aucune fenêtre du passé ne chevauche une fenêtre du futur.
+
+## 22. Dérives injectées
+5 types, tailles en écarts-types de la série (2, 4, 6) ; forme = résidus mélangés. Détection propre, zone t >= 1344.
+
+## 23. Calibration réelle
+Cible 20 % de fenêtres avec alerte entre 1344 et 1680 (15 fenêtres du passé).
+
+## 24. Test de réentraînement
+Modèle Ridge (6 charges + heure), cible OT. Entraînement 0-672, réentraînement sur 672 h, attente 168 h après une alerte.
+Stratégies : jamais / tous les 56, 28, 14, 7 j / sur alerte (CUSUM h = 20, 50, 100, 200) / oracle.
+Score : erreur moyenne après t0 / erreur normale ; nombre de réentraînements. Bootstrap sur 18 fenêtres.
+
+## 25. Limites (v5)
+Fenêtres chevauchantes ; calibration sur 15 fenêtres ; coût de réentraînement non modélisé ; modèle linéaire ;
+dérive 'forme' fabriquée ; réentraînement évalué sur ETTh1 + ETTh2, détection sur ETTh1.

@@ -1,0 +1,84 @@
+C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet>python notebooks/bench_semaine4.py 3
+Réglages relus depuis reglages_semaine4.json (supprimez ce fichier pour recalibrer)
+Réglages : {'CUSUM': 20, 'Page-Hinkley': 20, 'KS': 1e-05, 'Mann-Whitney': 1e-05, 'Autoencodeur': 1.5, 'Sans réseau (contrôle)': 1.5}
+144 séries à traiter (3 par case), 1 cœur(s)
+Traceback (most recent call last):
+  File "C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet\notebooks\bench_semaine4.py", line 88, in <module>
+    lignes += travailler(t)
+              ^^^^^^^^^^^^^
+  File "C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet\notebooks\bench_semaine4.py", line 51, in travailler
+    alertes = garder_zone(f(x, reglages[nom]))
+                          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet\src\methodes.py", line 15, in <lambda>
+    "Autoencodeur":           (lambda x, r: alertes_reseau(x, r, True), GRILLE_MARGE),
+                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet\src\detecteur_reseau.py", line 50, in alertes_reseau
+    sc = scores(x, avec_reseau)
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet\src\detecteur_reseau.py", line 38, in scores
+    Xtout = fenetres(z, FEN, len(z))
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet\src\detecteur_reseau.py", line 15, in fenetres
+    return np.array([z[t - FEN:t] for t in range(debut, fin)])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+^C
+C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet>python notebooks/bench_semaine4.py 3
+Réglages relus depuis reglages_semaine4.json (supprimez ce fichier pour recalibrer)
+Réglages : {'CUSUM': 20, 'Page-Hinkley': 20, 'KS': 1e-05, 'Mann-Whitney': 1e-05, 'Autoencodeur': 1.5, 'Sans réseau (contrôle)': 1.5}
+144 séries à traiter (3 par case), 1 cœur(s)
+  100/144  (54 s)
+Terminé : resultats_semaine4.csv (864 lignes) en 78 s
+
+C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet>python notebooks/bench_semaine4.py 10
+Réglages relus depuis reglages_semaine4.json (supprimez ce fichier pour recalibrer)
+Réglages : {'CUSUM': 20, 'Page-Hinkley': 20, 'KS': 1e-05, 'Mann-Whitney': 1e-05, 'Autoencodeur': 1.5, 'Sans réseau (contrôle)': 1.5}
+480 séries à traiter (10 par case), 1 cœur(s)
+  100/480  (50 s)
+  200/480  (100 s)
+  300/480  (151 s)
+  400/480  (201 s)
+Terminé : resultats_semaine4.csv (2880 lignes) en 241 s
+
+C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet>python notebooks/bench_semaine4.py 30
+Réglages relus depuis reglages_semaine4.json (supprimez ce fichier pour recalibrer)
+Réglages : {'CUSUM': 20, 'Page-Hinkley': 20, 'KS': 1e-05, 'Mann-Whitney': 1e-05, 'Autoencodeur': 1.5, 'Sans réseau (contrôle)': 1.5}
+1440 séries à traiter (30 par case), 1 cœur(s)
+  100/1440  (53 s)
+  200/1440  (106 s)
+  300/1440  (161 s)
+  400/1440  (211 s)
+  500/1440  (261 s)
+  600/1440  (311 s)
+  700/1440  (361 s)
+  800/1440  (410 s)
+  900/1440  (460 s)
+  1000/1440  (509 s)
+  1100/1440  (558 s)
+  1200/1440  (607 s)
+  1300/1440  (657 s)
+  1400/1440  (707 s)
+Terminé : resultats_semaine4.csv (8640 lignes) en 727 s
+
+C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet>python notebooks/bench_semaine4.py 30 2
+Réglages relus depuis reglages_semaine4.json (supprimez ce fichier pour recalibrer)
+Réglages : {'CUSUM': 20, 'Page-Hinkley': 20, 'KS': 1e-05, 'Mann-Whitney': 1e-05, 'Autoencodeur': 1.5, 'Sans réseau (contrôle)': 1.5}
+1440 séries à traiter (30 par case), 2 cœur(s)
+  100/1440  (28 s)
+  200/1440  (53 s)
+  300/1440  (80 s)
+  400/1440  (105 s)
+  500/1440  (132 s)
+  600/1440  (157 s)
+  700/1440  (184 s)
+  800/1440  (210 s)
+  900/1440  (237 s)
+  1000/1440  (263 s)
+  1100/1440  (290 s)
+  1200/1440  (316 s)
+  1300/1440  (343 s)
+  1400/1440  (370 s)
+Terminé : resultats_semaine4.csv (8640 lignes) en 381 s
+
+C:\Users\Ce pc\Desktop\projet 3 eme\derive-projet>
+
