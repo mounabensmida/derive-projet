@@ -6,3 +6,4 @@ river
 pytest
 torch
 scikit-learn
+streamlit
